@@ -34,3 +34,10 @@ that any contributions made to the system will become the
 property of the community. We expect citizens of the CCARPS
 community to conduct themselves in a respectful manner.
 
+Notes
+-----
+The font for the Character Sheet is found here:
+http://www.dafont.com/anim-ace.font
+
+It is free for non-commercial use only. Perhaps we should
+think about finding a different font?
