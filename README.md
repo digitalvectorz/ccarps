@@ -19,6 +19,6 @@ http://www.dafont.com/anim-ace.font
 
 It is free for non-commercial use only. Perhaps we should think about finding a different font?
 
-![CC-BY](http://i.creativecommons.org/l/by/3.0/88x31.png "Creative Commons, attribution-only license.")
+![CC-BY](http://i.creativecommons.org/l/by/3.0/88x31.png "Creative Commons, attribution, share-alike license.")
 
-CCARPS by [WizardSpire/Village Folk Games](http://ccarps.wizardspire.com) is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/deed.en_US).
+CCARPS by [WizardSpire/Village Folk Games](http://ccarps.wizardspire.com) is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US).
