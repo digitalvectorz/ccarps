@@ -12,6 +12,9 @@ It is our belief that role playing systems should be free from restriction in us
 
 The goal for the Creative Commons Adaptive Role Play System is to provide an open framework for building role-playing games. As such, the rules here will berather sparse . it is a framework in which you can build your own system, to cater to the style of game you want to play. The key difference between CCARPS and other role play systems is the license. Our intent is to create a role play system that is owned and maintained by the community that uses it. Therefore, we want you to understand that any contributions made to the system will become the property of the community. We expect citizens of the CCARPS community to conduct themselves in a respectful manner.
 
+Join in on the discussion! We've got threads on [WizardSpire](http://wizardspire.com/viewforum.php?id=3)
+
+
 Notes
 -----
 The font for the Character Sheet is found here:
