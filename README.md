@@ -1,7 +1,7 @@
 # Creative Commons Adaptive Role Play System #
 
 ## What is it? ##
-CCARPS is an open source, Creative Commons-licensed roleplay system that is legal to be included in commercial works, provided you credit the authors, WizardSpire/Village Folk Games.
+CCARPS is an open source, Creative Commons-licensed roleplay system that is legal to be included in commercial works, provided you credit the authors, WizardSpire.
 
 ## Philosophy ##
 It is our belief that role playing systems should be free from restriction in use and manner of play. Role playing is a community event that requires community action so it is our intention to create, collect, and maintain the rules in a fashion consistent with the needs and desires of the community that uses it.
