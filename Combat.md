@@ -1,5 +1,4 @@
-Combat
-======
+# Combat #
 The act of combat is represented as a series of skill tests. The attacker makes a success test against the related skill or attribute plus any attack modifiers. On success, the attacker rolls for damage, and stages up the damage using the difference between the target number and the damage roll to push the damage level higher. Finally, the defender gets an opportunity to block, dodge, or parry the attack by making a success test against his or her reaction, plus any related skill modifiers, plus any defensive modifiers from armor and stages the damage down using the difference between the target number and the defense roll to push the damage down.
 
 Combat Sequence:
