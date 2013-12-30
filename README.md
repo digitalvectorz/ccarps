@@ -19,7 +19,5 @@ Notes
 -----
 The font used on the Character Sheet is [Berylium](http://www.fontsquirrel.com/fonts/Berylium)
 
-![CC-BY](http://i.creativecommons.org/l/by-sa/3.0/88x31.png "Creative Commons, attribution, share-alike license.")
-
-CCARPS by [WizardSpire/Village Folk Games](http://ccarps.wizardspire.com) is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US). 
+CCARPS is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US). 
 
