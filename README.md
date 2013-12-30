@@ -17,11 +17,7 @@ Join in on the discussion! We've got threads on [WizardSpire](http://wizardspire
 
 Notes
 -----
-The font for the Character Sheet is found here:
-http://www.dafont.com/anim-ace.font
+The font used on the Character Sheet is [Berylium](http://www.fontsquirrel.com/fonts/Berylium)
 
-It is free for non-commercial use only. Perhaps we should think about finding a different font?
+CCARPS is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US). 
 
-![CC-BY](http://i.creativecommons.org/l/by-sa/3.0/88x31.png "Creative Commons, attribution, share-alike license.")
-
-CCARPS by [WizardSpire/Village Folk Games](http://ccarps.wizardspire.com) is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US).
