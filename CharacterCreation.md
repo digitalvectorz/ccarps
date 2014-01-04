@@ -2,7 +2,29 @@
 ## Philosophy of Character Design ##
 It is great to sit down to a game with well written characters and even better when the characters attributes are reflected in the story told about them. Many roleplayers take great pride in designing the characters they play, from the back story to the description of appearance to the attitude and social disposition, they create interesting characters with compelling and intriguing lives. To assist in making those connections between attributes and storyline we have organized the character creation section to take you from the basic details to the final story in that order such that you can incorporate the most important facts about your character from the very beginning. With that said please feel free to explore your character from the ground up beginning with his or her primary attributes.
 
+## Starting Points ##
+There are two options for starting points:
+**Option A**, GM assigns points according to the suggested minimum values below. (This option homogenizes the group and allows for quicker character creation)  
+**Option B**, Players roll dice to determine the starting points. (I find that this method creates more diversity within the group but it will take longer to roll up characters. Use this option when the group has plenty of time to get started. This option works better when the adventure is in progress and a character has died, the player can take all the time he or she needs to build the replacement character.)
+
+* Beginner: roll five sets of d6 according to the age specific table below.(Average See Table)
+* Novice; must be over 21 yrs of age; roll five sets of d6 re-roll all ones (Average of 80 points).
+* Advanced; must be over 21 yrs of age; roll six sets of d6 according to the age specific table (Average of 90 points).
+* Heroic; must be over 21 yrs of age; roll six sets of 5d6 re-roll all ones (Average of 100 points).
+* Epic characters eg. Beowulf, must be over 21 yrs of age; roll eight sets of 5d6 (Average of 130 points ).
+* Legendary characters eg. Hercules, must be over 21 yrs of age; roll ten sets of 5d6 (Average of 150 points).
+
+Age in Years and number of d6 per set:
+* 21+: 5d6 (Average: 75pts)
+* 16-20: 4d6 (Average: 60pts)
+* 11-15: 3d6 (Average: 45pts)
+* 6-10: 2d6 (Average: 30pts)
+* < 6: 1d6 (Average: 15pts)
+
+
 ## Primary Attributes ##
+The primary attributes are based on a Human character. For other races like Elf, Dwarf, Orc, Troll, and Gnome, we will use die modifiers to enhance and detract from the base attributes (see racial modifier table). The number of dice you should roll will be determined by the GM and the difficulty level of the world he or she has created.
+
 There are five primary attributes:
 * STR  = Strength
 * DEX  = Dexterity
@@ -10,21 +32,15 @@ There are five primary attributes:
 * INT  = Intelligence / IQ
 * WILL = Willpower
 
-The primary attributes are based on a Human character for other races like Elf, Dwarf, Orc, Troll, and Gnome will use die modifiers to enhance and detract from the base attributes (see racial modifier table). The number of dice you should roll will be determined by the GM and the difficulty level of the world he or she has created. Once the primary attributes are assigned they cannot be changed, think of them as genetic limits. That is not to say that technology and magical items cannot be used to change them.
-
-Legendary characters, eg. Hercules, must be over 21 yrs of age; roll ten sets of 5d6, sum the five highest rolls (the sum should be >= 120 points), divide the total among the five primary attributes at will.
-
-Epic characters eg. Beowulf, must be over 21 yrs of age; roll six sets of 5d6 sum the five highest rolls ( the sum should be >= 100 points ), divide the total among the five primary attributes at will.
-
-Heroic; roll five sets of d6 according to the age specific attribute table and record them in a list, then assign each roll to an attribute in any order.
-
-Advanced; roll five sets of d6 according to the age specific attribute table, record each roll as it occurs in the attribute of your choice.
-
-Novice; roll five sets of d6 according to the age specific attribute table and record the rolls in each attribute in the order as they appear.  
-roll 1 = STR, roll 2 = DEX, roll 3 = CON, roll 4 = INT, roll 5 = WILL.
+Once the primary attributes are assigned, they cannot be changed. Think of them as genetic limits. That is not to say that technology and magical items cannot be used to change them.
+* Roll 1 = STR
+* Roll 2 = DEX
+* Roll 3 = CON
+* Roll 4 = INT
+* Roll 5 = WILL
 
 ## Secondary Attributes ## 
-
+The secondary attributes are average combinations of the primary attributes. Skills are based on these.
 * Charisma = avg(C,I,W); (CON + INT + WILL) / 3
 * Speed = avg(S,D); (STR + DEX) / 2
 * Reflex = avg(S,D,W); (STR + DEX + WILL) / 3
