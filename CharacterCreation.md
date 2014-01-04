@@ -1,9 +1,9 @@
 # Character Creation #
-## Philosophy of Character Design ##
 It is great to sit down to a game with well written characters and even better when the characters attributes are reflected in the story told about them. Many roleplayers take great pride in designing the characters they play, from the back story to the description of appearance to the attitude and social disposition, they create interesting characters with compelling and intriguing lives. To assist in making those connections between attributes and storyline we have organized the character creation section to take you from the basic details to the final story in that order such that you can incorporate the most important facts about your character from the very beginning. With that said please feel free to explore your character from the ground up beginning with his or her primary attributes.
 
 ## Starting Points ##
-There are two options for starting points:  
+There are two options for starting points:
+
 **Option A**, GM assigns points according to the suggested minimum values below. (This option homogenizes the group and allows for quicker character creation)  
 **Option B**, Players roll dice to determine the starting points. (I find that this method creates more diversity within the group but it will take longer to roll up characters. Use this option when the group has plenty of time to get started. This option works better when the adventure is in progress and a character has died, the player can take all the time he or she needs to build the replacement character.)
 
@@ -15,6 +15,7 @@ There are two options for starting points:
 * **Legendary:** must be over 21 yrs of age; roll ten sets of 5d6 (Average of 150 points).
 
 Age in Years and number of d6 per set:
+
 * 21+: 5d6 (Average: 75pts)
 * 16-20: 4d6 (Average: 60pts)
 * 11-15: 3d6 (Average: 45pts)
@@ -25,6 +26,7 @@ Age in Years and number of d6 per set:
 The primary attributes are based on a Human character. For other races like Elf, Dwarf, Orc, Troll, and Gnome, we will use die modifiers to enhance and detract from the base attributes (see racial modifier table). The number of dice you should roll will be determined by the GM and the difficulty level of the world he or she has created.
 
 There are five primary attributes:
+
 * STR  = Strength
 * DEX  = Dexterity
 * CON  = Constitution
@@ -32,6 +34,7 @@ There are five primary attributes:
 * WILL = Willpower
 
 Once the primary attributes are assigned, they cannot be changed. Think of them as genetic limits. That is not to say that technology and magical items cannot be used to change them.
+
 * Roll 1 = STR
 * Roll 2 = DEX
 * Roll 3 = CON
@@ -43,6 +46,7 @@ At character creation initial character points are equal to the sum total of you
 
 ## Secondary Attributes ##
 The secondary attributes are average combinations of the primary attributes. Skills are based on these.
+
 * Charisma = avg(C,I,W); (CON + INT + WILL) / 3
 * Speed = avg(S,D); (STR + DEX) / 2
 * Reflex = avg(S,D,W); (STR + DEX + WILL) / 3
@@ -62,13 +66,15 @@ These may only be taken at character creation. They are used to gain advantages 
 Wealth and Influence are considered to be Prestige, or Prejudice depending on the extreme to which your character is subject. All characters are required to choose their Wealth and Influence. For average wealth and influence there is no modifier and it can be taken for free. If Wealth and Influence are undefined at character creation they are considered to be average. 
 
 **Wealth** is a measure of a characters accumulation of material value, including things such as property (home, car, horses), finery (cloths, tools, weapons), and currency. Ask the Game Master for currency and/or material value for starting out at a given level. The starting wealth is more a statement of the character's upbringing than the character's current status. The point gain or loss is meant to represent the character's perception of wealth and his or her ability to move in social circles. A person who was raised filthy rich would stand out like a sore thumb on skid row, just as a dirt poor person would at a country club.
+
 * Filthy Rich: 25
 * Upper Class: 15
 * Middle Class: 0
 * Lower Class: -15
 * Dirt Poor: -25
 
-**Influence** is measured by the number of people you have in your contact list, and the quality of the contact relationship eg. An Acquaintance (a low quality contact) will accept your call and listen to your request, they may even provide information if asked the right question but the information has a 50% chance of being inaccurate. A Friend (an average contact) is like a good friend, you can trust them to tell you what they know but they have limited access to high level information, and generally will not get into harms way for you. A Confidant (a high quality contact) will have good access to information and be trustworthy and reliable and will defend you at his or her own risk up to but not including risk of his or her own life. Each character starts with a number of contacts. Contacts are purchased with contact points that are awarded based on the level of Wealth and Influence assigned to the character.  
+**Influence** is measured by the number of people you have in your contact list, and the quality of the contact relationship eg. An Acquaintance (a low quality contact) will accept your call and listen to your request, they may even provide information if asked the right question but the information has a 50% chance of being inaccurate. A Friend (an average contact) is like a good friend, you can trust them to tell you what they know but they have limited access to high level information, and generally will not get into harms way for you. A Confidant (a high quality contact) will have good access to information and be trustworthy and reliable and will defend you at his or her own risk up to but not including risk of his or her own life. Each character starts with a number of contacts. Contacts are purchased with contact points that are awarded based on the level of Wealth and Influence assigned to the character.
+
 * 1pt = Acquaintance
 * 2pt = Friend
 * 3pt = Confidant)
@@ -88,7 +94,7 @@ Skills come in three types: **Natural**, **Knowledge**, and **Martial**.
 
 These learning limits only apply to the first level of the skill once a character has the basic concepts further learning can be done without the assistance of the trainer or books.
 
-Use the Skills and Attributes Modifier Table to find your skill level modifier and skill dice modifier for a given skill.
+Use the Skills and Attributes Modifier Table to find your skill level modifier and skill dice modifier for a given skill.  
 *TODO: Create nice image table for this.*
 
 ## Character Appearance ##

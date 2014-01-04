@@ -10,7 +10,6 @@ The goal for the Creative Commons Adaptive Role Play System is to provide an ope
 
 Join in on the discussion! We've got threads on [WizardSpire](http://wizardspire.com/viewforum.php?id=3)
 
-
 ## Notes ##
 The font used on the Character Sheet is [Berylium](http://www.fontsquirrel.com/fonts/Berylium)
 
