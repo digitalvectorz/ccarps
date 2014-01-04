@@ -39,7 +39,7 @@ Once the primary attributes are assigned, they cannot be changed. Think of them 
 * Roll 4 = INT
 * Roll 5 = WILL
 
-## Secondary Attributes ## 
+## Secondary Attributes ##
 The secondary attributes are average combinations of the primary attributes. Skills are based on these.
 * Charisma = avg(C,I,W); (CON + INT + WILL) / 3
 * Speed = avg(S,D); (STR + DEX) / 2
