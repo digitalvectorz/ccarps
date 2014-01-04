@@ -38,6 +38,9 @@ Once the primary attributes are assigned, they cannot be changed. Think of them 
 * Roll 4 = INT
 * Roll 5 = WILL
 
+### Character Points ###
+At character creation initial character points are equal to the sum total of your character's primary attributes Strength, Dexterity, Constitution, Intelligence, and Willpower. The initial character points are used to buy Oddities, Prestige, Prejudice, and starting Skills.
+
 ## Secondary Attributes ##
 The secondary attributes are average combinations of the primary attributes. Skills are based on these.
 * Charisma = avg(C,I,W); (CON + INT + WILL) / 3
@@ -46,17 +49,14 @@ The secondary attributes are average combinations of the primary attributes. Ski
 * Lift = avg(S,W); (STR + WILL) / 2
 * Perception = avg(I,W); (INT + WILL) / 2
 
-## Character Points ##
-At character creation initial character points are equal to the sum total of your character's primary attributes Strength, Dexterity, Constitution, Intelligence, and Willpower. The initial character points are used to buy Oddities, Prestige, Prejudice, and starting Skills.
-
 ## Prestige, Prejudice, and Oddities ##
 These may only be taken at character creation. They are used to gain advantages and to make trade off's to provide flexibility and role-play interest in character options, or to add "character" to your characters. Your game master may modify a character's Prestige, Prejudice, or Oddity based on role-play events or extraordinary situations.
 
-Prestige will give positive effects to your roll such as reducing your die rolls in success tests or adding modifier dice.
+**Prestige** will give positive effects to your roll such as reducing your die rolls in success tests or adding modifier dice.
 
-Prejudice will bring negative effects to your character and therefore cost negative points to acquire, by taking a prejudice you can add points to your total to be spent on Prestige, oddities, or skills.
+**Prejudice** will bring negative effects to your character and therefore cost negative points to acquire, by taking a prejudice you can add points to your total to be spent on Prestige, oddities, or skills.
 
-Oddities are just that, they can enhance your character in some situations and detract from it in others. Generally they are less noticeable than Prestige and Prejudice, but serve to create similar effects.
+**Oddities** are just that, they can enhance your character in some situations and detract from it in others. Generally they are less noticeable than Prestige and Prejudice, but serve to create similar effects.
 
 ### Wealth and Influence ###
 Wealth and Influence are considered to be Prestige, or Prejudice depending on the extreme to which your character is subject. All characters are required to choose their Wealth and Influence. For average wealth and influence there is no modifier and it can be taken for free. If Wealth and Influence are undefined at character creation they are considered to be average. 
