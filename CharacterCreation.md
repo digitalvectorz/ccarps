@@ -21,7 +21,6 @@ Age in Years and number of d6 per set:
 * 6-10: 2d6 (Average: 30pts)
 * < 6: 1d6 (Average: 15pts)
 
-
 ## Primary Attributes ##
 The primary attributes are based on a Human character. For other races like Elf, Dwarf, Orc, Troll, and Gnome, we will use die modifiers to enhance and detract from the base attributes (see racial modifier table). The number of dice you should roll will be determined by the GM and the difficulty level of the world he or she has created.
 
@@ -62,13 +61,35 @@ Oddities are just that, they can enhance your character in some situations and d
 ### Wealth and Influence ###
 Wealth and Influence are considered to be Prestige, or Prejudice depending on the extreme to which your character is subject. All characters are required to choose their Wealth and Influence. For average wealth and influence there is no modifier and it can be taken for free. If Wealth and Influence are undefined at character creation they are considered to be average. 
 
-Wealth is a measure of a characters accumulation of material value, including things such as property (home, car, horses), finery (cloths, tools, weapons), and currency. Ask the Game Master for currency and/or material value for starting out at a given level. The starting wealth is more a statement of the character's upbringing than the character's current status. The point gain or loss is meant to represent the character's perception of wealth and his or her ability to move in social circles. A person who was raised filthy rich would stand out like a sore thumb on skid row, just as a dirt poor person would at a country club.
+**Wealth** is a measure of a characters accumulation of material value, including things such as property (home, car, horses), finery (cloths, tools, weapons), and currency. Ask the Game Master for currency and/or material value for starting out at a given level. The starting wealth is more a statement of the character's upbringing than the character's current status. The point gain or loss is meant to represent the character's perception of wealth and his or her ability to move in social circles. A person who was raised filthy rich would stand out like a sore thumb on skid row, just as a dirt poor person would at a country club.
+* Filthy Rich: 25
+* Upper Class: 15
+* Middle Class: 0
+* Lower Class: -15
+* Dirt Poor: -25
 
-Influence is measured by the number of people you have in your contact list, and the quality of the contact relationship eg. An Acquaintance (a low quality contact) will accept your call and listen to your request, they may even provide information if asked the right question but the information has a 50% chance of being inaccurate. A Friend (an average contact) is like a good friend, you can trust them to tell you what they know but they have limited access to high level information, and generally will not get into harms way for you. A Confidant (a high quality contact) will have good access to information and be trustworthy and reliable and will defend you at his or her own risk up to but not including risk of his or her own life. Each character starts with a number of contacts. Contacts are purchased with contact points that are awarded based on the level of Wealth and Influence assigned to the character.  
-(1pt = Acquaintance, 2pt = Friend, 3pt = Confidant)
+**Influence** is measured by the number of people you have in your contact list, and the quality of the contact relationship eg. An Acquaintance (a low quality contact) will accept your call and listen to your request, they may even provide information if asked the right question but the information has a 50% chance of being inaccurate. A Friend (an average contact) is like a good friend, you can trust them to tell you what they know but they have limited access to high level information, and generally will not get into harms way for you. A Confidant (a high quality contact) will have good access to information and be trustworthy and reliable and will defend you at his or her own risk up to but not including risk of his or her own life. Each character starts with a number of contacts. Contacts are purchased with contact points that are awarded based on the level of Wealth and Influence assigned to the character.  
+* 1pt = Acquaintance
+* 2pt = Friend
+* 3pt = Confidant)
 
 ## Skills ##
-Skills determine what your character can and cannot do as well as what they know and don't know. No character may use a skill that they have no knowledge of. Adding one initial point to a skill is the equivalent of the character reading a basic instruction manual or taking an introductory lesson from someone who knows the skill at an advanced level or higher. This gives the character the ability to use the skill with no special proficiency.
+Skills determine what your character can do as well as what they know. Adding one point to a skill is the equivalent of the character experimenting with new ideas, or reading a basic instruction manual, or taking an introductory lesson from one who knows the skill at an advanced level (or higher). This gives the character the ability to use the skill with no special proficiency. Before a character can attempt to use a skill they must apply at least one point to it.
+
+Each skill will have an attribute associated with it. These attributes are skill requirements; no skill may have a modifier that is higher than the associated attribute modifier, e.g. if your Intelligence modifier is +2, you cannot have your Reading skill modifier any higher than +2.
+
+Skills come in three types: **Natural**, **Knowledge**, and **Martial**.
+
+**Natural Skills** are the skills that can only be learned through practice and experiment. Things like walking and running are simple natural skills, Wild Magic is an example of a difficult natural skill.
+
+**Knowledge Skills** are skills that can be learned from a book. Such as, Particle Physics, reading, and writing.
+
+**Martial Skills** like Karate, Archery, or wood carving must be learned from a teacher.
+
+These learning limits only apply to the first level of the skill once a character has the basic concepts further learning can be done without the assistance of the trainer or books.
+
+Use the Skills and Attributes Modifier Table to find your skill level modifier and skill dice modifier for a given skill.
+*TODO: Create nice image table for this.*
 
 ## Character Appearance ##
 The appearance of a given character is mostly up to the player; however, it is a good idea to use character attributes as guidelines.
