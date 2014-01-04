@@ -3,16 +3,16 @@
 It is great to sit down to a game with well written characters and even better when the characters attributes are reflected in the story told about them. Many roleplayers take great pride in designing the characters they play, from the back story to the description of appearance to the attitude and social disposition, they create interesting characters with compelling and intriguing lives. To assist in making those connections between attributes and storyline we have organized the character creation section to take you from the basic details to the final story in that order such that you can incorporate the most important facts about your character from the very beginning. With that said please feel free to explore your character from the ground up beginning with his or her primary attributes.
 
 ## Starting Points ##
-There are two options for starting points:
+There are two options for starting points:  
 **Option A**, GM assigns points according to the suggested minimum values below. (This option homogenizes the group and allows for quicker character creation)  
 **Option B**, Players roll dice to determine the starting points. (I find that this method creates more diversity within the group but it will take longer to roll up characters. Use this option when the group has plenty of time to get started. This option works better when the adventure is in progress and a character has died, the player can take all the time he or she needs to build the replacement character.)
 
-* Beginner: roll five sets of d6 according to the age specific table below.(Average See Table)
-* Novice; must be over 21 yrs of age; roll five sets of d6 re-roll all ones (Average of 80 points).
-* Advanced; must be over 21 yrs of age; roll six sets of d6 according to the age specific table (Average of 90 points).
-* Heroic; must be over 21 yrs of age; roll six sets of 5d6 re-roll all ones (Average of 100 points).
-* Epic characters eg. Beowulf, must be over 21 yrs of age; roll eight sets of 5d6 (Average of 130 points ).
-* Legendary characters eg. Hercules, must be over 21 yrs of age; roll ten sets of 5d6 (Average of 150 points).
+* **Beginner:** roll five sets of d6 according to the age specific table below.(Average See Table)
+* **Novice:** must be over 18 yrs of age; roll five sets of d6 re-roll all ones (Average of 80 points).
+* **Advanced:** must be over 21 yrs of age; roll six sets of d6 according to the age specific table (Average of 90 points).
+* **Heroic:** must be over 21 yrs of age; roll six sets of 5d6 re-roll all ones (Average of 100 points).
+* **Epic:** must be over 21 yrs of age; roll eight sets of 5d6 (Average of 130 points ).
+* **Legendary:** must be over 21 yrs of age; roll ten sets of 5d6 (Average of 150 points).
 
 Age in Years and number of d6 per set:
 * 21+: 5d6 (Average: 75pts)
