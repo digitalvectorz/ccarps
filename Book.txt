@@ -6,5 +6,6 @@ Damage.md
 Prestige.md
 Prejudice.md
 Oddities.md
+Magic.md
 Skills.md
 TechLevels.md
