@@ -1,171 +1,239 @@
 # Skills #
 
 **Acrobatics (DEX)**
-This is the ability to perform gymnastic stunts, roll, take falls, etc...
+The art or practice of acrobatic feats; walking on a tightrope or swinging on a trapeze, etc.
 
 **Acting (INT)**
-This is the ability to counterfeit moods, emotions, and voies, an to loe convincingly over a period of time.
+The art, profession, or activity of those who perform in stage plays, motion pictures, etc. 
 
 **Animal Handling (INT)**
-This is the ability to train and work with animals. When working with a trained animal, roll against skill for each task you give the animal.
+The ability to handle and teach animals. Roll against skill for each task you give the animal, if animal is trained.
 
 **Area Knowledge (INT)**
-This Skill represents familiarity with the people, places, and politics of a given region. You usually have Area Knowledge only for the area you consider your “home base.”
+Familiarity with people, places, and politics of a given region. You usually have Area Knowledge of your home town, base, etc.
 
 **Armoury/TL (INT)**
-This is the ability to build, modify, and repair a specific class of weapons or armor. A successful roll lets you find a problem, if it isn’t obvious; a second roll lets you repair it. Time required is up to the GM.
+The ability to build, modify, and repair specific types of weapons or armor. A successful roll lets you identify a problem, if not obvious; second roll enables you to repair it. Requires time (as set by GM)
 
 **Brawling (DEX)**
-This is the skill of “unscientific” unarmed combat. Roll against Brawling to hit with a punch, or Brawling-2 to hit with a kick.
+Basic unarmed, untrained combat.
+
+* Punch: Roll against Brawling
+* Kick: Roll against Brawling - 2
 
 **Camouflage (INT)**
-This is the ability to use natural materials, special fabrics and paints, etc. to hide yourself, your position, or your equipment.
+Concealment by some means that alters or obscures the appearance. Used to hide yourself, your position, or equipment.
 
 **Carousing (CHA)**
-This is the skill of socializing, partying, etc. A successful Carousing roll, under the right circumstances, gives you a +2 bonus to your Charisma on a request for aid or information, or just on a general reaction. A failed roll means you made a fool of yourself in some way; you get a -2 penalty to your Charisma on a reaction roll made by those you caroused with.
+To artfully engage in a drunken revel; to socialize, party, etc., so as to obtain information or set up distraction. 
+
+* Under the right circumstances, gives a +2 bonus to Charisma on information request, for aid, or general reaction.
+* A failed roll means you have made yourself a fool in some way, and receive a -2 to Charisma on a reaction roll made by those you caroused with.
 
 **Climbing (DEX)**
-This is the ability to climb mountains, rock walls, trees, the sides of buildings, etc.
+To go up or ascend, especially by using the hands and feet or feet only.
 
 **Computer Operation/TL (INT)**
-This is the ability to use a computer: call up data, run programs, play games, etc. It is the only computer skill needed by most end users.
+The ability to use a computer: find useful data, run programs, game, etc. Most end users only have this computer skill.
 
 **Computer Programming/TL (INT)**
-The ability to write and debug computer software. Roll to write, debug, or figure out a program.
+The ability to write and debug computer code. Roll to write, debug, or reverse-engineer a program.
 
 **Crewman/TL (INT)**
-This is the ability to serve as crew aboard a large vehicle. It includes familiarity with “shipboard life,” knowledge of safety measures, and training in damage control.
+The ability to serve as a crew member aboard a large vehicle.
+
+* Includes familiarity with living aboard a ship, knowledge of safety procedures, and training in damage control.
 
 **Criminology/TL (INT)**
-This is the study of crime and criminal mind. A successful skill roll allows you to find and interpret clues, guess how criminals might behave, etc.
+The study of crime and criminals.
+
+* A successful skill roll allows you to find and interpret clues, guess how criminals might behave, etc.
 
 **Diagnosis/TL (INT)**
-This is the ability to tell what is wrong with a sick or injured person, or what killed a dead person. It might not determine the exact problem, but it always give hints, rule out impossibilities,
+The ability to effectively determine by examination the nature and circumstances of a diseased condition.
+
+* May not give exact problem or cause, but rules out impossibilities and other hints.
 
 **Disguise/TL (INT)**
-This is the art of altering your appearance using clothing, makeup, and prosthetics. A good disguise requires a disguise roll and 30 minutes to an hour of preparation.
+The ability to change the appearance or guise of so as to conceal identity or mislead, as by means of deceptive garb.
+* A good disguise requires a disguise roll and 30-60 minutes of uninterrupted preparation.
 
 **Electronics Operation/TL (INT)**
-This skill lets you use electronic equipment. Make a skill role in an emergency situation or for “abnormal” use of equipment-not for ordinary, everyday use.
+The ability to use electronic equipment.
+
+* Make a skill role in an emergency situation or for unusual use of equipment (not normal, every day use).
 
 **Electronics Repair/TL (INT)**
-This is the ability to diagnose and repair known types of electronic equipment
+The ability to diagnose and repair known types of electronics equipment.
 
 **Engineer/TL (INT)**
-This is the ability to design and build technological devices and systems. A successful roll lets you design a new system, diagnose a glitch, identify the purpose of a strange device, or improvise a gadget to solve a problem.
+The ability to become skilled in the design, construction, and use of engines or machines, or in any of various branches of engineering: a mechanical engineer; a civil engineer. 
+
+* A successful roll lets you design a new system, diagnose a glitch, identify the purpose of a strange device, or improvise a gadget to solve a problem.
 
 **Environment Suit/TL (DEX)**
 This is training in the use of a specific class of protective suit. Suits designed against environmental or battlefield hazards are so complex that you do not merely wear such gear - you operate it.
-* Battlesuits/TL: All kind of powered battle armour and exoskeletons.
-* Diving Suit/TL: All types of hard diving suits.
-* NBC Suit/TL: All forms of hazardous materials (“HazMat”) gear.
-* Vacc Suit/TL: Any kind of space suit.
+
+* Battlesuits/TL: Powered battle armour and exoskeletons.
+* Diving Suit/TL: Hard diving suits.
+* NBC Suit/TL: Hazardous materials gear.
+* Vacc Suit/TL: Space suits.
 
 **Escape (DEX)**
-This is the ability to slip out of ropes, handcuffs, and similar restraints. The first attempt to escape takes 1 minute; each subsequent attempt takes 10 minutes.
+To slip or get away, as from confinement or restraint; gain or regain liberty. (Slip out of handcuffs, ropes, etc.)
+
+* First attempt to escape takes 1 minute; each subsequent attempt takes 10 minutes.
 
 **Explosives/TL (INT)**
-This is the skill of working with explosives and incendiaries, including the ability to set up, disarm, and dispose of bombs and other explosives.
+The skill of working with explosives and incendiaries, including the ability to set up, disarm, and dispose of bombs and other explosives.
 
 **First Aid/TL (INT)**
-This is the ability to patch up an injury in the field. Make a skill roll to halt bleading, suck out poison, give artificial respiration to a drowning victim, it easy.
+The ability to provide emergency treatment administered to an injured or sick person before professional medical care is available.
+
+* Make a skill roll to halt bleeding, suck out poison, give artificial respiration to a drowning victim, etc.
+
+**Foraging**
+To gather together by seeking out items of use; berries, scrap metal, etc.
 
 **Forgery/TL (INT)**
-This is the ability to create falsified documents (identity cards, passports, etc.). When you use a forged document, make your Forgery roll each time it is inspected - unless you roll a critical success on your first attempt. Failure mean’s someone spots the forgery.
+The production of a spurious work that is claimed to be genuine, as a coin, a painting, or the like. 
+
+* Make a Forgery roll each time forged item is inspected, unless you roll a critical success on your first attempt.
+* Failure results in someone identifying item as a forgery.
 
 **Gambling (INT)**
-This is skill at playing games of chance. A successful gambling roll can (among other things) tell you if a game is rigged, identify a fellow gambler in a group of strangers, or “estimate the odds” in any tricky situation.
+The act or practice of risking the loss of something important by taking a chance or acting recklessly, as in games of chance.
+
+* A successful Gambling roll tells you if your game is rigged, identify fellow gamblers in a group of strangers, "estimate" odds in a difficult situation, etc.
 
 **Hiking (CON)**
-This skill represents training for endurance walking, hiking, and marching. Making a hiking roll before each day's march; on a success, increase to see distance traveled by 20%.
+To walk or march a great distance, especially through rural areas, for pleasure, exercise, military training, or the like. 
 
-**Holdout (INT)**
-This is the skill of concealing items on your person or on other people (usually with the cooperation). An item’s size and shape govern it’s concealability, from +4 to your roll for a BB- sized jewel or a postage stamp, to a -6 to your roll for a crossbow or heavy sniper rifle.
+* Making a successful Hiking roll before each days' march increases travel distance by 20%.
 
 **Humanities (INT)**
-Each academic “humanity “ or “arts” subject (such as History, Literature, Philosophy, or Theology) is a separate skill.
+The study of "humanity" or "arts" subjects. Each subject is its own skill (Linguistics, Anthropology, Literary Science, Theology)
 
 **Influence Skills (Varies)**
-There are several ways to influence other; each is a separate influence skill. A successful roll will result in a good reaction from an NPC. Failure results in a bad reaction (except for Diplomacy, which is relatively safe). To actually coerce or manipulate an NPC, you must win a Quick Contest of your skill versus his Will. Methods of influencing others include:
-* Diplomacy (INT): Negotiation and compromise. Defaults a -6 to your target number.
-* Fast Talk (INT): Lying and deceit. Defaults a -5 to your target number.
-* Intimidation (INT): Threats and violence. Defaults a -5 to your target number.
-* Savoir Faire (INT): Manners and etiquette. Mainly useful in “high society” situations. Defaults a -4 to your target number.
-* Sex Appeal (CON): Vamping and seduction, usually of the opposite sex. Defaults a -3 to your target number.
-* Streetwise (INT): Contacts and (usually) subtle intimidation. Only useful in “street” and criminal situations. Defaults a -5 to your target number.
+There are several ways to influence another; each is a separate skill. A successful Influence roll results in a positive reaction from an NPC. Failure results in a negative reaction. Methods of influencing others include:
+
+* Diplomacy (INT): Managing negotiations, handling people, etc., so that there is little or no ill will. Defaults a +6 to your target number.
+* Fast Talk (INT): Lying and deceit. Defaults a +5 to your target number.
+* Intimidation (INT): Threats and violence. Defaults a +5 to your target number.
+* Savoir Faire (INT): Manners and etiquette, mainly useful in "high society" situations. Defaults a +4 to your target number.
+* Sex Appeal (CON): Vamping and seduction, usually of the opposite sex. Defaults a +3 to your target number.
+* Streetwise (INT): Contacts and (usually) subtle intimidation. Only useful in "street" and criminal situations. Defaults a +5 to your target number.
 
 **Interrogation (INT)**
+The skill in questioning; inquiry, usually of a suspected guilty party.
+
+**Item Concealment (INT)**
+This is the skill of concealing items on your person or on other people (usually with the cooperation). An item’s size and shape govern it’s concealability, from +4 to your roll for a BB- sized jewel or a postage stamp, to a -6 to your roll for a crossbow or heavy sniper rifle.
 
 **Jumping (DEX)**
+To spring clear of the ground or other support by a sudden muscular effort.
 
 **Karate (DEX)**
+The ability to defend oneself without the use of weapons by striking sensitive areas on an attacker's body with the hands, elbows, knees, or feet.
 
 **Law (INT)**
+The understanding of principles and regulations established in a community by some authority and applicable to its people, whether in the form of legislation or of custom and policies recognized and enforced by judicial decision. 
 
 **Leadership (INT)**
+The ability to effectively guide or direct a group.
 
 **Lockpicking/TL (INT)**
+The skill in using tools to unlock a lock without a key to that lock.
 
 **Mathematics/TL (INT)**
+The ability to read, write, and complete mathematical equations beyond the basic addition, subtraction, multiplication and division.
 
 **Mechanic/TL (INT)**
+The skill in repairing and maintenance of machinery, motors, etc.
 
 **Melee Weapons (DEX/Varies)**
+The ability to use close-combat hand weapons, such as knives, swords, axes, polearms, etc. Each weapon type must be taken as a speciality.
 
-**Merchant (INT)**
+**Mercantile (INT)**
+The ability to effectively buy and sell commodities for profit.
 
 **Missile Weapon (DEX/Varies)**
+The ability to use ranged weaponry, such as bows, javelins, slings, darts, firearms, etc. Each weapon type must be taken as a speciality.
 
 **Natural Sciences/TL (INT)**
+The ability to understand and figure out the natural world through scientific methods. Each field must be taken as its own skill (Astronomy, Biology, Chemistry, Earth sciences, Physics).
 
 **Naturalist (INT)**
+The study or expertise in natural history, especially a Zoologist or Botanist. 
 
 **Navigation/TL (INT)**
+The art or science of plotting, ascertaining, or directing the course of a ship, aircraft, or guided missile.
 
 **Observation (INT)**
+An act or instance of regarding attentively or watching, for some scientific or other special purpose.
 
 **Occultism (INT)**
-
-**Photography/TL (INT)**
+The belief and/or study of the existence of secret, mysterious, or supernatural agencies. 
 
 **Physician/TL (INT)**
+The ability to perform general healing, like a person in general medical practice.
 
 **Pickpocket (DEX)**
+The art of stealing items from the pockets of people, as in crowded public areas.
 
 **Public Speaking (INT)**
+The process and act of speaking or giving a lecture to a group of people in a structured, deliberate manner intended to inform, influence, or entertain a listening audience.
 
 **Research/TL (INT)**
+Diligent and systematic inquiry or investigation into a subject in order to discover or revise facts, theories, applications, etc.
 
 **Riding (DEX)**
+The act of a person or thing that rides. Can be taken as a speciality e.g. Horse Riding, Motorcycle Riding.
 
 **Scrounging (INT)**
+The ability to gather together by foraging; generally the urban equivalent of Foraging.
 
 **Search (INT)**
+To explore or examine carefully in order to discover, as in a person, place, or object.
 
 **Shadowing (INT)**
+The art of following (a person) about secretly, in order to keep watch over his movements. 
 
 **Shield (DEX)**
+The ability to effectively protect (someone or something) with or as if with a shield. 
 
 **Social Sciences (INT)**
+The use of Natural Sciences as tools for understanding society so as to define it in a more strict sense.
 
 **Smuggling (INT)**
+The skill in effectively importing or exporting (goods) secretly, in violation of the law, especially without payment of legal duty. 
 
 **Stealth (DEX)**
+The knowledge and application of secret, clandestine, or surreptitious procedure; to hide/be hidden, socially or physically.
 
 **Survival (INT)**
+The skill of surviving under adverse or unusual circumstances.
 
 **Swimming (CON)**
+The ability to move, glide, or go smoothly over a surface, usually liquid in nature. 
 
 **Tactics (INT)**
+A plan, procedure, or expedient for promoting a desired end or result, as in battle.
 
 **Throwing (DEX)**
+The ability to effectively propel or cast in any way, especially to project or propel from the hand by a sudden forward motion or straightening of the arm and wrist.
 
 **Thrown Weapon (DEX)**
+The ability to use weapons such as shuriken, atlatl, dart, and chakram, as well as use of close-combat hand weapons, such as knives and axes, in a matter to which they become ranged weaponry. Each weapon type must be taken as a speciality.
 
 **Tracking (INT)**
+The skill in pursuing creatures and people until caught or captured.
 
 **Traps/TL (INT)**
+The art of creating and utilizing any device, stratagem, trick, or the like for catching a person or creature unawares. 
 
 **Vehicle Skills (DEX/Varies)**
+The ability to use motor vehicles. Each vehicle type must be taken as its own skill (Car, Armored Vehicle, Helicopter, Airplane, etc).
 
 **Writing (INT)**
+The ability to trace or form (characters, letters, words, etc.) on the surface of some material, as with a pen, pencil, or other instrument or means.
