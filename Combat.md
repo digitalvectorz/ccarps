@@ -1,14 +1,12 @@
 # Combat #
 The act of combat is represented as a series of skill tests. The attacker makes a success test against the related skill or attribute plus any attack modifiers. On success, the attacker rolls for damage, and stages up the damage using the difference between the target number and the damage roll to push the damage level higher. Finally, the defender gets an opportunity to block, dodge, or parry the attack by making a success test against his or her reaction, plus any related skill modifiers, plus any defensive modifiers from armor and stages the damage down using the difference between the target number and the defense roll to push the damage down.
 
-Combat Sequence:
+## Combat Sequence ##
+**Step 1:** Attacker rolls against the target number + the skill modifier + any weapon modifiers.  
+**Step 2:** On success, attacker rolls for damage. Roll under the related attribute score if any, or under the weapon.s damage modifier, plus the related skill modifier. Then, subtract the roll from the target number. (Damage rolls always use 2 dice. attribute/modifier + Skill Modifier . roll = adjustment to damage) For every five staging points the attacker can push the damage level up one level. If the staging number is less than or equal to zero then damage is at the weapon.s base level.  
+**Step 3:** The defender makes a success test against their chosen defensive skill. The difference between the roll and the target number plus any armor bonuses can be used to reduce the damage level of the attack, for every five points of the difference the defender can reduce the damage by one level. If damage is reduced below light then no damage is recorded.
 
-Step 1: Attacker rolls against the target number + the skill modifier + any weapon modifiers.
-Step 2: On success, attacker rolls for damage. Roll under the related attribute score if any, or under the weapon.s damage modifier, plus the related skill modifier. Then, subtract the roll from the target number. (Damage rolls always use 2 dice. attribute/modifier + Skill Modifier . roll = adjustment to damage) For every five staging points the attacker can push the damage level up one level. If the staging number is less than or equal to zero then damage is at the weapon.s base level.
-Step 3: The defender makes a success test against their chosen defensive skill. The difference between the roll and the target number plus any armor bonuses can be used to reduce the damage level of the attack, for every five points of the difference the defender can reduce the damage by one level. If damage is reduced below light then no damage is recorded.
-
-Melee Example:
-
+## Melee Example ##
 > A character, having a hand-to-hand combat skill at level 6 (first novice level), wants to punch another character. The defender has an opportunity to react with a block, dodge, or parry depending on the choice of available defense skills. The attacker.s target number to succeed in hitting the opponent is 5 for a moderately difficult task, plus the skill modifier for the attack skill used, plus any attack modifiers on the weapon used. In this case Base is 5 level modifier is +3 based on a level 6 hand to hand skill, + 0 for bare knuckles, (Target : 5 + 3 + 0 = 8)
 > 
 > The attacking player rolls 3d6 with values 1, 3, and 6 then he or she sums the two lowest values (1 and 3) to get his or her chance of success (4). In this case the attack succeeds because the attack success of 4 is lower than the target number. Now that the attacker has successfully executed his or her attack he or she must roll for damage. A bare knuckle attack carries a damage index of [STR]LM so the attacker must roll against a target number equal to his or her strength modifier, plus the skill modifier for the attack, then subtract the roll from the target number and apply the resulting number to damage staging points and use them to stage the damage up.
