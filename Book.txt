@@ -9,3 +9,5 @@ Oddities.md
 Magic.md
 Skills.md
 TechLevels.md
+
+# We need to reformat how this is handled.
