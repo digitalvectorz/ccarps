@@ -1,14 +1,12 @@
-# Community Codex Adaptive Role Play System #
+# Community Codex Adaptive RolePlay System #
+CCARPS rule system by WizardSpire Games.
 
 ## What is it? ##
-CCARPS is an open source, Creative Commons-licensed roleplay system that is legal to be included in commercial works, provided you credit the authors, WizardSpire Games.
+CCARPS, formally known as Community Codex Adaptive RolePlay System, is an open source and Creative Commons-licensed roleplay system. This system has been developed because we wanted to build games that can have a reusable and easy to understand framework, without the licensing restrictions of others.
 
-## Philosophy ##
-It is our belief that role playing systems should be free from restriction in use and manner of play. Role playing is a community event that requires community action so it is our intention to create, collect, and maintain the rules in a fashion consistent with the needs and desires of the community that uses it.
+We chose to go the Creative Commons route because we believe strongly that a closed copyright would hinder creativity for anyone that wants to use CCARPS. We are a group that has been part of open source communities and have found great inspiration in their collective and creative efforts.
 
-The goal for the Community Codex Adaptive Role Play System is to provide an open framework for building role-playing games. As such, the rules here will be rather sparse. It is a framework in which you can build your own system, to cater to the style of game you want to play. The key difference between CCARPS and other role play systems is the license. Our intent is to create a role play system that is owned and maintained by the community that uses it. Therefore, we want you to understand that any contributions made to the system will become the property of the community. We expect citizens of the CCARPS community to conduct themselves in a respectful manner.
-
-Join in on the discussion! We've got threads on [WizardSpire](http://wizardspire.com/viewforum.php?id=3)
+Roleplaying is a community event. So should the rulemaking be.
 
 ## Notes ##
 The font used on the Character Sheet is [Berylium](http://www.fontsquirrel.com/fonts/Berylium)

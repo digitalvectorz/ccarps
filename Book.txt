@@ -11,3 +11,30 @@ Skills.md
 TechLevels.md
 
 # We need to reformat how this is handled.
+# The Core book will be formatted as follows:
+# 
+# Core:
+#	- Introduction
+#	- Basic Rules
+#	- Combat
+#		- Melee (Ground, Mounted)
+#		- Projectile (Ground, Mounted)
+#	- Movement
+#		- Ground
+#		- Mounted
+#		- Air
+#	- Equipment
+#		- Armor
+#		- Weapons
+#		- Tools
+#		- Accessories
+#	- Magic
+#		- Mind
+#		- Body
+#		- Spirit
+#	- Character
+#		- Attributes, Races
+#		- Skills
+#		- Prestige / Prejudice
+#		- Oddities
+
