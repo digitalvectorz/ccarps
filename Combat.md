@@ -3,9 +3,13 @@ The act of combat is represented as a series of skill tests. The attacker makes 
 
 ## Combat Sequence ##
 **Step 1:** Attacker rolls against the base target number, plus any skill modifiers, plus any weapon attack modifiers.
+
 **Step 2:** On success, attacker sums the total modifiers from weapon damage modifiers, skill damage modifiers, and PPO damage modifiers and reports the final damage stage to the defender.
+
 **Step 3:** The defender makes a success test against the attacker's roll plus their chosen defensive skill modifier.
+
 **Step 4:** The difference between the roll and the target number plus any armor bonuses is used to reduce the damage level of the attack. 
+
 **Step 5:** Record the damage by marking each consecutive damage box starting at the lowest available box in the related damage type. If damage is reduced below one then no damage is recorded.
 
 ## Melee Example ##
