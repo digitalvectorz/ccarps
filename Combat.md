@@ -33,17 +33,18 @@ The act of combat is represented as a series of skill tests. The attacker makes 
 When a player designates a target and launches a projectile, the player must roll below the modified target number in order to hit. if the player rolls above the target number the projectile completely misses.
 
 **Shot from the Hip** In the case of a hit w/o a called shot, the gm rolls two hit dice (2D6) to determine where the projectile hits the target. the values, for a humanoid target, of each area of the body are as follows:
+```
 ------------------------------------------------------------------------
-roll	| Area of impact
+roll  | Area of impact
 ------------------------------------------------------------------------
-2	| Head
-3-4	| Chest / Upper back (lungs, heart, liver, etc.)
-5-7	| Abdomen / Lower back (belly, pelvis, kidneys, etc.)
-8-9	| Leg (closest to attacker / most reasonable of the two)
-10-11	| Arm (closest to attacker / most reasonable of the two)
-12	| Neck, buttocks/ass, groin (most reasonable for the situation)
+2     | Head
+3-4   | Chest / Upper back (lungs, heart, liver, etc.)
+5-7   | Abdomen / Lower back (belly, pelvis, kidneys, etc.)
+8-9   | Leg (closest to attacker / most reasonable of the two)
+10-11 | Arm (closest to attacker / most reasonable of the two)
+12    | Neck, buttocks/ass, groin (most reasonable for the situation)
 ------------------------------------------------------------------------
-
+```
 **Called Shot Miss**
 when a player designates an area to hit on a target the player must roll below the modified target number to hit. if the player's roll is equal to or greater than the modified target number the players shot will miss. As you may have guessed, this is where Sir Issaic's first law comes in, an object in motion tends to stay in motion, etc. etc. so that thing; fist, arrow, bullet must go somewhere. The following chart and 1D6 will help you figure out what force will cancel the motion of the object. Imagine a circle cut into 6 slices (see image below) overlaid on the target with its center point on the called location. Now roll 1D6 and count the pie slices clockwise from the top to determine which direction the miss took. If it please you use the difference between the modified target number and the players roll to determine the magnatude in whatever units seem appropriate for the situation. Then let Sir Issaic prove his stuff by knocking the F out of the projectile and and into the unintended location; Newton's second law is the relationship Force equals mass times acceleration ( F = ma ). you can use your imagination for Newton's third law, for every action there is an equal and opposite reaction.
 (insert picture here)
