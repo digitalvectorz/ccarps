@@ -29,7 +29,7 @@ The act of combat is represented as a series of skill tests. The attacker makes 
 
 **Note** When a player chooses to attack there are two options: General target, and Called shot. General target is an attack at a chosen target. A Called shot is an attack at a specific location or region of a chosen target.
  
-# Hit Location Chart #
+## Hit Location Chart ##
 When a player designates a target and launches a projectile, the player must roll below the modified target number in order to hit. if the player rolls above the target number the projectile completely misses.
 
 **Shot from the Hip** In the case of a hit w/o a called shot, the gm rolls two hit dice (2D6) to determine where the projectile hits the target. the values, for a humanoid target, of each area of the body are as follows:
