@@ -104,4 +104,39 @@ Imagine a circle cut into 6 slices (see image below) overlaid on the target with
 **Ring of Fail**
 In the case of the epic fail, all dice come up 6, we have a Ring of Fail. To use the ring of fail orient, the 12 segmented circle such that the number 1 position aligns with the intended target. The points are arrange das follows, 2 is a little left (-30 deg), 3 is a little right (30 deg), 4 is a lot left (-60 deg), 5 is a lot right (60 deg), 6 is way left (-90 deg), 7 is way right (90 deg), 8 is not quite sure how you got that far left (-120 deg), 9 is not quite sure how you got that far right (120 deg), 10 is how the hell did you get that far left? (-150 deg), 11 is How the hell did you get that far right? (150 deg), 12 is now that's bloody impossible (180 deg).
 
+##GM Reference tables##
+
+*General Target Numbers based on difficulty*
+(Degrees of change for "all" variations)
+
+*Height Modifier chart*
+base height 6ft or 2m 
+base height - actual height
+actual - base
+defender (in feet) - attacker (in feet)
+large defends against small 7-3=4
+small defends against large 3-7=-4
+to hit:
+tiny 2-3ft
+Small4-5ft
+normal6-7
+large 8-9
+giant 10 >
+
+**Dodge Block Parry**
+Defender's Rule
+
+Dodge is to evade an attack avoiding all damage on success.
+tradeoff defender must forgo any actions including simple actions until defenders next turn
+Target number is the sum of the attacker's roll to hit and the defender's acrobatics skill modifier.
+
+Block is to absorb an attack with an object other than the intended target of a given attack
+-4 to repose attack and -2 damage on success.
+
+Parry is to deflect an attack by exerting a complementary force to move the impact to a more favorable location
++2 to repose attack requires an armed melee skill (Martial Arts, Sword, Shield, armed combat, etc.)
+
+Firearm damage modifiers
+double damage if target is in contact with the muzzle.
+
 

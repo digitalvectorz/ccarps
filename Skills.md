@@ -117,12 +117,12 @@ The study of "humanity" or "arts" subjects. Each subject is its own skill (Lingu
 **Influence Skills (Varies)**
 There are several ways to influence another; each is a separate skill. A successful Influence roll results in a positive reaction from an NPC. Failure results in a negative reaction. Methods of influencing others include:
 
-* Diplomacy (PER): Managing negotiations, handling people, etc., so that there is little or no ill will. Defaults a +6 to your target number.
-* Fast Talk (PER): Lying and deceit. Defaults a +5 to your target number.
-* Intimidation (PER): Threats and violence. Defaults a +5 to your target number.
-* Savoir Faire (PER): Manners and etiquette, mainly useful in "high society" situations. Defaults a +4 to your target number.
-* Sex Appeal (SPD): Vamping and seduction, usually of the opposite sex. Defaults a +3 to your target number.
-* Streetwise (PER): Contacts and (usually) subtle intimidation. Only useful in "street" and criminal situations. Defaults a +5 to your target number.
+* Diplomacy (PER): Managing negotiations, handling people, etc., so that there is little or no ill will. Defaults a +6 to your target number on success.
+* Fast Talk (PER): Lying and deceit. Defaults a +5 to your target number on success.
+* Intimidation (PER): Threats and violence. Apply size modifier to target number. Defaults a +5 to your target number on success. (See: Combat - Size modifier table)
+* Savoir Faire (PER): Manners and etiquette, mainly useful in "high society" situations. Defaults a +4 to your target number on success.
+* Sex Appeal (SPD): Vamping and seduction, usually of the opposite sex. Defaults a +3 to your target number on success.
+* Streetwise (PER): Contacts and (usually) subtle intimidation. Only useful in "street" and criminal situations. Defaults a +5 to your target number on success.
 
 **Interrogation (PER)**
 The skill in questioning; inquiry, usually of a suspected guilty party.
