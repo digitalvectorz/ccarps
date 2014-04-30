@@ -1,6 +1,6 @@
 # Prejudice #
 
-A “Prejudice” is a problem or imperfection that renders you less capable than your attributes would indicate. In addition to the traits in this section, this includes anything with a negative point cost described earlier, low status, below-average wealth, etc.
+A "Prejudice" is a problem or imperfection that renders you less capable than your attributes would indicate. In addition to the traits in this section, this includes anything with a negative point cost described earlier, low status, below-average wealth, etc.
 
 Why would I want to give my character a prejudice you ask? each prejudice has a negative point cost in character points. Thus, a prejudice will give you extra points to spend to improve your character. Plus, what would roleplay be without a little variety.
 
@@ -23,7 +23,8 @@ you take pride in a set of principles that you follow at all times the specific 
 You're naturally very inquisitive this is not the curiosity that affects all PCs but the real thing. Make a self control roll when presented with an interesting item or situation if you fail you examine it even if you know it could be dangerous good role players won't try to make this role very often 
 
 **Delusions, -5 to, -15 points**  
-you believe something that simply is not true  this may cause others to consider you insane, and they may be right. if you suffer from a delusion you must roleplayer your believe at all times. the point value of the delusion depends on its nature  
+You believe something that simply is not true. This may cause others to consider you insane, and they may be right. if you suffer from a delusion you must roleplayer your believe at all times. the point value of the delusion depends on its nature  
+
 * A minor delusion affects your behavior and anyone around you will soon notice it and react at minus 1 but it would does not keep you from functioning more less normally. minus 5 points  
 * A major delusion strongly affects your behavior but does not keep you from living a fairly normal life others will react to you at, -2. negative 10 points 
 * A severe delusion affects  your behavior so much that it may keep you from functioning in the everyday world others react you at negative 3 but they are more likely to fear or pity you than to attack negative 15 points
@@ -61,8 +62,9 @@ You receive plus 2 on all reaction rolls from Young or naive individuals who bel
 
 **Pacifism, variable**  
 You are opposed to violence. This can take 2 forms:
-* Reluctant killer you get negative 4 to hit a person, not a monster machine, etc. with a deadly attack or negative 2 if you can't see his face if you kill someone roll 3d you're morose and useless  for that many days , -5 points  
-* Cannot harm innocent you make fight you may even start fights but you may only use deadly force on a foe that is attempting to do you serious harm negative 10points 
+
+* _Reluctant killer_: You get negative 4 to hit a person, not a monster machine, etc. with a deadly attack or negative 2 if you can't see his face if you kill someone roll 3d you're morose and useless  for that many days , -5 points  
+* _Cannot harm innocent_: You make fight you may even start fights but you may only use deadly force on a foe that is attempting to do you serious harm negative 10points 
 
 **Phobias, variable**  
 A phobia is a fear of a specific item creature or circumstance the more common an object or situation the greater the point value of a fear of it if you have a phobia you made temporarily master it by making a successful self control roll but the pier purses even if you master a phobia you will be at, -2 to int dex and skill roles while the cause of your fear is present and you must roll again every 10 minutes to see if the fear overcomes you if you fail a self control roll you will cringe flee panic or otherwise react in a manner that precludes sensible action 
@@ -73,11 +75,12 @@ Even the mere threat of the feared objects requires a self control roll at plus 
 You feel a strong sense of commitment toward a particular class of people you will be never betray them abandon them when they're trouble or let them suffer or go hungry if you can help  
 
 The GM will assign a point value to your sense of duty based on the size of the group you feel compelled to aid 
-* Individual the president  negative 2 points 
-* Small group at 5 points 
-* Large group  negative 10 points 
-* Entire race negative 15 points 
-* Every living being negative 20 points
+
+* Individual the president, _-2 points_
+* Small group, _5 points_
+* Large group _-10 points_ 
+* Entire race _-5 points_
+* Every living being _-20 points_
 
 **Truthfulness, -15 points**  
 You hate to tell a lie or you're just very bad at it make a self control roll whenever you must keep silent about an uncomfortable truth lying by omission roll at negative 5 if you actually have to tell of falsehood if you fail you blurt out the truth or stumble so much that your lie is obvious you have a permanent, -5 to fast talk skill and your acting skills is at negative 5 when your purpose is to deceive.
@@ -89,5 +92,7 @@ You have rotten luck things go wrong for you and usually at the worst possible t
 You have sworn an oath to do or not to do something whatever the oath you take it seriously. If you didn't it would not be a prejudice. This trait is a specially appropriate for knights holy men and fanatics 
 
 The point value of a vow should be directly related to the inconvenience it causes you the GM is the final judge some examples minor vow, silence during daylight hours vegetarianism chastity yes for game purposes this is minor negative 5 points 
-* Major vow: use no edge weapons keep silence at all times never sleep indoors own no more than your horse can carry negative 10 points. 
-* Great vow: never refuse any request for aid, always fight with the wrong hand hunt a given foe until you destroy him, challenge every knight you meet to combat. negative 15 points  
+
+* _Major vow_: use no edge weapons keep silence at all times never sleep indoors own no more than your horse can carry negative 10 points. 
+* _Great vow_: never refuse any request for aid, always fight with the wrong hand hunt a given foe until you destroy him, challenge every knight you meet to combat. negative 15 points  
+
