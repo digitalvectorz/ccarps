@@ -15,7 +15,8 @@ done
 
 echo "Doing some fancy Markdown->HTML->PDF voodoo..."
 # Now this is the best part...
-markdown tempfile | htmldoc --book --cont --headfootsize 8.0 --linkcolor blue --linkstyle plain --format pdf14 - > $savename.pdf
+# Removed titlefile for 'debug'
+markdown tempfile | htmldoc --book --header c.D --footer ..: --toclevels 3 --firstpage toc --toclevels 3 --cont --headfootsize 8.0 --linkcolor blue --linkstyle plain --format pdf14 - > $savename.pdf
 
 echo "Cleaning up..."
 # Remove evidence we were here.
