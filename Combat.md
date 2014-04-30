@@ -15,19 +15,19 @@ The act of combat is represented as a series of skill tests. The attacker makes 
 ## Melee Example ##
 **Set up** A character, having a hand-to-hand combat skill at level 6 (first novice level), wants to punch another character. The defender has an opportunity to react with a block, dodge, or parry depending on the choice of available defense skills. The attacker's target number to succeed in hitting the opponent is 6 for a moderately difficult task, plus the skill modifier for the attack skill used, plus any attack modifiers on the weapon used. In this case the base target number is 6, level modifier is 3, and weapon modifier 0 (brass knuckles have no modifier to attack), Final Target# = 6 + 3 + 0 = 9
 
-**Step E1** The attacking player rolls 3d6 with values 2, 3, and 6 then he or she sums the two lowest values (2 and 3) to get his or her chance of success (5). In this case the attack succeeds because the attack success of 5 is lower than the target number of 6. 
+**Step E1:** The attacking player rolls 3d6 with values 2, 3, and 6 then he or she sums the two lowest values (2 and 3) to get his or her chance of success (5). In this case the attack succeeds because the attack success of 5 is lower than the target number of 6. 
 
-**Step E2** The attacker stages up the damage. Brass knuckle's have damage index of [STR]+1M. Our attacker has a strength modifier of 4, and a skill modifier of 3, Sum all the values: 4+1+3 = 8. Use the total to stage the damage up.
+**Step E2:** The attacker stages up the damage. Brass knuckle's have damage index of [STR]+1M. Our attacker has a strength modifier of 4, and a skill modifier of 3, Sum all the values: 4+1+3 = 8. Use the total to stage the damage up.
 
-**Step E3** The defender, in this case, has enhanced reflexs providing a modifier of +1 and has a hand to hand skill at level 4 which gives him a modifier of +2 to parry. The defender's target number is the sum of the attacker's roll 5 plus reflex modifier 2 plus parry modifier 2 for a total of 9. The defender rolls two dice (see skill modifier table) based on her hand to hand skill and gets a 3 and a 4 then adds the two dice for a total of 7. Since 7 is less than 9 the parry is successful. 
+**Step E3:** The defender, in this case, has enhanced reflexs providing a modifier of +1 and has a hand to hand skill at level 4 which gives him a modifier of +2 to parry. The defender's target number is the sum of the attacker's roll 5 plus reflex modifier 2 plus parry modifier 2 for a total of 9. The defender rolls two dice (see skill modifier table) based on her hand to hand skill and gets a 3 and a 4 then adds the two dice for a total of 7. Since 7 is less than 9 the parry is successful. 
 
-**Step E4** The defender subtracts the result from the target number (9 - 7 = 2) and adds her armor's damage resistance modifier of +2 against bludgeoning from her type II body armor, and  then uses the remaining points to stage the damage down. In this case the defender will use 4 points to stage the damage down.
+**Step E4:** The defender subtracts the result from the target number (9 - 7 = 2) and adds her armor's damage resistance modifier of +2 against bludgeoning from her type II body armor, and  then uses the remaining points to stage the damage down. In this case the defender will use 4 points to stage the damage down.
 
-**Step E5** Apply the damage to the appropriate damage meterDamage of 8 minus defence of 4 = 4 damage. The damage type is determined by the weapon, in this case a fist does Mental damage (All blunt force damage will first register on the Mental meter)
+**Step E5:** Apply the damage to the appropriate damage meterDamage of 8 minus defence of 4 = 4 damage. The damage type is determined by the weapon, in this case a fist does Mental damage (All blunt force damage will first register on the Mental meter)
 
-**Note** Critical rolls do not apply to damage rolls, If the attack roll was a critical success the final damage staging number is doubled. 
+**Note:** Critical rolls do not apply to damage rolls, If the attack roll was a critical success the final damage staging number is doubled. 
 
-**Note** When a player chooses to attack there are two options: General target, and Called shot. General target is an attack at a chosen target. A Called shot is an attack at a specific location or region of a chosen target.
+**Note:** When a player chooses to attack there are two options: General target, and Called shot. General target is an attack at a chosen target. A Called shot is an attack at a specific location or region of a chosen target.
 
 ## Damage ##
 The damage system is based on the ancient Greek’s beliefs regarding human existence, where a person was measured by the strength and health of their mind, body, and spirit. The optimal case would be to have all three in equal amounts such that they could be represented by an equilateral triangle. Dealing and taking damage is handled through a series of check boxes, ten boxes for each of the three types of damage. Damage is counted by checking a number of boxes equal to the amount of damage dealt starting at the damage level noted by the weapon’s damage type and rating, and all boxes below that level. If a character has already taken damage beyond the indicated level the new damage is counted by checking off boxes on the next available damage type until all the damage is applied. Damage levels are Light, Moderate, Heavy, and Deadly.
@@ -82,7 +82,7 @@ Spiritual damage is the most difficult to heal. Each point of spiritual damage m
 When a player designates a target and launches a projectile, the player must roll below the modified target number in order to hit. if the player rolls above the target number the projectile completely misses.
 
 **Shot from the Hip** In the case of a hit w/o a called shot, the gm rolls two hit dice (2D6) to determine where the projectile hits the target. the values, for a humanoid target, of each area of the body are as follows:
-```
+<pre>
 ------------------------------------------------------------------------
 roll  | Area of impact
 ------------------------------------------------------------------------
@@ -93,7 +93,7 @@ roll  | Area of impact
 10-11 | Arm (closest to attacker / most reasonable of the two)
 12    | Neck, buttocks/ass, groin (most reasonable for the situation)
 ------------------------------------------------------------------------
-```
+</pre>
 **Called Shot Miss**
 When a player designates an area to hit on a target, the player must roll below the modified target number to hit. if the player's roll is equal to or greater than the modified target number the players shot will miss. As you may have guessed, this is where Sir Issaic's first law comes in: "An object in motion tends to stay in motion", etc. etc. so that thing; fist, arrow, bullet must go somewhere. The following chart and 1d6 will help you figure out what force will cancel the motion of the object.
 
@@ -106,37 +106,39 @@ In the case of the epic fail, all dice come up 6, we have a Ring of Fail. To use
 
 ##GM Reference tables##
 
-*General Target Numbers based on difficulty*
+### General Target Numbers based on difficulty ###
 (Degrees of change for "all" variations)
+<pre>
+-----------------------------------------
+Height Modifier chart
+-----------------------------------------
+Base height: 6ft or 2m 
+Large defend vs. Small	| 7 - 3 =  4
+Small defend vs. Large 	| 3 - 7 = -4
+-----------------------------------------
+</pre>
+<pre>
+------------------
+	  To hit
+------------------
+Tiny	|	2-3ft
+Small	|	4-5ft
+normal	|	6-7
+large	|	8-9
+giant	|	10 >
+------------------
+</pre>
 
-*Height Modifier chart*
-base height 6ft or 2m 
-base height - actual height
-actual - base
-defender (in feet) - attacker (in feet)
-large defends against small 7-3=4
-small defends against large 3-7=-4
-to hit:
-tiny 2-3ft
-Small4-5ft
-normal6-7
-large 8-9
-giant 10 >
+### Dodge, Block, Parry ###
+* Defender's Rule: Dodge is to evade an attack avoiding all damage on success.
+* Trade off: defender must forgo any actions including simple actions until defenders next turn.
+* Target number is the sum of the attacker's roll to hit and the defender's acrobatics skill modifier.
+* Block is to absorb an attack with an object other than the intended target of a given attack
+* -4 to repose attack and -2 damage on success.
+* Parry is to deflect an attack by exerting a complementary force to move the impact to a more favorable location
+* +2 to repose attack requires an armed melee skill (Martial Arts, Sword, Shield, armed combat, etc.)
 
-**Dodge Block Parry**
-Defender's Rule
-
-Dodge is to evade an attack avoiding all damage on success.
-tradeoff defender must forgo any actions including simple actions until defenders next turn
-Target number is the sum of the attacker's roll to hit and the defender's acrobatics skill modifier.
-
-Block is to absorb an attack with an object other than the intended target of a given attack
--4 to repose attack and -2 damage on success.
-
-Parry is to deflect an attack by exerting a complementary force to move the impact to a more favorable location
-+2 to repose attack requires an armed melee skill (Martial Arts, Sword, Shield, armed combat, etc.)
-
-Firearm damage modifiers
+### Firearm damage modifiers ###
 double damage if target is in contact with the muzzle.
 
 
