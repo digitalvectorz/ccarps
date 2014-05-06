@@ -31,11 +31,11 @@ If the number is less than zero (0), there is a -1 penalty to target number, unl
 **Step 5:** Record the damage by marking each consecutive damage box starting at the lowest available box in the related damage type. If damage is reduced below one then no damage is recorded.
 
 ## Melee Example ##
-**Set up** A character, having a hand-to-hand combat skill at level 6 (first novice level), wants to punch another character. The defender has an opportunity to react with a block, dodge, or parry depending on the choice of available defense skills. The attacker's target number to succeed in hitting the opponent is 6 for a moderately difficult task, plus the skill modifier for the attack skill used, plus any attack modifiers on the weapon used. In this case the base target number is 6, level modifier is 3, and weapon modifier 0 (brass knuckles have no modifier to attack), Final Target# = 6 + 3 + 0 = 9
+**Set up** A character, having a hand-to-hand combat skill at level 6 (first novice level), wants to punch another character. The defender has an opportunity to react with a block, dodge, or parry depending on the choice of available defense skills. The attacker's target number to succeed in hitting the opponent is 6 for a moderately difficult task, plus the skill modifier for the attack skill used, plus any attack modifiers on the weapon used. In this case the base target number is 6, level modifier is 3, and weapon modifier 0 (brass knuckles have no modifier to attack), Final Target Number = 6 + 3 + 0 = 9
 
 **Step E1:** The attacking player rolls 3d6 with values 2, 3, and 6 then he or she sums the two lowest values (2 and 3) to get his or her chance of success (5). In this case the attack succeeds because the attack success of 5 is lower than the target number of 6. 
 
-**Step E2:** The attacker stages up the damage. Brass knuckle's have damage index of [STR]+1M. Our attacker has a strength modifier of 4, and a skill modifier of 3, Sum all the values: 4+1+3 = 8. Use the total to stage the damage up.
+**Step E2:** The attacker stages up the damage. Brass knuckle's have damage index of STR+1. Our attacker has a strength modifier of 4, and a skill modifier of 3, Sum all the values: 4+1+3 = 8. Use the total to stage the damage up.
 
 **Step E3:** The defender, in this case, has enhanced reflexs providing a modifier of +1 and has a hand to hand skill at level 4 which gives him a modifier of +2 to parry. The defender's target number is the sum of the attacker's roll 5 plus reflex modifier 2 plus parry modifier 2 for a total of 9. The defender rolls two dice (see skill modifier table) based on her hand to hand skill and gets a 3 and a 4 then adds the two dice for a total of 7. Since 7 is less than 9 the parry is successful. 
 
@@ -48,7 +48,7 @@ If the number is less than zero (0), there is a -1 penalty to target number, unl
 **Note:** When a player chooses to attack there are two options: General target, and Called shot. General target is an attack at a chosen target. A Called shot is an attack at a specific location or region of a chosen target.
 
 ## Damage ##
-The damage system is based on the ancient Greek’s beliefs regarding human existence, where a person was measured by the strength and health of their mind, body, and spirit. The optimal case would be to have all three in equal amounts such that they could be represented by an equilateral triangle. Dealing and taking damage is handled through a series of check boxes, ten boxes for each of the three types of damage. Damage is counted by checking a number of boxes equal to the amount of damage dealt starting at the damage level noted by the weapon’s damage type and rating, and all boxes below that level. If a character has already taken damage beyond the indicated level the new damage is counted by checking off boxes on the next available damage type until all the damage is applied. Damage levels are Light, Moderate, Heavy, and Deadly.
+The damage system is based on the ancient Greek's beliefs regarding human existence, where a person was measured by the strength and health of their mind, body, and spirit. The optimal case would be to have all three in equal amounts such that they could be represented by an equilateral triangle. Dealing and taking damage is handled through a series of check boxes, ten boxes for each of the three types of damage. Damage is counted by checking a number of boxes equal to the amount of damage dealt starting at the damage level noted by the weapon's damage type and rating, and all boxes below that level. If a character has already taken damage beyond the indicated level the new damage is counted by checking off boxes on the next available damage type until all the damage is applied. Damage levels are Light, Moderate, Heavy, and Deadly.
 
 In CCARPS damage comes in three forms; **Mental**, **Physical**, and **Spiritual**. 
 
@@ -102,7 +102,7 @@ When a player designates a target and launches a projectile, the player must rol
 **Shot from the Hip** In the case of a hit w/o a called shot, the gm rolls two hit dice (2D6) to determine where the projectile hits the target. the values, for a humanoid target, of each area of the body are as follows:
 <pre>
 ------------------------------------------------------------------------
-roll  | Area of impact
+Roll  | Area of Impact
 ------------------------------------------------------------------------
 2     | Head
 3-4   | Chest / Upper back (lungs, heart, liver, etc.)
