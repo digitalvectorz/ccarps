@@ -1,6 +1,24 @@
 # Combat #
 The act of combat is represented as a series of skill tests. The attacker makes a success test against the related skill or attribute plus any attack modifiers. On success, the attacker stages up the damage using all applicable damage modifiers from skills, PPO, and weapon enchantments. Finally, the defender gets an opportunity to block, dodge, or parry the attack by making a success test against his or her reflex, plus any related skill modifiers, plus any defensive modifiers from armor and stages the damage down using the resulting value.
 
+## Range and Reach ##
+Range and reach are how far one can use projectiles or hit with melee weapons. A reach/range of zero (0) is equal to 3 feet (1 yard). Each point of reach/range is equal to an additional 3 feet.
+
+<pre>
+------------------------
+Reach/Range	Distance
+------------------------
+0		3ft
+1		6ft
+2		9ft
+...		...
+8		24ft
+9		27ft
+10		30ft
+</pre>
+
+If the number is less than zero (0), there is a -1 penalty to target number, unless specified differenly by weapon type.
+
 ## Combat Sequence ##
 **Step 1:** Attacker rolls against the base target number, plus any skill modifiers, plus any weapon attack modifiers.
 
