@@ -80,9 +80,9 @@ Wealth and Influence are considered to be Prestige, or Prejudice depending on th
 * 3pt = Confidant)
 
 ## Skills ##
-Skills determine what your character can do as well as what they know. Adding one point to a skill is the equivalent of the character experimenting with new ideas, or reading a basic instruction manual, or taking an introductory lesson from one who knows the skill at an advanced level (or higher). This gives the character the ability to use the skill with no special proficiency. Before a character can attempt to use a skill they must apply at least one point to it.
+Skills determine what your character can do as well as what they know. Adding one point to a skill is the equivalent of the character experimenting with new ideas, or reading a basic instruction manual, or taking an introductory lesson from one who knows the skill at an advanced level (or higher). This gives the character the ability to use the skill with no special proficiency. Before a character can attempt to use a skill they must apply at least one point to it. Each point in a skill equals that skill's level. It onlly takes a single point to raise a skill to the next level.
 
-Each skill will have an attribute associated with it. These attributes are skill requirements; no skill may have a modifier that is higher than the associated attribute modifier, e.g. if your Intelligence modifier is +2, you cannot have your Reading skill modifier any higher than +2.
+Each skill will have an attribute associated with it. These attributes are skill requirements; no skill may have a modifier that is higher than the associated attribute modifier, e.g. if your Intelligence modifier is +2, you cannot have your Reading skill modifier any higher than +2. During a campaign, this level cap does not apply unless the game world / Game Master says otherwise.
 
 Skills come in three types: **Natural**, **Knowledge**, and **Martial**.
 
@@ -100,7 +100,11 @@ Use the Skills and Attributes Modifier Table to find your skill level modifier a
 ## Character Appearance ##
 The appearance of a given character is mostly up to the player; however, it is a good idea to use character attributes as guidelines.
 
-Example: The range of possible values is 5 to 30 for an adult aged character (over 21). Armed with this information, just as we would consider a person with an intelligence of 5 to be an imbecile, we would consider a person with a 5 in charisma to be repulsive. Therefore, it would be unusual for a good looking character to have a low charisma unless he or she had a detriment that modifies charisma such as, evil spirited, which will give a -15 to charisma. As for the stature of a character, the following table will give the average height of characters by race, the actual height of a character can vary as much as plus or minus one foot, for example: a human could be as much as 7ft tall or as little as 5ft tall and still be considered normal. GM Note: feel free to add in any race or body type you feel would enhance your world. You are welcome to use the races listed here as templates but such consideration is not required. You are the God of your world after all.
+**Example:** The range of possible values is 5 to 30 for an adult aged character (over 21). Armed with this information, just as we would consider a person with an intelligence of 5 to be an imbecile, we would consider a person with a 5 in charisma to be repulsive. Therefore, it would be unusual for a perceived strong character to have a low strength.
+
+As for the stature of a character, the following table will give the average height of characters by race, the actual height of a character can vary as much as plus or minus one foot, for example: a human could be as much as 7ft tall or as little as 5ft tall and still be considered normal.
+
+_GM Note:_ feel free to add in any race or body type you feel would enhance your world. You are welcome to use the races listed here as templates but such consideration is not required. You are the God of your world after all.
 
 ## Character Background ##
 This is pretty much open to the players creativity. Background story can go a long way toward identifying a character.s habits of mind, body, and spirit. This can aid the player in making good believable decisions and greatly enhance the role play experience as well as add to the group dynamics. So put some thought into this part, make it interesting and be creative. Prestige, Prejudice, and oddities can go a long way to help with good back story.

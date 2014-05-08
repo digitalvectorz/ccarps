@@ -21,6 +21,7 @@ You have a strong connection to the emotions of others. When you first meet some
 
 **Enhanced Defenses, 5-15 points**  
 You are unusually good at avoiding attacks. Whether this is due to careful observation of your enemy, focusing your energy, or whatever fits your background. There are three types:
+
 * _Enhanced Block:_ Block and Shield skills gain +1 to their target number. _5 points_
 * _Enhanced Dodge:_ +1 to target number when using Dodge or similar skills. _15 points_
 * _Enhanced parry:_ +1 to target number when Parrying. May take for bare hands (_5 points_), melee weapons (_5 points_), or all parries (_10 points_).
@@ -30,6 +31,7 @@ You are not easily intimidated or frightened. Add your level of Fearless to your
 
 **Flexible, 5-15 points**  
 You are exceptionally flexible. There are two levels:
+
 * _Flexibility:_ +3 to target number for climibng or escaping rolls to get free of ropes, handcuffs, and other similar restraints. You may ignore up to -3 in penalties for working in confined spaces (including many Explosives and Mechanics rolls). _5 points_
 * _Double-Jointed:_ A more extreme version of the above. You cannot stretch or squeeze yourself abnormally, but any part of your body may bend in any way. You gain +5 to target numbers on Climbing, Escapting and attempts to free yourself from restraints, and may ignore up to -5 in penalties for working in confined spaces. _15 points_
 
@@ -44,9 +46,11 @@ You easily pick up languages. When you learn a language at a comprehension level
 
 **Lucky, Varies**  
 You were born lucky. There are three levels of being Lucky:
+
 * _Lucky:_ Once per hour of play, you may reroll a single bad die roll twice and take the best of the three rolls. You must declare that you are using your Luck immediately after you roll the dice. _15 points_
 * _Very Lucky:_ The same above, but usable every 30 minutes. _30 points_
 * _Stupid Lucky:_ The same as above but usable every 10 minutes. _60 points_
+
 Lucky only applies to your own success, damage, or reaction rolls, or on outside events that affect you or your whole party, or when you are being attacked, in which case you may make the attacker rolll three times and take the _worst_ roll.
 
 **Madcap, 15 points**  
@@ -60,6 +64,7 @@ You never lose your footing, no matter how narrow the walking surface is (tightr
 
 **Resistance, Varies**  
 Your resistance (and possible immunity) to disease and poisons is remarkable. This gives you a bonus on all rolls to avoid incapacitation or injury from these things.
+
 * _Resistance to Disease:_ You may take +3 to target numbers for 3 points, or +8 for 5 points.
 * _Reistance to Poison:_ You have a +3 to target number when resisting poisons, for 5 points.
 
@@ -67,6 +72,8 @@ Your resistance (and possible immunity) to disease and poisons is remarkable. Th
 You have a natural aptitude for a set of closely-knit skills. These 'talents' come in various levels and give a bonus of +1 to target number per level with all affected skills, even for default use, but _only_ for those skills. This is an inexpensive and alternate way to become adept in a small set of skills.
 
 You may never have more than four levels of a particular talent set, however, overlapping talent sets _can_ give skill bonuses (only) in excess of +4. The cost of a telent set depends on the size of the group of skills. Here's a few examples:
+
 * _Artificer:_ Armory, Electronics Repair, Engineering, Mechanic, and similar. _10 points per level_
 * _Outdoorsman:_ Camouflage, Naturalist, Navigation, Survival, and Tracking. _10 points per level_
 * _Smooth Operator:_ Influence skills as well as Acting, Carousing, Leadership and Public Speaking. _15 points per level_
+

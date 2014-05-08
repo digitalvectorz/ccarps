@@ -12,7 +12,13 @@ The ability to handle and teach animals. Roll against skill for each task you gi
 **Area Knowledge (PER)**
 Familiarity with people, places, and politics of a given region. You usually have Area Knowledge of your home town, base, etc.
 
-**Armoury/TL (RFX)**
+**Armor Proficiency (Varies)**
+Familiarity with a given class of armor. You must have one of these skills in order to use their corresponding armor types. Clothing, includin robes, do not count as armor.
+
+* Light Armor (DEX): Armors made with hide or leather that may or may not be studded or plated with metals. Scale and chain armor fall under Light armor.
+* Heavy Armor (STR): Armors made with iron, steel, and other heavy materials.
+
+**Armory/TL (RFX)**
 The ability to build, modify, and repair specific types of weapons or armor. A successful roll lets you identify a problem, if not obvious; second roll enables you to repair it. Requires time (as set by GM)
 
 **Brawling (LFT)**
