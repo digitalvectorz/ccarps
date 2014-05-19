@@ -20,31 +20,35 @@ Fencing Foil					  4			  1		  2		STR+2P
 
 ## Projectile Weapons ##
 <pre>
-Projectile Weapons			Concealability	Range	Damage	Weight	Cost
+Projectile Weapons			Concealability	Range(m)	Damage	Weight	Cost
 ------------------------------------------------------------------------
-Dart							9			  		STR/P
-Throwing Knife					9			  		STR+1P
-Throwing Axe					6			  		STR+1S
-Bow								2					STR+3P											  
-Crossbow						2					3
-Sling							11					DEX+1
-Atlatl							1					STR+2
-Spear							2			  		STR+2
-Rock							6			  		STR
+Dart							9			0-10 	STR/P
+Throwing Knife					9			0-10  	STR+1P
+Throwing Axe					6			0-15  	STR+1S
+Bow								2			0-60	STR+3P											  
+Crossbow						2			0-100	3
+Sling							11			0-50	DEX+1
+Atlatl							1			0-70	STR+2
+Spear							2			0-20  	STR+2
+Rock							6			STR*5  	STR
 </pre>
 
 ## Ballistic Weapons ##
 <pre>
-Ballistic Weapons			Concealability	Reach	Damage	Weight	Cost
+Ballistic Weapons			Concealability	Range(m)	Damage	Weight	Cost
 ------------------------------------------------------------------------
-Rifle							2					3
-Shotgun							3					7
-Pistol							7					1
+Light Machine Gun				0			0-150		4	
+Sniper Rifle					0			0-400		8
+Sporting Rifle					1			0-300		6
+Sub-machine Gun					5			0-150		2
+Assault Rifle					2			0-250		3
+Shotgun							3			0-100		7
+Pistol							7			0-50		1
 </pre>
 
 ## Explosives ##
 <pre>
-Explosives					Concealability	Reach	Damage	Weight	Cost
+Explosives					Concealability	Range(m)	Damage	Weight	Cost
 ------------------------------------------------------------------------
-Grenade							6					7
+Grenade							6			STR*5		7
 </pre>
