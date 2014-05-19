@@ -1,23 +1,35 @@
 # Armor #
 ## Clothing ##
+Standard clothing is included as a reference for weight and for the purpose of CCARPS, have no defence value.
 <pre>
-Clothing		Concealability	Damage	Bludgeon	Piercing	Ballistic	Weight	Cost
-----------------------------------------------------------------------------------------
-Shirt
-Trousers
-Robe
-Gloves
-Shoes
+						Resistance Types
+Clothing			Bludgeon	Piercing	Ballistic	Weight
+--------------------------------------------------------------
+Shirt					-			-			-		
+Trousers				-			-			-		
+Robe					-			-			-		
+Gloves					-			-			-		
+Shoes					-			-			-		
 </pre>
 
 ## Light Armor ##
 <pre>
-Light Armor		Concealability	Damage	Bludgeon	Piercing	Ballistic	Weight	Cost
-----------------------------------------------------------------------------------------
+						Resistance Modifier Types
+Light Armor			Bludgeon	Piercing	Ballistic	Weight
+--------------------------------------------------------------
+Bone					1			1			0
+Leather					2			1			0
+Studded Leather			2			2			0
+Chainmail				3			3			0
 </pre>
 
 ## Heavy Armor ##
 <pre>
-Heavy Armor		Concealability	Damage	Bludgeon	Piercing	Ballistic	Weight	Cost
-----------------------------------------------------------------------------------------
+						Resistance Modifier Types
+Heavy Armor			Bludgeon	Piercing	Ballistic	Weight
+--------------------------------------------------------------
+Scalemail
+Plated Leather
+Half Plate
+Full Plate
 </pre>
