@@ -1,9 +1,9 @@
 # Armor #
 ## Clothing ##
-Standard clothing is included as a reference for weight and for the purpose of CCARPS, have no defence value.
+Standard clothing is included as a reference for Mass and for the purpose of CCARPS, have no defence value.
 <pre>
 						Resistance Types
-Clothing			Bludgeon	Piercing	Ballistic	Weight
+Clothing			Bludgeon	Piercing	Ballistic	Mass
 --------------------------------------------------------------
 Shirt					-			-			-		
 Trousers				-			-			-		
@@ -15,7 +15,7 @@ Shoes					-			-			-
 ## Light Armor ##
 <pre>
 						Resistance Modifier Types
-Light Armor			Bludgeon	Piercing	Ballistic	Weight
+Light Armor			Bludgeon	Piercing	Ballistic	Mass
 --------------------------------------------------------------
 Bone					1			1			0
 Leather					2			1			0
@@ -26,10 +26,10 @@ Chainmail				3			3			0
 ## Heavy Armor ##
 <pre>
 						Resistance Modifier Types
-Heavy Armor			Bludgeon	Piercing	Ballistic	Weight
+Heavy Armor			Bludgeon	Piercing	Ballistic	Mass
 --------------------------------------------------------------
-Scalemail
-Plated Leather
-Half Plate
-Full Plate
+Scalemail				4			2			0
+Plated Leather			4			4			1
+Half Plate				6			4			2
+Full Plate				8			6			4
 </pre>
