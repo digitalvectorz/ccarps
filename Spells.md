@@ -32,3 +32,8 @@ Examples-
 Examples-
 * Arcane: Shapeshift, Water to Wine, Changing hair color, Invisibility
 * Spiritual: Alter Mood, Spirit Healing, Auras
+
+**Enchantment:** Imbue a creature or object with extraordinary abilities or properties.
+Examples-
+* Hex: Alter the behavior of a living being.
+* Imbue: Instill a magical property into an item. The strength and circumstance in which an item was imbued dictates the permanence.
