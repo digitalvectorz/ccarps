@@ -29,13 +29,14 @@ Arcane Magic Spells consist of three parts:
 * Conversion: A ritual to convert the catalyst or components to magical energy.
 * Channel: A physical action to channel magical energy through the body to the target.
 
-Arcane magic has five domains:
-
-* **Life:** Anything natural occurring on land; plants, animals, insects, persons, etc.
-* **Sea:** Anything natural occurring in large bodies of water; plants, animals, insects, persons, etc.
-* **Sky:** Anything natural occurring in the open skies; animals, clouds, wind, etc.
-* **Land:** The manipulation of the natural ground that is walked upon; sand, dirt, rocks, etc.
-* **Death:** Anything that causes death or undeath; disease, walking dead, parasites, etc.
+Arcane magic has seven domains:
+* Elemental: life, sea, sky, and land.
+* Illusion: visual, auditory, touch 
+* Protection: mental, physical. 
+* Conjuration: calling of demons, deities
+* Divination: precognition, clairvoyance, clairaudience
+* Life: plants, animals, insects, persons, life replenishing
+* Death: disease, decay, undeath, parasite, poison, life absorbing
 
 ## Spiritual Magic (WILL) ##
 Spiritual magic is magic that manipulates a different form or plane of energy to the users will. Spiritual magic is only taught by those who know it. The base attributes used for Spiritual magic are Will and Constitution (Will is the primary attribute). Spiritual magic has a base Knowledge Skill that is required to be known before the user can even try the following Spiritual Skills. After learning this Knowledge Skill, one may not learn any of the Spiritual Skills past the level equivalent to the Knowledge Skill.
@@ -46,6 +47,13 @@ Using Spiritual magic skills is split into four difficulties that have different
 * Medium (base target number = 6)
 * Hard (base target number = 3)
 * Extreme (base target number = 0)
+
+Spiritual magic has five domains:
+* Capacity & Transference: the building up of and transferring of energy.
+* Martial: Use of spiritual magic to aid in defense and offense
+* Conjuration: calling of spirits
+* Divination: spirit seeking, scrying
+* Planar: movement and manipulation through the Astral Plane
 
 ## Wild Magic (CHA)##
 Wild magic is the type of magic that is spontaneous in nature. Some creatures are born with an innate ability to tap into the magic around them without any formal training. These beings have a way of feeling or sensing magical things and can channel magical energies. Don't ask them how they do it or where they learned it, they'll say that they just do things and stuff happens.
@@ -61,40 +69,7 @@ Target numbers begin at 2 and decrease very sharply as the difficulty of an acti
 * Extreme: (base target number = -6)
 * Inconceivable: (base target number = -8)
 
-## Spells ##
-The core of arcane magic is the manipulation and conversion of energies. When stripped down to its core, many spells share the same aspects.
-
-There are no set spells or abilities for Wild Magic, as it is unique to each creature. However, all three types of magic are comprised of a mixture of the following.
-
-**Attack**: Use an element of your domain to create a projectile.
-Examples-
-* Arcane: Fireball, Gust of Wind, Ice Needles
-* Spiritual: Spirit Blast
-
-**Defense**: Use an element of your domain to create a protective barrier in front of you.
-Examples-
-* Arcane: Elemental Wall, Dome of Bones
-* Spiritual: Spirit Wall, Energy Dome
-
-**Movement**: Cause movement using an element of your domain.
-Examples-
-* Arcane: Earthquake, Tsunami, Tornado
-* Spiritual: Spirit Push/Pull, Astral Projection
-
-**Dissipation**: Nullify existing magic or event by forcing energy to spread apart
-Examples-
-* Arcane: Disperse Element, Disintegrate (Decay), Explode (Rapid Expansion), Implode (Demolish)
-* Spiritual: Diffuse Spirit, Spirit Bomb (through force or expansion)
-
-**Infusion**: Infuse target with an element of your domain.
-Examples-
-* Arcane: Heal, Zombify, Raise Dead, Infectious Disease, Invasive Parasites
-* Spiritual: Gather Energy, Energy Feedback, Spiritual Cleansing
-
-**Elemental Transfiguration**: Alter the outward appearance of something (mass stays equal unless added or removed).
-Examples-
-* Arcane: Shapeshift, Water to Wine, Changing hair color, Invisibility
-* Spiritual: Alter Mood, Spirit Healing, Auras
+## Enchantment and Transfiguration ##
 
 ## Note ##
 *Note to Game Master / World Builder:* For low magic worlds, we suggest using wild magic as the only magic and setting a Critical success rule to acquire the skill. In non magic worlds, omit all three types of magic.
