@@ -62,9 +62,9 @@ Target numbers begin at 2 and decrease very sharply as the difficulty of an acti
 * Inconceivable: (base target number = -8)
 
 ## Spells ##
-There are no set spells or abilities for Wild Magic, as it is unique to each creature. However, all three types of magic are comprised of a mixture of the following.
+The core of arcane magic is the manipulation and conversion of energies. When stripped down to its core, many spells share the same aspects.
 
-The core of arcane magic is the manipulation and conversion of energies. When stripped down to its core, many spells are just aspects of the following general aspects.
+There are no set spells or abilities for Wild Magic, as it is unique to each creature. However, all three types of magic are comprised of a mixture of the following.
 
 **Attack**: Use an element of your domain to create a projectile.
 Examples-
@@ -78,8 +78,8 @@ Examples-
 
 **Movement**: Cause movement using an element of your domain.
 Examples-
-* Arcane: Earthquake, tsunami (Earth element under water OR Water element moving mass of water)
-* Spiritual: Spirit Push, Astral Projection
+* Arcane: Earthquake, Tsunami, Tornado
+* Spiritual: Spirit Push/Pull, Astral Projection
 
 **Dissipation**: Nullify existing magic or event by forcing energy to spread apart
 Examples-
@@ -94,7 +94,7 @@ Examples-
 **Elemental Transfiguration**: Alter the outward appearance of something (mass stays equal unless added or removed).
 Examples-
 * Arcane: Shapeshift, Water to Wine, Changing hair color, Invisibility
-* Spiritual: Alter Mood, Spirit Healing, Auras of(Emotions [Courage, Fear, Anger, Sadness, Trust, etc.], Defense, Offense)
+* Spiritual: Alter Mood, Spirit Healing, Auras
 
-
+## Note ##
 *Note to Game Master / World Builder:* For low magic worlds, we suggest using wild magic as the only magic and setting a Critical success rule to acquire the skill. In non magic worlds, omit all three types of magic.
