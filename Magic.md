@@ -1,13 +1,21 @@
 # Magic #
 There are three types of magic; _Arcane_, _Spiritual_, and _Wild_.
-Casting magic requires a character to channel energy through their self in order to reform the energy into a new pattern. The act of casting magic causes the magic user some serious although temporary discomfort in the form of mental damage known as energy drain. When casting the magic user can chose a casting level from 1 to the value of his or her chosen magic skill modifier. After casting no matter the level of success the magic user will take drain equal to the chosen casting level and check off one box from their damage meter, starting with mental, for each level . (casting at level 3 will cause 3 drain. in the case of a critical success divide the drain in half rounded down (3 / 2 = 1.5 = 1.) On a critical failure double the drain amount (3 * 2 = 6.)
-
-Players can summon spirits and/or work together through a single foci to cast magic beyond level 8 in this case the magic users will each take an equal share of the drain caused by the spell. In all cases foci and spirit channeling can be used to reduce the drain.The maximum casting level is the sum of all the magic user's casting skill modifiers in the casting group. The target numbers are based on the charts below (they vary from type to type.) then modified by subtracting the casting level from the base target number.
+Casting magic requires a character to channel energy through their self using their body as a conduit in order to reform the energy into a new pattern. The act of casting magic causes the magic user some serious although temporary discomfort in the form of mental damage known as energy drain. When casting, the magic user can chose a casting level up to and including the value of his or her related magic skill modifier. After casting the magic user will take drain from the energy transfer.
 
 ## Drain ##
-Magical drain for all types of magic is simply the casting level. If you cast a fireball at level 3, you would take 3 points of Mental damage. This can be mitigated by use of foci, which are dependent on your type of magic. A critical success cuts your drain in half, rounded down.
+When casting any magic, the caster will suffer drain equal to the chosen casting level times the success table modifier in Mental damage. If the drain damage plus any previous damage exceeds the Mental damage meter the additional damage is applied to the physical meter in the same way combat damage is applied. The caster can use foci and/or summoned spirits to reduce the drain.
 
-Remember that the standard Laws of Magic apply to all magic types:
+Magic Success Modifier Table
+Critical Success = 0.5
+Success = 1
+Failure = 1.5
+Citical Failure = 2
+
+## Casting Cabal ## 
+Players can work together through a single foci or a summoned spirit to cast magic beyond level 8 in this case the magic users will each take an equal share of the drain caused by the spell. In all cases foci and spirit channeling can be used to reduce the drain. Casting level must be evenly divisable by the number of magic users in the cabal. The maximum casting level is the sum of all the magic user's casting skill modifiers in the casting group rounded down to the nearest multiple. The target numbers are based on the charts below (they vary from type to type.) then modified by subtracting the casting level from the base target number.
+
+## Immutable Magical Laws ##
+The Immutable Laws of Magic apply to all magic types:
 * Energy cannot be created nor destroyed it can only be transformed.
 * A magic user can never believe something out of existence. In the best case, an attempt to do so will fail; in the worst case, the magic user will cause a catastrophic implosion at his location and will be atomized. 
  
