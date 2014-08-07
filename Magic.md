@@ -69,7 +69,9 @@ Target numbers begin at 2 and decrease very sharply as the difficulty of an acti
 * Extreme: (base target number = -6)
 * Inconceivable: (base target number = -8)
 
-## Enchantment and Transfiguration ##
+## Enchantment, Transfiguration ##
+* Enchantment: Adding magic spell charges to an item, or a duration-based spell.
+* Transfiguration: The changing of the properties of an object. Imbuing magical properties into ingots of metals, inanimate to animate object, etc. (Wholly up to the GM and world used.)
 
 ## Note ##
 *Note to Game Master / World Builder:* For low magic worlds, we suggest using wild magic as the only magic and setting a Critical success rule to acquire the skill. In non magic worlds, omit all three types of magic.
