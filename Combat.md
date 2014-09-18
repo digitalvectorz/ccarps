@@ -58,7 +58,7 @@ Damage is represented as a series of three connected bars of ten boxes each. Box
 
 Once a character is unconscious they no longer take mental damage. Instead, further mental damage would overflow into physical damage, thereby increasing the characters physical damage count by the overflow amount. When a character takes deadly physical damage that character begins to die, any additional damage, mental, or physical, is applied to the spiritual damage meter.
 
-Any character that has taken spiritual damage beyond the first medium box cannot be revived without the intervention of magic, or a trauma surgeon. When a character takes deadly spiritual damage no amount of medicine or magic can revive that character. A character is "fully dead" if all the spiritual boxes are marked. Anything less than ten boxes of spiritual damage is only "mostly dead" as defined by Miracle Max (*The Princess Bride*).
+Any character that has taken spiritual damage beyond the first medium box cannot be revived without the intervention of magic, or a trauma surgeon. When a character takes deadly spiritual damage no amount of medicine can revive that character. A character is "fully dead" if all the spiritual boxes are marked. Anything less than ten boxes of spiritual damage is only "mostly dead" as defined by Miracle Max (*The Princess Bride*).
 
 Damage comes from these primary sources: Stun/Shock/Bludgeoning, Cutting/Piercing, and Magical/Energy.
 
@@ -158,5 +158,4 @@ giant	|	10 >
 
 ### Firearm damage modifiers ###
 double damage if target is in contact with the muzzle.
-
 

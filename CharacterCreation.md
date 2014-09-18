@@ -86,7 +86,7 @@ Each skill will have an attribute associated with it. These attributes are skill
 
 Skills come in three types: **Natural**, **Knowledge**, and **Martial**.
 
-**Natural Skills** are the skills that can only be learned through practice and experiment. Things like walking and running are simple natural skills, Wild Magic is an example of a difficult natural skill.
+**Natural Skills** are the skills that can only be learned through practice and experiment. Things like walking and running are simple natural skills; climbing and belaying are examples of a difficult natural skill.
 
 **Knowledge Skills** are skills that can be learned from a book. Such as, Particle Physics, reading, and writing.
 
