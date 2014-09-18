@@ -17,8 +17,8 @@ A character's technology level helps define level adjustments and target numbers
 	12 	Genetic
 	13 	Stellar Expansion
 	14 	Nanotechnology
-	15 	Terraform
-	16 	Quantum
+	15 	Quantum
+	16 	Terraform
 	17 	Faster Than Light
 	18 	Galactic Expansion
 	19 	Temporal
