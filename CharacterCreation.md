@@ -31,7 +31,7 @@ There are five primary attributes:
 * DEX  = Dexterity
 * CON  = Constitution
 * INT  = Intelligence / IQ
-* WILL = Willpower
+* WIL = Willpower
 
 Once the primary attributes are assigned, they cannot be changed. Think of them as genetic limits. That is not to say that technology and magical items cannot be used to change them.
 
@@ -39,7 +39,7 @@ Once the primary attributes are assigned, they cannot be changed. Think of them 
 * Roll 2 = DEX
 * Roll 3 = CON
 * Roll 4 = INT
-* Roll 5 = WILL
+* Roll 5 = WIL
 
 ### Character Points ###
 At character creation initial character points are equal to the sum total of your character's primary attributes Strength, Dexterity, Constitution, Intelligence, and Willpower. The initial character points are used to buy Oddities, Prestige, Prejudice, and starting Skills.
@@ -47,11 +47,11 @@ At character creation initial character points are equal to the sum total of you
 ## Secondary Attributes ##
 The secondary attributes are average combinations of the primary attributes. Skills are based on these.
 
-* Charisma = avg(C,I,W); (CON + INT + WILL) / 3
+* Charisma = avg(C,I,W); (CON + INT + WIL) / 3
 * Speed = avg(S,D); (STR + DEX) / 2
-* Reflex = avg(S,D,W); (STR + DEX + WILL) / 3
-* Lift = avg(S,W); (STR + WILL) / 2
-* Perception = avg(I,W); (INT + WILL) / 2
+* Reflex = avg(S,D,W); (STR + DEX + WIL) / 3
+* Lift = avg(S,W); (STR + WIL) / 2
+* Perception = avg(I,W); (INT + WIL) / 2
 
 ## Character Oddities ##
 These may only be taken at character creation. They are used to gain advantages and to make trade off's to provide flexibility and role-play interest in character options, or to add "character" to your characters. Your Game Master may modify a character's Oddities based on role-play events or extraordinary situations.

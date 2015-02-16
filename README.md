@@ -1,6 +1,6 @@
 # CCARPS
 <pre>
-Version: pre-1.0.0 testing
+Version: 0.9.0
 </pre>
 
 The *Community Codex Adaptive RolePlay System*, or CCARPS, is a modular game ruleset / framework. We were deeply unsatisfied by other rulesets and their accompanying license terms, so we set out to create one that we wanted to use.
