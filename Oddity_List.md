@@ -1,4 +1,4 @@
-# Character Oddities
+# List of Oddities #
 All character traits are oddities; they are the things that make your character unique. While many, if not most, can be taken as a neutral trait. Some can be active and some can be passive, but they cannot be both. These changes are referred to as Prestige and Prejudice. Prestige will give active effects to your roll, such as reducing your target number in success tests, or adding modifier dice.
 
 * Oddities are all character traits. A "normal" Oddity isn't in an extreme and may be passive or active.

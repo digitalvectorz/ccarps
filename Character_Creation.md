@@ -1,63 +1,82 @@
 # Character Creation #
-It is great to sit down to a game with well written characters and even better when the characters attributes are reflected in the story told about them. Many roleplayers take great pride in designing the characters they play, from the back story to the description of appearance to the attitude and social disposition, they create interesting characters with compelling and intriguing lives. To assist in making those connections between attributes and storyline we have organized the character creation section to take you from the basic details to the final story in that order such that you can incorporate the most important facts about your character from the very beginning. With that said please feel free to explore your character from the ground up beginning with his or her primary attributes.
+It is great to sit down to a game with well-written characters. It is even better when the character's attributes and abilities are reflected in the story they partake in. Many take pride in designing the characters they play, from the backstory to appearance, to attitude and social disposition. They create interesting characters with compelling and intriguing lives; the characters are center stage to the story the Game Master is guiding.
 
 ## Starting Points ##
+Every character, whether it is the Player or NPC, has starting points. These are the points that you will spend on Oddities and Skills. In order to be ready for the game, the collection of Oddities and Skills must equal the Starting Points for your character.
+
 There are two options for starting points:
 
-**Option A**, GM assigns points according to the suggested minimum values below. (This option homogenizes the group and allows for quicker character creation)  
-**Option B**, Players roll dice to determine the starting points. (I find that this method creates more diversity within the group but it will take longer to roll up characters. Use this option when the group has plenty of time to get started. This option works better when the adventure is in progress and a character has died, the player can take all the time he or she needs to build the replacement character.)
+1. The Game Master assigns a Starting Age and Type and players roll with the Starting Type rules.  
+The character's Starting Points are equal to the sum of the Primary Attributes.
+2. The Game Master assigns points according to the suggested minimum values (shown below).
 
-* **Beginner:** roll five sets of d6 according to the age specific table below.(Average See Table)
-* **Novice:** must be over 18 yrs of age; roll five sets of d6 re-roll all ones (Average of 80 points).
-* **Advanced:** must be over 21 yrs of age; roll six sets of d6 according to the age specific table (Average of 90 points).
-* **Heroic:** must be over 21 yrs of age; roll six sets of 5d6 re-roll all ones (Average of 100 points).
-* **Epic:** must be over 21 yrs of age; roll eight sets of 5d6 (Average of 130 points ).
-* **Legendary:** must be over 21 yrs of age; roll ten sets of 5d6 (Average of 150 points).
+### Starting Age and Type ###
+Starting Types can be used to help add variety to the group's characters, where age and past experience is taken into account. This can help add depth and a sense of connection between characters, their past, and their place in the game world. The first step is to find out how many dice to roll. This is dictated by your age, and can be found in the Starting Age table below. 
 
-Age in Years and number of d6 per set:
+Starting Age (in Years):
 
-* 21+: 5d6 (Average: 75pts)
-* 16-20: 4d6 (Average: 60pts)
-* 11-15: 3d6 (Average: 45pts)
-* 6-10: 2d6 (Average: 30pts)
-* < 6: 1d6 (Average: 15pts)
+* 21+: 5d (Average: 75pts)
+* 16-20: 4d (Average: 60pts)
+* 11-15: 3d (Average: 45pts)
+* 6-10: 2d (Average: 30pts)
+* < 6: 1d (Average: 15pts)
+
+The second step is rolling your character's Primary Attributes. Primary Attribute rolls are based on the Starting Type, which is influenced by the character's age. Every starting type has its own rule for how to roll your attributes.
+
+For rolling up characters, it is suggested that you write down each roll on a scratch piece of paper before committing it to the character sheet. Some Starting Types allow the modification of rolls before they are recorded on the character's sheet. Unless the Starting Type (or Game Master) says otherwise, the rolls will be committed to the sheet in the order they are rolled. First roll is Strength (STR), second Dexterity (DEX), and so on.
+
+Starting Types:
+
+* **Beginner:**    Roll Starting Age dice once per Primary Attribute. (Average points: See Starting Age table)  
+
+* **Novice:** Must be 18 or older. Roll Starting Age dice once per Primary Attribute, re-rolling any 1s. (Average points: 80)  
+
+* **Advanced:** Must be over 21. Roll Starting Age dice once per Primary Attribute, plus one extra roll. Replace lowest result with extra, if the extra is not the lowest. (Average points: 90)  
+
+* **Heroic:** Must be over 21. Roll Starting Age dice once per Primary Attribute plus one extra roll. Re-roll all 1s and drop the lowest result. (Average points: 100)  
+
+* **Epic:** Must be over 21. Roll Starting Age dice eight times and use the five largest results. (Average points: 130)  
+
+* **Legendary:** Must be over 21. Roll Starting Age dice ten times and use the five largest results. (Average points: 150)
 
 ## Primary Attributes ##
-The primary attributes are based on a Human character. For other races like Elf, Dwarf, Orc, Troll, and Gnome, we will use die modifiers to enhance and detract from the base attributes (see racial modifier table). The number of dice you should roll will be determined by the GM and the difficulty level of the world he or she has created.
+*CCARPS* characters have five Primary Attributes:
 
-There are five primary attributes:
+* **Strength** (STR): Capable of producing and/or withstanding great physical force.  
 
-* STR  = Strength
-* DEX  = Dexterity
-* CON  = Constitution
-* INT  = Intelligence / IQ
-* WIL = Willpower
+* **Dexterity** (DEX): Skill in performing tasks, especially with the hands.  
 
-Once the primary attributes are assigned, they cannot be changed. Think of them as genetic limits. That is not to say that technology and magical items cannot be used to change them.
+* **Constitution** (CON): A person's physique or temperament; the general health of a person.  
 
-* Roll 1 = STR
-* Roll 2 = DEX
-* Roll 3 = CON
-* Roll 4 = INT
-* Roll 5 = WIL
+* **Intelligence** (INT): The faculty of thinking, judging, abstract reasoning, and conceptual understanding.  
 
-### Character Points ###
-At character creation initial character points are equal to the sum total of your character's primary attributes Strength, Dexterity, Constitution, Intelligence, and Willpower. The initial character points are used to buy Oddities, Prestige, Prejudice, and starting Skills.
+* **Willpower** (WIL): The unwavering strength of will (intention, desire) to carry out one’s wishes.
+
+Primary Attributes are permanent; they do not change once they have been recorded. This can be seen as a genetic limit; nothing can naturally change them. In some game worlds, magic or technology could possibly alter Primary Attributes.
 
 ## Secondary Attributes ##
 The secondary attributes are average combinations of the primary attributes. Skills are based on these.
 
-* Charisma = avg(C,I,W); (CON + INT + WIL) / 3
-* Speed = avg(S,D); (STR + DEX) / 2
-* Reflex = avg(S,D,W); (STR + DEX + WIL) / 3
-* Lift = avg(S,W); (STR + WIL) / 2
-* Perception = avg(I,W); (INT + WIL) / 2
+* **Charisma** (CHA): Personal charm or magnetism.  
+Average of Constitution, Intelligence, and Willpower. (CON + INT + WIL) / 3  
 
-## Character Oddities ##
-These may only be taken at character creation. They are used to gain advantages and to make trade off's to provide flexibility and role-play interest in character options, or to add "character" to your characters. Your Game Master may modify a character's Oddities based on role-play events or extraordinary situations.
+* **Speed** (SPD): The rate of motion or action.  
+Average of Strength and Dexterity. (STR + DEX) / 2  
 
-### Wealth and Influence ###
-Wealth and Influence are considered to be Prestige, or Prejudice depending on the extreme to which your character is subject. All characters are required to choose their Wealth and Influence. For average wealth and influence there is no modifier and it can be taken for free. If Wealth and Influence are undefined at character creation they are considered to be average. 
+* **Reflex** (RFX): An automatic response to a simple stimulus which does not require mental processing.  
+Average of Strength, Dexterity, and Willpower. (STR + DEX + WIL) / 3  
+
+* **Lift** (LFT): To exert the strength for raising or bearing.  
+Average of Strength and Willpower. (STR + WIL) / 2  
+
+* **Perception** (PER): Conscious understanding of something; to be aware of.  
+Average of Intelligence and Willpower. (INT + WIL) / 2
+
+## Oddities ##
+These may only be taken at character creation. They are used to gain advantages and to make trade off's to provide flexibility and role-play interest in character options, or to add "character" to your characters. Your Game Master may modify a character's Oddities based on role-play events or extraordinary situations. See "List of Oddities" for the list of included Oddities.
+
+### Wealth and Social Influence ###
+Wealth and Social Influence are considered to be Oddities. All characters are required to choose their Wealth and Social Influence, and as such, these Oddities are taken at the costs outlined below. For average wealth and social influence there is no modifier and it can be taken for free. If Wealth and Social Influence are undefined at character creation they are considered to be average. 
 
 **Wealth** is a measure of a characters accumulation of material value, including things such as property (home, car, horses), finery (cloths, tools, weapons), and currency. Ask the Game Master for currency and/or material value for starting out at a given level. The starting wealth is more a statement of the character's upbringing than the character's current status. The point gain or loss is meant to represent the character's perception of wealth and his or her ability to move in social circles. A person who was raised filthy rich would stand out like a sore thumb on skid row, just as a dirt poor person would at a country club.
 
@@ -67,16 +86,16 @@ Wealth and Influence are considered to be Prestige, or Prejudice depending on th
 * Lower Class: -15
 * Dirt Poor: -25
 
-**Influence** is measured by the number of people you have in your contact list, and the quality of the contact relationship eg. An Acquaintance (a low quality contact) will accept your call and listen to your request, they may even provide information if asked the right question but the information has a 50% chance of being inaccurate. A Friend (an average contact) is like a good friend, you can trust them to tell you what they know but they have limited access to high level information, and generally will not get into harms way for you. A Confidant (a high quality contact) will have good access to information and be trustworthy and reliable and will defend you at his or her own risk up to but not including risk of his or her own life. Each character starts with a number of contacts. Contacts are purchased with contact points that are awarded based on the level of Wealth and Influence assigned to the character.
+**Social Influence** is measured by the number of people you have in your contact list, and the quality of the contact relationship eg. An Acquaintance (a low quality contact) will accept your call and listen to your request, they may even provide information if asked the right question but the information has a 50% chance of being inaccurate. A Friend (an average contact) is like a good friend, you can trust them to tell you what they know but they have limited access to high level information, and generally will not get into harms way for you. A Confidant (a high quality contact) will have good access to information and be trustworthy and reliable and will defend you at his or her own risk up to but not including risk of his or her own life.
 
 * 1pt = Acquaintance
-* 2pt = Friend
-* 3pt = Confidant)
+* 3pt = Friend
+* 5pt = Confidant
 
 ## Skills ##
 Skills determine what your character can do as well as what they know. Adding one point to a skill is the equivalent of the character experimenting with new ideas, or reading a basic instruction manual, or taking an introductory lesson from one who knows the skill at an advanced level (or higher). This gives the character the ability to use the skill with no special proficiency. Before a character can attempt to use a skill they must apply at least one point to it. Each point in a skill equals that skill's level. It onlly takes a single point to raise a skill to the next level.
 
-Each skill will have an attribute associated with it. These attributes are skill requirements; no skill may have a modifier that is higher than the associated attribute modifier, e.g. if your Intelligence modifier is +2, you cannot have your Reading skill modifier any higher than +2. During a campaign, this level cap does not apply unless the game world / Game Master says otherwise.
+Each skill will have an attribute associated with it. These attributes are skill requirements; at character creation, no skill may have a modifier that is higher than the associated attribute modifier, e.g. if your Intelligence modifier is +2, you cannot have your Reading skill level any higher than +2. During a campaign, this level cap does not apply unless the game world / Game Master says otherwise.
 
 Skills come in three types: **Natural**, **Knowledge**, and **Martial**.
 
@@ -88,8 +107,9 @@ Skills come in three types: **Natural**, **Knowledge**, and **Martial**.
 
 These learning limits only apply to the first level of the skill once a character has the basic concepts further learning can be done without the assistance of the trainer or books.
 
-Use the Skills and Attributes Modifier Table to find your skill level modifier and skill dice modifier for a given skill.  
-*TODO: Create nice image table for this.*
+Please see "List of Skills" for the included list of skills to choose from.
+
+Use the Skills and Attributes Modifier Table to find your skill level modifier and skill dice modifier for a given skill.
 
 ## Character Appearance ##
 The appearance of a given character is mostly up to the player; however, it is a good idea to use character attributes as guidelines.
