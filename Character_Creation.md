@@ -23,34 +23,19 @@ Starting Age (in Years):
 
 The second step is rolling your character's Primary Attributes. Primary Attribute rolls are based on the Starting Type, which is influenced by the character's age. Every starting type has its own rule for how to roll your attributes.
 
-For rolling up characters, it is suggested that you write down each roll on a scratch piece of paper before committing it to the character sheet. Some Starting Types allow the modification of rolls before they are recorded on the character's sheet. Unless the Starting Type (or Game Master) says otherwise, the rolls will be committed to the sheet in the order they are rolled. First roll is Strength (STR), second Dexterity (DEX), and so on.
+For rolling up characters, it is suggested that you write down each roll on a scratch piece of paper before committing it to the character sheet. Some Starting Types allow the modification of rolls before they are recorded on the character's sheet. Unless the Starting Type (or Game Master) says otherwise, the rolls will be committed to the sheet in the order they are rolled. First roll is Strength, second is Dexterity, and so on.
 
-
-Character Rank
-
+### Character Rank ###
 Character rank is the sum of the character's Primary Attributes. When a character's points equal or exceed a given rank, the player rolls an extra set of 5d and may apply that to a chosen attribute. (This is a chance to increase an attribute, which is not guaranteed.)
 
-Beginner: 75
-Novice: 90
-Advanced: 105
-Heroic: 120
-Epic: 135
-Legendary: 150
+* Beginner: 75 points
+* Novice: 90 points
+* Advanced: 105 points
+* Heroic: 120 points
+* Epic: 135 points
+* Legendary: 150 points
 
-
-	Starting Types (old):
-
-	* **Beginner:** Roll Starting Age dice once per Primary Attribute. (Max points: See Starting Age table)  
-
-	* **Novice:** Must be 18 or older. Roll Starting Age dice once per Primary Attribute, plus one extra roll. Drop the lowest result. (Max points: 80)  
-
-	* **Advanced:** Must be over 21. Roll Starting Age dice once per Primary Attribute, plus two extra rolls. Drop the lowest result. (Max points: 90)  
-
-	* **Heroic:** Must be over 21. Roll Starting Age dice once per Primary Attribute plus three extra rolls. Drop the lowest result (Max points: 100)  
-
-	* **Epic:** Must be over 21. Roll Starting Age dice eight times and use the five largest results. (Max points: 130)  
-
-	* **Legendary:** Must be over 21. Roll Starting Age dice ten times and use the five largest results. (Max points: 150)
+*Note:* If a Game Master wants to boost characters, they can add the extra rolls as if the character had the base number of points.
 
 ## Primary Attributes ##
 *CCARPS* characters have five Primary Attributes:
