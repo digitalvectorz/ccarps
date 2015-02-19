@@ -10,9 +10,9 @@ All attributes and skills have Modifiers, as will some equipment and Oddities. T
 ## Rolling for Success ##
 There is only one "dice roll mechanic" in *CCARPS*: a base *Target Number* is assigned, modifiers are applied to the base *Target Number*, and dice are rolled in an attempt to roll *lower than* the Target Number. This is achieved by using the two *lowest* dice in any dice roll set. This applies to all rolls, including the Game Master, NPCs, and creatures.
 
-	You are sneaking around in a dark and unfamiliar place. You have a "Stealth" skill with a modifier of 1 and quiet shoes with a Modifier of 2. The base Target Number to successfully be undetected is a 3. You add your modifier to the Target Number (3 + 1 + 2); you must roll under a 6. You roll 2d; it's a 5. You are successfully stealthy.
+*You are sneaking around in a dark and unfamiliar place. You have a "Stealth" skill with a modifier of 1 and quiet shoes with a Modifier of 2. The base Target Number to successfully be undetected is a 3. You add your modifier to the Target Number (3 + 1 + 2); you must roll under a 6. You roll 2d; it's a 5. You are successfully stealthy.
 
-	Someone walks nearby, which contests your active "Stealth" skill. You stop moving, so your base Target Number is 8. The person has a "Detect" skill modifier of 2, which brings your Target Number down to 6. Adding your "Stealth" modifier of 1, your Target Number is 7. Rolling 2d, you see, to your horror, a 5 and a 6. At a total of 11, you have failed to stay stealthy. You bumped a vase, so the person asks "Who's there?" and begins walking guardedly toward your position.
+Someone walks nearby, which contests your active "Stealth" skill. You stop moving, so your base Target Number is 8. The person has a "Detect" skill modifier of 2, which brings your Target Number down to 6. Adding your "Stealth" modifier of 1, your Target Number is 7. Rolling 2d, you see, to your horror, a 5 and a 6. At a total of 11, you have failed to stay stealthy. You bumped a vase, so the person asks "Who's there?" and begins walking guardedly toward your position.*
 
 *CCARPS* has three types of Target Number modification:
 
