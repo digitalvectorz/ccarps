@@ -129,3 +129,4 @@ Adventure points are earned through adventuring. As a general rule, each player 
 Once points are assigned to a skill they may not be moved or re-assigned. Skills can be increased by applying points to the skill level accumulator for a desired skill. Die bonuses are applied at 6 for Novice, 18 for Advanced, and 36 for Master. Modifier bonuses are gained according to the skill modifier table. The maximum points one can apply to any skill is 36. New skills can be added to your character during play by working with a trainer or reading the appropriate book, but they must be built up through the levels by adding points to the accumulator.
 
 **Example:** Bob the bouncer wants to add martial arts to his skill list to gain a block/parry advantage to his fighting skills. At the end of the session he has earned 3 adventure points, Bob will locate a trainer or buy a book and add the chosen skill to the list applying any or all of the 3 points he earned.
+

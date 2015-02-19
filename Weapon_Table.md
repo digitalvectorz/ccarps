@@ -50,3 +50,6 @@
 	Explosives					Concealability	Range(m)	Damage			Weight
 	------------------------------------------------------------------------------
 	Grenade							6			STR*5		7
+
+\pagebreak
+

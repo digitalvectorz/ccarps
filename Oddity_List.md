@@ -169,3 +169,6 @@ The point value of a vow should be directly related to the inconvenience it caus
 
 * _Major vow_: use no edge weapons keep silence at all times never sleep indoors own no more than your horse can carry negative 10 points. 
 * _Great vow_: never refuse any request for aid, always fight with the wrong hand hunt a given foe until you destroy him, challenge every knight you meet to combat. negative 15 points  
+
+\pagebreak
+

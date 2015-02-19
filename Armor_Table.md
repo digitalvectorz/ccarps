@@ -28,3 +28,5 @@ Armor resistance tables should only be used for creation of armor items, armor i
 	plate						4			5			5			1		3
 	composite					5			4			6			3		2
 
+\pagebreak
+
