@@ -1,5 +1,14 @@
 # Attribution Index
 
+## Attributes
+The following attribute definitions are licensed under [Creative Commons Attribution-ShareAlike 3.0 Unported](http://creativecommons.org/licenses/by/3.0/) and taken from Wiktionary:
+
+* [Strength](http://en.wiktionary.org/wiki/strong)
+* [Dexterity](http://en.wiktionary.org/wiki/dexterity)
+* [Constitution](http://en.wiktionary.org/wiki/constitution)
+* [Intelligence](http://en.wiktionary.org/wiki/intellect)
+* [Willpower](http://en.wiktionary.org/wiki/willpower)
+
 ## Skills
 The following skill definitions are licensed under [Creative Commons Attribution-ShareAlike 3.0 Unported](http://creativecommons.org/licenses/by/3.0/) and taken from Wikipedia:
 
