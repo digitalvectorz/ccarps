@@ -4,18 +4,17 @@ The act of combat is represented as a series of skill tests. The attacker makes 
 ## Range and Reach ##
 Range and reach are how far one can use projectiles or hit with melee weapons. A reach/range of zero (0) is equal to 3 feet (1 yard). Each point of reach/range is equal to an additional 3 feet.
 
-<pre>
-------------------------
-Reach/Range	Distance
-------------------------
-0		3ft
-1		6ft
-2		9ft
-...		...
-8		24ft
-9		27ft
-10		30ft
-</pre>
+
+	Reach/Range	Distance
+	--------------------
+	0		3ft
+	1		6ft
+	2		9ft
+	...		...
+	8		24ft
+	9		27ft
+	10		30ft
+
 
 If the number is less than zero (0), there is a -1 penalty to target number, unless specified differenly by weapon type.
 
@@ -100,18 +99,17 @@ Spiritual damage is the most difficult to heal. Each point of spiritual damage m
 When a player designates a target and launches a projectile, the player must roll below the modified target number in order to hit. if the player rolls above the target number the projectile completely misses.
 
 **Shot from the Hip** In the case of a hit w/o a called shot, the gm rolls two hit dice (2D6) to determine where the projectile hits the target. the values, for a humanoid target, of each area of the body are as follows:
-<pre>
-------------------------------------------------------------------------
-Roll  | Area of Impact
-------------------------------------------------------------------------
-2     | Head
-3-4   | Chest / Upper back (lungs, heart, liver, etc.)
-5-7   | Abdomen / Lower back (belly, pelvis, kidneys, etc.)
-8-9   | Leg (closest to attacker / most reasonable of the two)
-10-11 | Arm (closest to attacker / most reasonable of the two)
-12    | Neck, buttocks/ass, groin (most reasonable for the situation)
-------------------------------------------------------------------------
-</pre>
+
+	Roll  | Area of Impact
+	------------------------------------------------------------------------
+	2     | Head
+	3-4   | Chest / Upper back (lungs, heart, liver, etc.)
+	5-7   | Abdomen / Lower back (belly, pelvis, kidneys, etc.)
+	8-9   | Leg (closest to attacker / most reasonable of the two)
+	10-11 | Arm (closest to attacker / most reasonable of the two)
+	12    | Neck, buttocks/ass, groin (most reasonable for the situation)
+	------------------------------------------------------------------------
+
 **Called Shot Miss**
 When a player designates an area to hit on a target, the player must roll below the modified target number to hit. if the player's roll is equal to or greater than the modified target number the players shot will miss. As you may have guessed, this is where Sir Issaic's first law comes in: "An object in motion tends to stay in motion", etc. etc. so that thing; fist, arrow, bullet must go somewhere. The following chart and 1d6 will help you figure out what force will cancel the motion of the object.
 
@@ -126,26 +124,24 @@ In the case of the epic fail, all dice come up 6, we have a Ring of Fail. To use
 
 ### General Target Numbers based on difficulty ###
 (Degrees of change for "all" variations)
-<pre>
------------------------------------------
-Height Modifier chart
------------------------------------------
-Base height: 6ft or 2m 
-Large defend vs. Small	| 7 - 3 =  4
-Small defend vs. Large 	| 3 - 7 = -4
------------------------------------------
-</pre>
-<pre>
-------------------
-	  To hit
-------------------
-Tiny	|	2-3ft
-Small	|	4-5ft
-normal	|	6-7
-large	|	8-9
-giant	|	10 >
-------------------
-</pre>
+
+
+	Height Modifier chart
+	-----------------------------------------
+	Base height: 6ft or 2m 
+	Large defend vs. Small	| 7 - 3 =  4
+	Small defend vs. Large 	| 3 - 7 = -4
+	-----------------------------------------
+
+
+		  To Hit
+	------------------
+	Tiny	|	2-3ft
+	Small	|	4-5ft
+	normal	|	6-7
+	large	|	8-9
+	giant	|	10 >
+	------------------
 
 ### Dodge, Block, Parry ###
 * Defender's Rule: Dodge is to evade an attack avoiding all damage on success.
