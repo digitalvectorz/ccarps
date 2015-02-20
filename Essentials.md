@@ -20,6 +20,11 @@ There is only one "dice roll mechanic" in *CCARPS*: a base *Target Number* is as
 * Skill Target Number: Target Number + your applicable Modifiers
 * Contested Target Number: Target Number + your applicable Modifiers - opposing Modifiers
 
+## Degrees of Success ##
+There are some situations where an Oddity or Skill's action will depend on the *Degree of Success*. To find the *Degree of Success*, subtract the Target Number from the successful roll. The difference is the level of success.
+
+*Coming across a stray dog, you use your "Animal Empathy" skill to assess its hostility. The Target Number is 5 and you roll a 3. Your *Degree of Success* is 2, which is enough to tell you that the dog is happy, but has lost its owner.*
+
 ## Critical Success, Critical Failure ##
 A *Critical Success* happens when *all* dice in a roll set are 1. The more dice you roll, the more often you will succeed, but the harder it is to get a *Critical Success*. A *Critical Success* means the action succeeds and has a *better than expected* result. The more dice in a set, the more amazing a critical will be.
 

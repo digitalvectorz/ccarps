@@ -1,4 +1,8 @@
 # Combat #
+Combat is represented as a series of skill tests. The attacker's base Target Number is modified by difficulty, their Skill Modifiers, and any defensive Modifiers the opponent has.
+
+	Attack = base Target Number - Difficulty Mod + Attacker Skill Mods - Opponent Defendse Mods (Reflex + skills)
+
 The act of combat is represented as a series of skill tests. The attacker makes a success test against the related skill or attribute plus any attack modifiers. On success, the attacker stages up the damage using all applicable damage modifiers from skills, PPO, and weapon enchantments. Finally, the defender gets an opportunity to block, dodge, or parry the attack by making a success test against his or her reflex, plus any related skill modifiers, plus any defensive modifiers from armor and stages the damage down using the resulting value.
 
 ## Range and Reach ##
