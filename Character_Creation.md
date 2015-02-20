@@ -71,7 +71,9 @@ Average of Strength and Willpower. (STR + WIL) / 2
 Average of Intelligence and Willpower. (INT + WIL) / 2
 
 ## Oddities ##
-These may only be taken at character creation. They are used to gain advantages and to make trade off's to provide flexibility and role-play interest in character options, or to add "character" to your characters. Your Game Master may modify a character's Oddities based on role-play events or extraordinary situations. See "List of Oddities" for the list of included Oddities.
+These may only be taken at character creation. They are used to gain advantages and to make trade off's to provide flexibility and role-play interest in character options, or to add "character" to your characters. Your Game Master may modify a character's Oddities based on role-play events or extraordinary situations. Oddities use a Disposition System that dictate the extremety of Oddities. Some Oddities can have extreme positives and negatives, while others may stay neutral. Certain Oddities may also only be positive, or only negative.
+
+See "List of Oddities" for the list of included Oddities.
 
 ### Wealth and Social Influence ###
 Wealth and Social Influence are considered to be Oddities. All characters are required to choose their Wealth and Social Influence, and as such, these Oddities are taken at the costs outlined below. For average wealth and social influence there is no modifier and it can be taken for free. If Wealth and Social Influence are undefined at character creation they are considered to be average. 
