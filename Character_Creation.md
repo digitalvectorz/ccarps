@@ -80,14 +80,17 @@ Wealth and Social Influence are considered to be Oddities. All characters are re
 * Lower Class: -15
 * Dirt Poor: -25
 
-**Social Influence** is measured by the number of people you have in your contact list, and the quality of the contact relationship eg. An Acquaintance (a low quality contact) will accept your call and listen to your request, they may even provide information if asked the right question but the information has a 50% chance of being inaccurate. A Friend (an average contact) is like a good friend, you can trust them to tell you what they know but they have limited access to high level information, and generally will not get into harms way for you. A Confidant (a high quality contact) will have good access to information and be trustworthy and reliable and will defend you at his or her own risk up to but not including risk of his or her own life.
+**Social Influence** is measured by the number of people you have in your contact list, and the quality of the contact relationship eg. An Acquaintance (a low quality contact) will accept your call and listen to your request, they may even provide information if asked the right question but the information has a 50% chance of being inaccurate. A Friend (an average contact) is like a good friend, you can trust them to tell you what they know but they have limited access to high level information, and generally will not get into harms way for you. A Confidant (a high quality contact) will have good access to information and be trustworthy and reliable and will defend you at his or her own risk up to but not including risk of his or her own life. You can only take *three* contacts
 
-* 1pt = Acquaintance
-* 3pt = Friend
-* 5pt = Confidant
+* -15 points: Arch-nemesis
+* -10 points: Nemesis
+* -5 points: Antagonist
+* 5 points: Acquaintance
+* 10 points: Friend
+* 15 points: Confidant
 
 ## Skills ##
-![](images/Mod_Table.png)\ Skills determine what your character can do as well as what they know. Adding one point to a skill is the equivalent of the character experimenting with new ideas, or reading a basic instruction manual, or taking an introductory lesson from one who knows the skill at an advanced level (or higher). This gives the character the ability to use the skill with no special proficiency. Before a character can attempt to use a skill they must apply at least one point to it. Each point in a skill equals that skill's level. It onlly takes a single point to raise a skill to the next level.
+![](images/Modifier_Table.png)\ Skills determine what your character can do as well as what they know. Adding one point to a skill is the equivalent of the character experimenting with new ideas, or reading a basic instruction manual, or taking an introductory lesson from one who knows the skill at an advanced level (or higher). This gives the character the ability to use the skill with no special proficiency. Before a character can attempt to use a skill they must apply at least one point to it. Each point in a skill equals that skill's level. It onlly takes a single point to raise a skill to the next level.
 
 Each skill will have an attribute associated with it. These attributes are skill requirements; at character creation, no skill may have a modifier that is higher than the associated attribute modifier, e.g. if your Intelligence modifier is +2, you cannot have your Reading skill modifier any higher than +2. During a campaign, this level cap does not apply unless the game world / Game Master says otherwise.
 
