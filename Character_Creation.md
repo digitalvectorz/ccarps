@@ -4,13 +4,7 @@ It is great to sit down to a game with well-written characters. It is even bette
 ## Starting Points ##
 Every character, whether it is the Player or NPC, has starting points. These are the points that you will spend on Oddities and Skills. In order to be ready for the game, the collection of Oddities and Skills must equal the Starting Points for your character.
 
-There are two options for starting points:
-
-1. The Game Master assigns a Starting Age and Type and players roll with the Starting Type rules.  
-The character's Starting Points are equal to the sum of the Primary Attributes.
-2. The Game Master assigns points according to the suggested minimum values (shown below).
-
-### Starting Age and Type ###
+### Starting Age ###
 Starting Types can be used to help add variety to the group's characters, where age and past experience is taken into account. This can help add depth and a sense of connection between characters, their past, and their place in the game world. The first step is to find out how many dice to roll. This is dictated by your age, and can be found in the Starting Age table below. 
 
 Starting Age (in Years):
@@ -21,7 +15,7 @@ Starting Age (in Years):
 * 6-10: 2d (Max points: 60)
 * < 6: 1d (Max points: 30)
 
-The second step is rolling your character's Primary Attributes. Primary Attribute rolls are based on the Starting Type, which is influenced by the character's age. Every starting type has its own rule for how to roll your attributes.
+The second step is rolling your character's Primary Attributes. 
 
 For rolling up characters, it is suggested that you write down each roll on a scratch piece of paper before committing it to the character sheet. Some Starting Types allow the modification of rolls before they are recorded on the character's sheet. Unless the Starting Type (or Game Master) says otherwise, the rolls will be committed to the sheet in the order they are rolled. First roll is Strength, second is Dexterity, and so on.
 
@@ -93,21 +87,11 @@ Wealth and Social Influence are considered to be Oddities. All characters are re
 * 5pt = Confidant
 
 ## Skills ##
-Skills determine what your character can do as well as what they know. Adding one point to a skill is the equivalent of the character experimenting with new ideas, or reading a basic instruction manual, or taking an introductory lesson from one who knows the skill at an advanced level (or higher). This gives the character the ability to use the skill with no special proficiency. Before a character can attempt to use a skill they must apply at least one point to it. Each point in a skill equals that skill's level. It onlly takes a single point to raise a skill to the next level.
+![](images/Mod_Table.png)\ Skills determine what your character can do as well as what they know. Adding one point to a skill is the equivalent of the character experimenting with new ideas, or reading a basic instruction manual, or taking an introductory lesson from one who knows the skill at an advanced level (or higher). This gives the character the ability to use the skill with no special proficiency. Before a character can attempt to use a skill they must apply at least one point to it. Each point in a skill equals that skill's level. It onlly takes a single point to raise a skill to the next level.
 
-Each skill will have an attribute associated with it. These attributes are skill requirements; at character creation, no skill may have a modifier that is higher than the associated attribute modifier, e.g. if your Intelligence modifier is +2, you cannot have your Reading skill level any higher than +2. During a campaign, this level cap does not apply unless the game world / Game Master says otherwise.
-
-Skills come in three types: **Natural**, **Knowledge**, and **Martial**.
-
-**Natural Skills** are the skills that can only be learned through practice and experiment. Things like walking and running are simple natural skills; climbing and belaying are examples of a difficult natural skill.
-
-**Knowledge Skills** are skills that can be learned from a book. Such as, Particle Physics, reading, and writing.
-
-**Martial Skills** like Karate, Archery, or wood carving must be learned from a teacher.
+Each skill will have an attribute associated with it. These attributes are skill requirements; at character creation, no skill may have a modifier that is higher than the associated attribute modifier, e.g. if your Intelligence modifier is +2, you cannot have your Reading skill modifier any higher than +2. During a campaign, this level cap does not apply unless the game world / Game Master says otherwise.
 
 These learning limits only apply to the first level of the skill once a character has the basic concepts further learning can be done without the assistance of the trainer or books.
-
-Please see "List of Skills" for the included list of skills to choose from.
 
 Use the Skills and Attributes Modifier Table to find your skill level modifier and skill dice modifier for a given skill.
 
