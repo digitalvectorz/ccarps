@@ -80,7 +80,7 @@ Wealth and Social Influence are considered to be Oddities. All characters are re
 * Lower Class: -15
 * Dirt Poor: -25
 
-**Social Influence** is measured by the number of people you have in your contact list, and the quality of the contact relationship eg. An Acquaintance (a low quality contact) will accept your call and listen to your request, they may even provide information if asked the right question but the information has a 50% chance of being inaccurate. A Friend (an average contact) is like a good friend, you can trust them to tell you what they know but they have limited access to high level information, and generally will not get into harms way for you. A Confidant (a high quality contact) will have good access to information and be trustworthy and reliable and will defend you at his or her own risk up to but not including risk of his or her own life. You can only take *three* contacts
+**Social Influence** is measured by the number of people you have in your contact list, and the quality of the contact relationship eg. An Acquaintance (a low quality contact) will accept your call and listen to your request, they may even provide information if asked the right question but the information has a 50% chance of being inaccurate. A Friend (an average contact) is like a good friend, you can trust them to tell you what they know but they have limited access to high level information, and generally will not get into harms way for you. A Confidant (a high quality contact) will have good access to information and be trustworthy and reliable and will defend you at his or her own risk up to but not including risk of his or her own life. By default, you can only take *three* contacts and you cannot spend or receive more than 15 points.
 
 * -15 points: Arch-nemesis
 * -10 points: Nemesis
@@ -90,13 +90,14 @@ Wealth and Social Influence are considered to be Oddities. All characters are re
 * 15 points: Confidant
 
 ## Skills ##
-![](images/Modifier_Table.png)\ Skills determine what your character can do as well as what they know. Adding one point to a skill is the equivalent of the character experimenting with new ideas, or reading a basic instruction manual, or taking an introductory lesson from one who knows the skill at an advanced level (or higher). This gives the character the ability to use the skill with no special proficiency. Before a character can attempt to use a skill they must apply at least one point to it. Each point in a skill equals that skill's level. It onlly takes a single point to raise a skill to the next level.
+Skills determine what your character can do as well as what they know. Adding one point to a skill is the equivalent of the character experimenting with new ideas, or reading a basic instruction manual, or taking an introductory lesson from one who knows the skill at an advanced level (or higher). This gives the character the ability to use the skill with no special proficiency. Before a character can attempt to use a skill they must apply at least one point to it. Each point in a skill equals that skill's level. It onlly takes a single point to raise a skill to the next level.
 
 Each skill will have an attribute associated with it. These attributes are skill requirements; at character creation, no skill may have a modifier that is higher than the associated attribute modifier, e.g. if your Intelligence modifier is +2, you cannot have your Reading skill modifier any higher than +2. During a campaign, this level cap does not apply unless the game world / Game Master says otherwise.
 
 These learning limits only apply to the first level of the skill once a character has the basic concepts further learning can be done without the assistance of the trainer or books.
 
-Use the Skills and Attributes Modifier Table to find your skill level modifier and skill dice modifier for a given skill.
+![Modifier Table](images/Modifier_Table.png)
+
 
 ## Character Appearance ##
 The appearance of a given character is mostly up to the player; however, it is a good idea to use character attributes as guidelines.
@@ -115,7 +116,7 @@ Adventure points are earned through adventuring. As a general rule, each player 
 
 **Point assignment:** Points must be assigned at the time they are given, points cannot be stored up. At the beginning of any session where a character has unassigned points, those points must be assigned to an accumulator before play begins. Adventure points can be used to improve your character's skills.
 
-Once points are assigned to a skill they may not be moved or re-assigned. Skills can be increased by applying points to the skill level accumulator for a desired skill. Die bonuses are applied at 6 for Novice, 18 for Advanced, and 36 for Master. Modifier bonuses are gained according to the skill modifier table. The maximum points one can apply to any skill is 36. New skills can be added to your character during play by working with a trainer or reading the appropriate book, but they must be built up through the levels by adding points to the accumulator.
+Once points are assigned to a skill they may not be moved or re-assigned. Skills can be increased by applying points to the skill  accumulator for a desired skill. Die bonuses are applied at 6 for Novice, 18 for Advanced, and 36 for Master. Modifier bonuses are gained according to the skill modifier table. The maximum points one can apply to any skill is 36. New skills can be added to your character during play by working with a trainer or reading the appropriate book, but they must be built up through the levels by adding points to the accumulator.
 
 **Example:** Bob the bouncer wants to add martial arts to his skill list to gain a block/parry advantage to his fighting skills. At the end of the session he has earned 3 adventure points, Bob will locate a trainer or buy a book and add the chosen skill to the list applying any or all of the 3 points he earned.
 
