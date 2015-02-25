@@ -65,58 +65,52 @@ Average of Strength and Willpower. (STR + WIL) / 2
 Average of Intelligence and Willpower. (INT + WIL) / 2
 
 ## Oddities ##
-These may only be taken at character creation. They are used to gain advantages and to make trade off's to provide flexibility and role-play interest in character options, or to add "character" to your characters. Your Game Master may modify a character's Oddities based on role-play events or extraordinary situations. Oddities use a Disposition System that dictate the extremety of Oddities. Some Oddities can have extreme positives and negatives, while others may stay neutral. Certain Oddities may also only be positive, or only negative.
+These may only be taken at character creation. They are used to gain advantages and to make trade off's to provide flexibility and role-play interest in character options, or to add "character" to your characters. Your Game Master may modify a character's Oddities based on role-play events or extraordinary situations. Oddities may make permanent Health changes based on its logical description (or Game Master's discretion). The base Oddities follow the *Disposition System*, which outlines six major points of Disposition. The *Disposition System* is not exclusive to characters and can be used to characterize any group of people (cities, countries, kingdoms, non-profit organizations, etc.).
 
-See "List of Oddities" for the list of included Oddities.
+The general rule with Oddities is that each Oddity must have a cost to its benefit.
 
-### Wealth and Social Influence ###
-Wealth and Social Influence are considered to be Oddities. All characters are required to choose their Wealth and Social Influence, and as such, these Oddities are taken at the costs outlined below. For average wealth and social influence there is no modifier and it can be taken for free. If Wealth and Social Influence are undefined at character creation they are considered to be average. 
+### Character Creation-specific Oddities ###
+During character creation, there are two Oddities that are required unless the Game Master specifies otherwise. These are **Wealth** and **Social Influence**. There are no Modifiers with these; instead, they help give characters some "roots" into the game world. If no *Wealth* or *Social Influence* is taken, it is assumed they are Middle Class with no special contacts.
 
-**Wealth** is a measure of a characters accumulation of material value, including things such as property (home, car, horses), finery (cloths, tools, weapons), and currency. Ask the Game Master for currency and/or material value for starting out at a given level. The starting wealth is more a statement of the character's upbringing than the character's current status. The point gain or loss is meant to represent the character's perception of wealth and his or her ability to move in social circles. A person who was raised filthy rich would stand out like a sore thumb on skid row, just as a dirt poor person would at a country club.
+**Wealth** is a measure of a characters accumulation of material value, including things such as property (home, car, horses), finery (cloths, tools, weapons), and currency. The points spent or given are meant to represent the character's perception of wealth and their ability to move in social circles. A person raised with a filthy rich lifestyle would stand out like a sore thumb on skid row, just as a dirt poor person would at a country club.
 
-* Filthy Rich: 25
-* Upper Class: 15
-* Middle Class: 0
-* Lower Class: -15
-* Dirt Poor: -25
+* -25 points: Dirt Poor
+* -15 points: Lower Class
+* 0 points: Middle Class
+* 15 points: Upper Class
+* 25 points: Filthy Rich
 
 **Social Influence** is measured by the number of people you have in your contact list, and the quality of the contact relationship eg. An Acquaintance (a low quality contact) will accept your call and listen to your request, they may even provide information if asked the right question but the information has a 50% chance of being inaccurate. A Friend (an average contact) is like a good friend, you can trust them to tell you what they know but they have limited access to high level information, and generally will not get into harms way for you. A Confidant (a high quality contact) will have good access to information and be trustworthy and reliable and will defend you at his or her own risk up to but not including risk of his or her own life. By default, you can only take *three* contacts and you cannot spend or receive more than 15 points.
 
 * -15 points: Arch-nemesis
 * -10 points: Nemesis
 * -5 points: Antagonist
+* 0 points: No-one out of the ordinary.
 * 5 points: Acquaintance
 * 10 points: Friend
 * 15 points: Confidant
 
 ## Skills ##
-Skills determine what your character can do as well as what they know. Adding one point to a skill is the equivalent of the character experimenting with new ideas, or reading a basic instruction manual, or taking an introductory lesson from one who knows the skill at an advanced level (or higher). This gives the character the ability to use the skill with no special proficiency. Before a character can attempt to use a skill they must apply at least one point to it. Each point in a skill equals that skill's level. It onlly takes a single point to raise a skill to the next level.
+Skills determine what your character can do as well as what they know. Adding one point to a skill is the equivalent of the character experimenting with new ideas, or reading a basic instruction manual, or taking an introductory lesson from one who knows the skill at an advanced level (or higher). This gives the character the ability to use the skill with no special proficiency (and without a super low Target Number). 
 
-Each skill will have an attribute associated with it. These attributes are skill requirements; at character creation, no skill may have a modifier that is higher than the associated attribute modifier, e.g. if your Intelligence modifier is +2, you cannot have your Reading skill modifier any higher than +2. During a campaign, this level cap does not apply unless the game world / Game Master says otherwise.
+Before a character can attempt to use a skill they must apply at least one point to it for it to be useful. Trying to use a skill without any proficiency has a base Target Number of 0 plus the Modifier of the ruling Attribute. This makes it possible to attempt a an unskilled action in non-stressful situations. It becomes near impossible when under stress, such as during combat or while moderately injured.
 
-These learning limits only apply to the first level of the skill once a character has the basic concepts further learning can be done without the assistance of the trainer or books.
+Each skill will have an Attribute associated with it. These attributes are skill requirements; no skill may have a modifier that is higher than the associated attribute modifier. For example, if your Charisma Modifier is +2, you cannot have your Reading skill modifier any higher than +2.
 
 ![Modifier Table](images/Modifier_Table.png)
 
-
 ## Character Appearance ##
-The appearance of a given character is mostly up to the player; however, it is a good idea to use character attributes as guidelines.
-
-**Example:** The range of possible values is 5 to 30 for an adult aged character (over 21). Armed with this information, just as we would consider a person with an intelligence of 5 to be an imbecile, we would consider a person with a 5 in charisma to be repulsive. Therefore, it would be unusual for a perceived strong character to have a low strength.
-
-As for the stature of a character, the following table will give the average height of characters by race, the actual height of a character can vary as much as plus or minus one foot, for example: a human could be as much as 7ft tall or as little as 5ft tall and still be considered normal.
-
-_GM Note:_ feel free to add in any race or body type you feel would enhance your world. You are welcome to use the races listed here as templates but such consideration is not required. You are the God of your world after all.
+The appearance of a given character is generally up to the player. However, it is a good idea to use character Attributes, Oddities, and Skills as guidelines. The range of possible values in a base Attribute is 5 to 30 for an adult character (21 years or older). Just as a person with an Intelligence of 5 would be seen as an imbecile, a person with 5 in Charisma would be a rather unlikeable fellow. It would be unusual for a perceived strong character to have low Strength. It should be noted that CCARPS characters range the average Human height: between 4' 6" to 7". Any other heights are up to the Game Master.
 
 ## Character Background ##
-This is pretty much open to the players creativity. Background story can go a long way toward identifying a character.s habits of mind, body, and spirit. This can aid the player in making good believable decisions and greatly enhance the role play experience as well as add to the group dynamics. So put some thought into this part, make it interesting and be creative. Prestige, Prejudice, and oddities can go a long way to help with good back story.
+This is pretty much open to player creativity. Background story can go a long way toward identifying a character's habits of mind, body, and spirit. This can aid the player in making good believable decisions and greatly enhance the role play experience as well as add to the group dynamics. So put some thought into this part, make it interesting and be creative. The character's *Disposition* is a great thing to keep in mind when writing their story.
 
 ## Improving Your Character ##
-Adventure points are earned through adventuring. As a general rule, each player earns one point for each session that they actively role-play in a given campaign. Further points can be earned by; performing an action that directly furthers the plot, rolling a critical success on a plot related action, performing an action that helps the group at great risk to self, remaining in character when there is great pressure to break down the fourth wall, etc. each of the aforementioned actions earns one point for the character. Team points can be awarded in cases where the team makes a deliberate, unprovoked effort to coordinate their actions to further the plot.
+Points are earned through adventuring. As a general rule, each player should earn between 10-15 points per session that they actively roleplay. More points can be earned by: performing an action that directly furthers the plot; rolling a *Critical Success* on a plot-related action; performing an action that helps the group at great rist to self; remaining in character when there is a great pressure to break the fourth wall, etc. It is up to the Game Master, how many points each character receives, and when. Character teams that work together to deliberately coordinate their actions to further the plot (without having hints given by the Game Master) generally obtain more points than ones that are always squabbling.
 
-**Point assignment:** Points must be assigned at the time they are given, points cannot be stored up. At the beginning of any session where a character has unassigned points, those points must be assigned to an accumulator before play begins. Adventure points can be used to improve your character's skills.
+**Point assignment:** Points must be assigned within the session they are given; points cannot be stored up. At the beginning of any session where a character has unassigned points, those points must be assigned to a Skill or into an Attribute accumulator before play begins.
 
-Once points are assigned to a skill they may not be moved or re-assigned. Skills can be increased by applying points to the skill  accumulator for a desired skill. Die bonuses are applied at 6 for Novice, 18 for Advanced, and 36 for Master. Modifier bonuses are gained according to the skill modifier table. The maximum points one can apply to any skill is 36. New skills can be added to your character during play by working with a trainer or reading the appropriate book, but they must be built up through the levels by adding points to the accumulator.
+Once points are assigned to a skill they may not be moved or re-assigned. Skills are increased by adding points to them. Modifier bonuses are gained according to the Modifier Table (see *Modifier Table* above). The maximum points a Skill can have is 36. New Skills can be learned through a trainer, reading the appropriate book, or similar learning adventures. Even when learning a new Skill this way, one must use the points given during that session. For example:
 
-**Example:** Bob the bouncer wants to add martial arts to his skill list to gain a block/parry advantage to his fighting skills. At the end of the session he has earned 3 adventure points, Bob will locate a trainer or buy a book and add the chosen skill to the list applying any or all of the 3 points he earned.
+*Bob the Bouncer wants to add a combat skill to gain a block/parry advantage for when he has to confront unruly people. At the end of the session, Bob has earned 3 points; he either locates a trainer or self-teaches by reading a book. He applies all three points he's earned to the new Skill.*
 

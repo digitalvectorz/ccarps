@@ -33,3 +33,14 @@ Conversely, a *Critical Failure* happens when *all* dice in a roll set are 6. It
 ## Automatic Success ##
 There are a lot of actions that characters will take that are trivial or common sense. These do not require a roll and are counted as autmatically succeeding. The only time these will need a roll are when there are adverse conditions (weather, battle, impeding injury, etc.) or when the Game Master says. Going from your home to store requires no roll; pushing a mugger away will.
 
+## Disposition ##
+The sum of a character's Attributes, Health, Oddities, and Skills, is referred to as their *Disposition*. A character's *Disposition* is tendency to act in a specific way. Much like the real world, a character's skillset, demeanor, and overall health oftentimes shines through in their personality. This can be said as generalizations for groups, communities, and nations as well.
+
+* **Attributes** are the core of a character. They greatly influence everything about the character. The base Attributes are averaged into secondary Attributes to make Skill creation and use easier, as well as to help minimize "min-maxing" a character's stats.
+
+* **Health Meter** is the sum of a character's Mental, Physical, and Spiritual health. The healthiest characters have nothing in these boxes.
+
+* **Oddities** are traits that are taken at character creation and provide a defining factor in a character's strengths and weaknesses, while also providing fuel for creative roleplay. They have a permanent passive effect on the character; they may boost skillsets, but may come at a cost Health detriments (or the other way around).
+
+* **Skills** are learned abilities that your character posesses. These are what a character knows how to do. Between these and Oddities, a character's personality 
+
