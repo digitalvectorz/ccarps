@@ -49,7 +49,7 @@ Primary Attributes are permanent; they do not change once they have been recorde
 ## Secondary Attributes ##
 The secondary attributes are average combinations of the primary attributes. Skills are based on these.
 
-* **Charisma** (CHA): Personal charm or magnetism.  
+* **Charisma** (CHA): Personal charm or magnetism, as determined by the health, intelligence, and will of the character.
 Average of Constitution, Intelligence, and Willpower. (CON + INT + WIL) / 3  
 
 * **Speed** (SPD): The rate of motion or action.  
