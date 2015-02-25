@@ -1,6 +1,6 @@
 # CCARPS
 <pre>
-Version: 0.9.1
+Version: 0.9.2
 Authors: See Authors.md
 </pre>
 
