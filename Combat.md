@@ -12,10 +12,33 @@ The battle sequence is as follows:
 
 If the attack roll was a *Critical Success* the final damage staging number is doubled. *Critical Failure* may result in the attackar harming self or any friend nearby (at Game Master's discretion).
 
-## Range and Reach ##
-Range and reach are how far one can use projectiles or hit with melee weapons. A reach/range of zero (0) is equal to 3 feet (1 yard). Each point of reach/range is equal to an additional 3 feet. If the number is less than zero (0), there is a -1 penalty to target number, unless specified differenly by weapon type.
+## Range and Reach Modifiers ##
+Range and Reach Modifiers are degrees of difficulty when using projectiles or hitting with melee weapons. These help appropriately change the base Target Number into something more fitting to the situation. The harder the action, the lower the Modifier. Some things, such as aiming or charging toward an enemy may normally gain a bonus Modifier, instead.
 
-**Note:** When a player chooses to attack there are two options: General Target, and Called Shot. General Target is an attack at a chosen target. A Called Shot is an attack at a specific location or region of a chosen target. Aiming before either of these can give a Modifier bonus of +1 per turn, with a maximum number of turns determined by the Game Master.
+### Ranged ###
+
+* Character is running while attacking: -2 to -4, depending on situation
+* Character is in melee combat: -3
+* Character is shooting from cover: -1 to -3 depending on type of cover(?)
+* Character is shooting blindly: -6
+* Character is aiming: +1 per turn, for as many turns as game world, campaign, or Game Master allows
+* Target has partial cover: -1 to -3 depending on amount of cover
+
+### Melee ###
+
+* Character is charging into attack: +2
+* Character has the superior position: +2
+* Target is prone: +3
+
+### Both ###
+
+* Character is making a Called Shot: -4
+* Character is wounded: Already applies to everything, since Health Meter Modifiers are global to the character
+* Character's weapon has longer reach: Modifier is difference in Reach
+* Character only needs to make contact, not necessarily inflict damage: +2
+* Character is attacking multiple targets: -1 per target
+* Visibility is obstructed: Depends on the situation(?)
+
 
 ## Damage ##
 The damage system is based on the ancient Greek's beliefs regarding human existence, where a person was measured by the strength and health of their mind, body, and spirit. The optimal case would be to have all three in equal amounts such that they could be represented by an equilateral triangle: Mental -> Physical -> Spiritual -> Mental. Dealing and taking damage is handled through a series of check boxes. There are ten boxes for each of the three types of health. Damage is counted by checking a number of boxes equal to the amount of damage dealt starting at the damage level noted by the weapon's damage type and rating, and all boxes below that level. If a character has already taken damage beyond the indicated level, the new damage is counted by checking off boxes on the next available damage type until all the damage is applied. Damage levels are Light, Moderate, Heavy, and Deadly.

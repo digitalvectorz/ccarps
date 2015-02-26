@@ -3,6 +3,8 @@ A character's *Disposition* is the sum of their character sheet. Oddities make u
 
 ![Disposition Map](images/Base_Oddities.png)
 
+## Base Odditites ##
+
 **Militaristic:** "Might makes right" is the motto. The character has an ideology that the military is the foundation of a society's security, thus being the most important aspect.  
 **Opportunistic:** The practice of taking advantage of any situations or people to achieve an end, often with no regard for principles or consequences.  
 **Despotic:** Government by a singular authority, either a single person or tight-knit group, which rules with absolute power, especially in a cruel and oppressive way.  
@@ -12,3 +14,4 @@ A character's *Disposition* is the sum of their character sheet. Oddities make u
 **Neutral:** Neither beneficial nor harmful; this is the default state of all characters.
 
 *The oddity definitions above are licensed under [Creative Commons Attribution-ShareAlike 3.0 Unported](http://creativecommons.org/licenses/by/3.0/) and taken from Wiktionary.*
+
