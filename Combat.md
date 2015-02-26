@@ -13,7 +13,27 @@ The battle sequence is as follows:
 If the attack roll was a *Critical Success* the final damage staging number is doubled. *Critical Failure* may result in the attackar harming self or any friend nearby (at Game Master's discretion).
 
 ## Range and Reach Modifiers ##
-Range and Reach Modifiers are degrees of difficulty when using projectiles or hitting with melee weapons. These help appropriately change the base Target Number into something more fitting to the situation. The harder the action, the lower the Modifier. Some things, such as aiming or charging toward an enemy may normally gain a bonus Modifier, instead.
+Range and Reach are how far a character can use projectiles or hit with melee weapons. Each weapon has its own range or reach, and will have the distance number listed for each section: Short, Medium, Long, Extreme. These are represented in the character sheet in the weapon section as *S*, *M*, *L*, *E*. Each number corresponds to an amount of distance. A reach/range of 0 is 3 feet, 1 is 6 feet, and so on. A weapon with a Short Reach or Range of 3 would not be very useful against an opponent that is any closer than 12 feet.
+
+	Reach/Range Mod
+	---------------
+	Short		0
+	Medium		-1
+	Long		-3
+	Extreme		-5
+
+	Reach/Range Distance
+	--------------------
+	0       3ft
+	1       6ft
+	2       9ft
+	...     ...
+	8       24ft
+	9       27ft
+	10      30ft
+
+## Combat Modifiers ##
+Combat Modifiers are degrees of difficulty when using projectiles or hitting with melee weapons. These help appropriately change the base Target Number into something more fitting to the situation. The harder the action, the lower the Modifier. Some things, such as aiming or charging toward an enemy may normally gain a bonus Modifier, instead.
 
 ### Ranged ###
 
