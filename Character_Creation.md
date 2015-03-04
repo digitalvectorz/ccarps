@@ -1,11 +1,11 @@
 # Character Creation #
-It is great to sit down to a game with well-written characters. It is even better when the character's attributes and abilities are reflected in the story they partake in. Many take pride in designing the characters they play, from the backstory to appearance, to attitude and social disposition. They create interesting characters with compelling and intriguing lives; the characters are center stage to the story the Game Master is guiding.
+It is great to sit down to a game with well-written characters. It is even better when the character's attributes and abilities are reflected in the story. Many players and game masters take pride in designing the characters and adventures they play, from the environment and backstory to appearance, to attitude and social disposition. They create interesting characters with compelling and intriguing lives. In these stories the characters are center stage and the Game Master is the guide.
 
 ## Starting Points ##
-Every character, whether it is the Player or NPC, has starting points. These are the points that you will spend on Oddities and Skills. In order to be ready for the game, the collection of Oddities and Skills must equal the Starting Points for your character.
+Every character, whether it is the Player or NPC, has starting points. These are the points that you will spend on Oddities and Skills. In order to be ready for the game, the sum of the points spent on Oddities and the character's Skills points must equal the sum of the Starting primary attribute Points for your character. The ability to sum and balance the character sheet is one feature that lends itself to translating the CCARPS system into other forms of media such as video games. A character's starting points are equal to the sum of the character's primary attributes.
 
 ### Starting Age ###
-Starting Types can be used to help add variety to the group's characters, where age and past experience is taken into account. This can help add depth and a sense of connection between characters, their past, and their place in the game world. The first step is to find out how many dice to roll. This is dictated by your age, and can be found in the Starting Age table below. 
+Starting Types are used to help add variety to the group's characters, where age and past experience is taken into account. This can help add depth and a sense of connection between characters, their past, and their place in the game world. The first step is to find out how many dice to roll. This is dictated by your age, and can be found in the Starting Age table below. 
 
 Starting Age (in Years):
 
@@ -15,9 +15,7 @@ Starting Age (in Years):
 * 6-10: 2d (Max points: 60)
 * < 6: 1d (Max points: 30)
 
-The second step is rolling your character's Primary Attributes. 
-
-For rolling up characters, it is suggested that you write down each roll on a scratch piece of paper before committing it to the character sheet. Some Starting Types allow the modification of rolls before they are recorded on the character's sheet. Unless the Starting Type (or Game Master) says otherwise, the rolls will be committed to the sheet in the order they are rolled. First roll is Strength, second is Dexterity, and so on.
+The second step is rolling your character's Primary Attributes. In general players roll five sets of dice according to the age chart and record each set in one of the primary attribute boxes.
 
 ### Character Rank ###
 Character rank is the sum of the character's Primary Attributes. When a character's points equal or exceed a given rank, the player rolls an extra set of 5d and may apply that to a chosen attribute. (This is a chance to increase an attribute, which is not guaranteed.)
@@ -98,6 +96,17 @@ Before a character can attempt to use a skill they must apply at least one point
 Each skill will have an Attribute associated with it. These attributes are skill requirements; no skill may have a modifier that is higher than the associated attribute modifier. For example, if your Charisma Modifier is +2, you cannot have your Reading skill modifier any higher than +2.
 
 ![Modifier Table](images/Modifier_Table.png)
+
+## Character Creation Conventions ##
+The conventions used to roll up characters for your adventure will influence the feel of the adventure. Some methods are more Hard Core than others while some are down right campy. None of the methods you choose are necessarily bad or good just different. CCARPS is designed to be adaptive so that it can naturally support whatever style you and your group wish to play. We would like to provide some examples for you to think about, these are not to be considered an extensive list and by no means exaustive. 
+
+* Hard core: this method will generally create characters that will require many hours to build and is not recommended for the feint of heart. For your Hard Core roll play, roll your dice according to your age chart and record them in the order they are rolled directly onto the character sheet. First roll = strength, second = dexterity, third = constitution, fourth = Intelegence, and fifth = wisdom no re-rolls; limit the number of Oddities to five and require the sum of all oddities to = 0; limit the maximum starting skill points for any one skill to the associated attribute's modifier.
+
+* Fantasy: this method will create characters that are moderatly easy to play. It is a good choice if you like a serious story but moderatly challenging game play. For Fantasy style roll five sets of dice according to the age table, re-rolling all ones, and record them on the back of your character sheet, Assign each set according to your preference for the type of character you wish to play, Limit the number of odities to seven and the maximum starting skill points to two times the associated attribute's modifier.
+
+* Campy: this method is a great way to play a quick game loaded with silliness and amazingly funny antics, but is not a good campaign setting as normally the rewards are handed out liberally to support the entertainment value for the players. For a campy game roll 10 sets of dice according to the age table, re-rolling all ones, and record your best five sets in any order you choose. Limit the number of Odities to the system maximum of ten. no limit on starting skill points.
+
+In all situations Wealth and Influence count toward your Oddity limits. For example a hard core character would have wealth and influence as their first two odities and then up to three others.
 
 ## Character Appearance ##
 The appearance of a given character is generally up to the player. However, it is a good idea to use character Attributes, Oddities, and Skills as guidelines. The range of possible values in a base Attribute is 5 to 30 for an adult character (21 years or older). Just as a person with an Intelligence of 5 would be seen as an imbecile, a person with 5 in Charisma would be a rather unlikeable fellow. It would be unusual for a perceived strong character to have low Strength. It should be noted that CCARPS characters range the average Human height: between 4' 6" to 7". Any other heights are up to the Game Master.
