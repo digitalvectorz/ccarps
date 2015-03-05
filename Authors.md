@@ -3,9 +3,9 @@ This book is a collaborative effort. The following is a list of contributors.
 
 	Sina Mashek			    Designer & Developer
 	Robert Kroker		    Designer & Developer
-	Stuart Dempster	 	 	Designer & Developer
+	Stuart Dempster	 	 	Graphic Artist, Designer, Developer
 	David Kroker		    Designer & Developer
-	Jake Waller		    	Designer & Developer
+	Jake Waller		    	Developer, Play Tester
 	Tristy Hopkins		  	Developer, Play Tester
 	Timothy Martin	 	 	Developer, Play Tester
 	Nathan Roemmich	 	 	Play Tester
