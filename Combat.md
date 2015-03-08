@@ -1,39 +1,40 @@
 # Combat #
-Combat is represented as a series of skill tests. The attacker's base Target Number is modified by difficulty, their Skill Modifiers, and any defensive Modifiers the opponent has.
+Combat is represented as a series of actions. All actions are rosolved throught skill tests. Each action has a base Target Number that is determined by a difficulty table. The base target number is modified by the Game Master for Sutuational Difficulty, the active Player for Character Skill Modifiers, and the opponent for Defensive Skill Modifiers.
 
-The act of combat is represented as a series of skill tests. The attacker makes a success test against the related skill or attribute plus any attack modifiers. On success, the attacker stages up the damage using all applicable damage modifiers from skills, PPO, and weapon enchantments. Finally, the defender gets an opportunity to block, dodge, or parry the attack by making a success test against his or her reflex, plus any related skill modifiers, plus any defensive modifiers from armor and stages the damage down using the resulting value.
+* *Situational modifiers can be positive or negative depending on the current conditions.*
+* *Active Skill modifiers are always positive.*
+* *Defensive Skill modifiers are always negative.*
 
-The battle sequence is as follows:
+The combat sequence is as follows:
 
-* Attacker rolls against the base Target Number, plus any skill Modifiers, plus any weapon attack Modifiers, minus opponent's Reflex-based defensive skill Modifiers (if applicable).
-* Upon success, the attacker sums the weapon damage plus damage Modifiers and reports the number and damage type to the opponent.
-* The opponent subtracts their appropriate resistances from the damage.
-* In the related damage type box, mark each unmakred box per point of damage. If the damage is below one, no marking is done. See *Damage Overload* below if damage exceeds the number of available boxes.
+* Active Character Initiates combat by describing their intended action.
+* Game Master determines the base target number and applies the situational modifiers.
+* Active Character applies any skill Modifiers and weapon attack Modifiers.
+* Opposing Character rolls against Reflex modifier. Upon success, Opposing Character applies defensive skill Modifiers.
+* Upon success, the Active Character sums the weapon damage and any damage Modifiers. 
+* Active Character reports the number and damage type to the Opposing Character.
+* The Opposing Character subtracts their appropriate resistances from the damage.
+* The Opposing Character records the damage in the related damage type box.
+
+*If the damage is below one, no marking is done. See Damage Overload below if damage exceeds the number of available boxes.*
 
 If the attack roll was a *Critical Success* the final damage staging number is doubled. *Critical Failure* may result in the attackar harming self or any friend nearby (at Game Master's discretion).
 
 ## Range and Reach Modifiers ##
-Range and Reach are how far a character can use projectiles or hit with melee weapons. Each weapon has its own range or reach, and will have the distance number listed for each section: Short, Medium, Long, Extreme. These are represented in the character sheet in the weapon section as *S*, *M*, *L*, *E*. Each number corresponds to an amount of distance. A reach/range of 0 is 3 feet, 1 is 6 feet, and so on. A weapon with a Short Reach or Range of 3 would not be very useful against an opponent that is any closer than 12 feet.
-
-	Reach/Range Mod
-	---------------
-	Short		0
-	Medium		-1
-	Long		-3
-	Extreme		-5
-
-	Reach/Range Distance
-	--------------------
-	0       3ft
-	1       6ft
-	2       9ft
-	...     ...
-	8       24ft
-	9       27ft
-	10      30ft
+Range and Reach are how far a character can use projectiles or hit with melee weapons. Each weapon has its own range or reach, and will have the distance number and units listed for each section: Short, Medium, Long, Extreme. These are represented in the character sheet in the weapon section as *S*, *M*, *L*, *E*. 
 
 ## Combat Modifiers ##
 Combat Modifiers are degrees of difficulty when using projectiles or hitting with melee weapons. These help appropriately change the base Target Number into something more fitting to the situation. The harder the action, the lower the Modifier. Some things, such as aiming or charging toward an enemy may normally gain a bonus Modifier, instead.
+
+### General ###
+
+* Character is making a Called Shot: -4
+* Character is concentrating before attack: cumulative +1 per turn, up to three turns. This includes aiming, meditation, and other mental and perception preparations.
+* Character is wounded: Already applies to everything, since Health Meter Modifiers are global to the character
+* Character's weapon has longer reach: Modifier is difference in Reach
+* Character only needs to make contact, not necessarily inflict damage: +2
+* Character is attacking multiple targets: -1 per target
+* Visibility is obstructed: Depends on the situation(?)
 
 ### Ranged ###
 
@@ -48,16 +49,6 @@ Combat Modifiers are degrees of difficulty when using projectiles or hitting wit
 * Character is charging into attack: +2
 * Character has the superior position: +2
 * Target is prone: +3
-
-### Both ###
-
-* Character is making a Called Shot: -4
-* Character is concentrating before attack: cumulative +1 per turn, up to three turns. This includes aiming, meditation, and other mental and perception preparations.
-* Character is wounded: Already applies to everything, since Health Meter Modifiers are global to the character
-* Character's weapon has longer reach: Modifier is difference in Reach
-* Character only needs to make contact, not necessarily inflict damage: +2
-* Character is attacking multiple targets: -1 per target
-* Visibility is obstructed: Depends on the situation(?)
 
 ## Damage ##
 The damage system is based on the ancient Greek's beliefs regarding human existence, where a person was measured by the strength and health of their mind, body, and spirit. The optimal case would be to have all three in equal amounts such that they could be represented by an equilateral triangle: Mental -> Physical -> Spiritual -> Mental. Dealing and taking damage is handled through a series of check boxes. There are ten boxes for each of the three types of health. Damage is counted by checking a number of boxes equal to the amount of damage dealt starting at the damage level noted by the weapon's damage type and rating, and all boxes below that level. If a character has already taken damage beyond the indicated level, the new damage is counted by checking off boxes on the next available damage type until all the damage is applied. Damage levels are Light, Moderate, Heavy, and Deadly.
