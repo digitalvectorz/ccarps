@@ -145,3 +145,4 @@ Points must be assigned within the session they are given; points cannot be stor
 Once points are assigned to a skill they may not be moved or re-assigned. Skills are increased by adding points to them. Modifier bonuses are gained according to the Modifier Table (see *Modifier Table* ). The maximum points a Skill can have is 36. New Skills can be learned through a trainer, reading the appropriate book, or similar learning adventures. Even when learning a new Skill this way, one must use the points given during that session. For example:
 
 *Bob the Bouncer wants to add a combat skill to gain a block/parry advantage for when he has to confront unruly people. At the end of the session, Bob has earned 3 points; he either locates a trainer or self-teaches by reading a book. The player writes the skill name into the skill list, applies all three points he has earned to the new Skill, locates and records the modifier and dice for a skill with 3 points.*
+

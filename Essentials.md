@@ -59,3 +59,4 @@ The sum of a character's Attributes, Health, Oddities, and Skills, is referred t
 * **Oddities** are traits that are taken at character creation and provide a defining factor in a character's strengths and weaknesses, while also providing fuel for creative roleplay. Oddities have a permanent passive effect on the character; they may boost skill sets, but may come at a cost of Health detriments (or the other way around).
 
 * **Skills** are learned abilities that a character possesses. These are what a character knows how to do.
+
