@@ -1,11 +1,11 @@
 # Character Creation #
-It is great to sit down to a game with well-written characters. It is even better when the character's attributes and abilities are reflected in the story. Many players and game masters take pride in designing the characters and adventures they play, from the environment and backstory to appearance, to attitude and social disposition. They create interesting characters with compelling and intriguing lives. In these stories the characters are center stage and the Game Master is the guide.
+It is great to sit down to play a game with well-written characters. It is even better when the character's attributes and abilities are reflected in the story. Many players and game masters take pride in designing the characters and adventures they play, from the environment and backstory to appearance, to attitude and social disposition. They create interesting characters with compelling and intriguing lives. In these stories the characters are center stage and the Game Master is the guide.
 
 ## Starting Points ##
 Every character, whether it is the Player or NPC, has starting points. These are the points that you will spend on Oddities and Skills. In order to be ready for the game, the sum of the points spent on Oddities and the character's Skills points must equal the sum of the Starting primary attribute Points for your character. The ability to sum and balance the character sheet is one feature that lends itself to translating the CCARPS system into other forms of media such as video games. A character's starting points are equal to the sum of the character's primary attributes.
 
 ### Starting Age ###
-Starting Types are used to help add variety to the group's characters, where age and past experience is taken into account. This can help add depth and a sense of connection between characters, their past, and their place in the game world. The first step is to find out how many dice to roll. This is dictated by your age, and can be found in the Starting Age table below. 
+Starting Age is used to help add variety to the group's characters, where physical growth and past experience are taken into account. A character's starting age adds depth and a sense of connection between the character, their past, and their place in the game world. The first step in character creation is to choose the character's starting age. Second step is to find the character's starting age on the Starting Age Table to determine how many dice to roll for each attribute.
 
 Starting Age (in Years):
 
@@ -13,9 +13,9 @@ Starting Age (in Years):
 * 16-20: 4d (Max points: 120)
 * 11-15: 3d (Max points: 90)
 * 6-10: 2d (Max points: 60)
-* < 6: 1d (Max points: 30)
+* 0-6: 1d (Max points: 30)
 
-The second step is rolling your character's Primary Attributes. In general players roll five sets of dice according to the age chart and record each set in one of the primary attribute boxes.
+The third step is rolling your character's Primary Attributes. In general players roll five sets of dice according to the Starting Age Table and record each set in one of the primary attribute boxes. 
 
 ### Character Rank ###
 Character rank is the sum of the character's Primary Attributes.
@@ -27,59 +27,63 @@ Character rank is the sum of the character's Primary Attributes.
 * Epic: 135 points
 * Legendary: 150 points
 
-*Note:* If a Game Master wants to boost characters, they can add extra rolls to replace lower rolls and increase the total number attribute points, or provide a number of points that the player may distribute to boost their stats to more closely match the level of the adventure.
+*Note:* If a Game Master wants to boost characters, they can add extra rolls to replace lower rolls, increasing the total number attribute points, or provide a number of points that the player may distribute to boost their stats to more closely match the level of the adventure. *See Character Creation Conventions at the end of this section for alternate methods of rolling up characters.*
 
 ## Primary Attributes ##
 *CCARPS* characters have five Primary Attributes:
 
-* **Strength** (S): Capable of producing and/or withstanding great physical force.  
+* **Strength** (S): Capability of producing and/or withstanding great physical force.
 
-* **Dexterity** (D): Skill in performing tasks, especially with the hands.  
+* **Dexterity** (D): Skill in performing tasks, especially with the hands.
 
-* **Constitution** (C): A person's physique or temperament; the general health of a person.  
+* **Constitution** (C): A person's physique or temperament; the general health of a person.
 
-* **Intelligence** (I): The faculty of thinking, judging, abstract reasoning, and conceptual understanding.  
+* **Intelligence** (I): The faculty of thinking, judging, abstract reasoning, and conceptual understanding.
 
 * **Willpower** (W): The unwavering strength of will (intention, desire) to carry out one’s wishes.
 
 
 ## Secondary Attributes ##
-The secondary attributes are average combinations of the primary attributes. Skills are based on these.
+The secondary attributes are average combinations of the primary attributesrounded to the nearest whole number. Once the secondary attribute base is calculated use the skill modifier table to determine the secondary attribute modifier. Skills are based on secondary attributes as are any action rolls where a character does not have a related skill. 
+
+*Note:* Unskilled action rolls always use 2d, are limited to simple actions, are immune to critical success and failure, and are subject to a -6 situational modifier. Characters may not use the unskilled action rule to perform complex actions. A Complex Action is any action that is composed of two or more steps. *Complex Action example: knocking an arrow, drawing, aming, and firing a bow. This would require 4 separate dice rolls under the unskilled action rule. To successfully fire the arrow, the character would have to succeed on all of the rolls for the steps of the complex action. A failed roll would cause the character to start the whole process over from the beginning.*
 
 * **Charisma** (CHA): Personal charm or magnetism, as determined by the health, intelligence, and will of the character.
-Average of Constitution, Intelligence, and Willpower. (C + I + W) / 3  
+Average of Constitution, Intelligence, and Willpower. (C + I + W) / 3 (rounded)
 
-* **Speed** (SPD): The rate of motion or action.  
-Average of Strength and Dexterity. (S + D) / 2  
+* **Speed** (SPD): The rate of motion or action.
+Average of Strength and Dexterity. (S + D) / 2 (rounded)
 
-* **Reflex** (RFX): An automatic response to a simple stimulus which does not require mental processing.  
-Average of Strength, Dexterity, and Willpower. (S + D + W) / 3  
+* **Reflex** (RFX): An automatic response to a simple stimulus which does not require mental processing.
+Average of Strength, Dexterity, and Willpower. (S + D + W) / 3 (rounded)
 
-* **Lift** (LFT): To exert the strength for raising or bearing.  
-Average of Strength and Willpower. (S + W) / 2  
+* **Lift** (LFT): To exert the strength for raising or bearing.
+Average of Strength and Willpower. (S + W) / 2 (rounded)
 
-* **Perception** (PER): Conscious understanding of something; to be aware of.  
-Average of Intelligence and Willpower. (I + W) / 2
+* **Perception** (PER): Conscious understanding of something; to be aware of.
+Average of Intelligence and Willpower. (I + W) / 2 (rounded)
 
 ## Oddities ##
-These may only be taken at character creation. They are used to gain advantages and to make trade off's to provide flexibility and role-play interest in character options, or to add "character" to your characters. Your Game Master may modify a character's Oddities based on role-play events or extraordinary situations. Oddities may make permanent Health changes based on its logical description (or Game Master's discretion).
+Oddities may only be taken at character creation. Oddities are used to gain advantages and to make trade off's to provide flexibility and role-play interest in character options, in other words, Oddities add "character" to your characters. Your Game Master may modify a character's Oddities based on role-play events or extraordinary situations. Oddities may make permanent Health changes based on the description of the oddity, or Game Master's discretion.
 
-The general rule with Oddities is that each Oddity must have a cost to its benefit.
+The general rule with Oddities is that each Oddity must have a balanced cost and benefit. Some oddities have a positive effect and cost points, while others have a negative effect and give points. Use your best judgement when selecting oddities for your character, but be reasonable a character with too many oddities or conflicting oddities can be difficult or impossible to role-play accurately.
 
 ### Basic Oddities ###
 During character creation, there are two Oddities that are reccomended. These are **Wealth** and **Social Influence**. There are no Modifiers with these; instead, they help give characters some "roots" into the game world. If no *Wealth* or *Social Influence* is taken, it is assumed they are Middle Class with no contacts out of the ordinary.
 
-**Wealth** is a measure of a characters accumulation of material value, including things such as property (home, car, horses), finery (cloths, tools, weapons), ect. and defines the starting currency amount according to the wealth table. The points spent or given are meant to represent the character's perception of wealth and their ability to move in social circles. A person raised with a filthy rich lifestyle would stand out like a sore thumb on skid row, just as a dirt poor person would at a country club.
+**Wealth** is a measure of a character's accumulation of material value, including things such as property (home, car, horses), finery (cloths, tools, weapons), ect. and defines the character's starting currency according to the Wealth Table. The points spent or given are meant to represent the character's perception of wealth and their ability to move in social circles. A person raised with a filthy rich lifestyle would stand out like a sore thumb on skid row, just as a dirt poor person would at a country club.
 
                 Wealth Table
-* Point Cost      Standing        Starting Currency
-* -25             Dirt Poor       5d x 1
-* -15             Lower Class     5d x 10
-* 0               Middle Class    5d x 100
-* 15              Upper Class     5d x 1,000
-* 25              Filthy Rich     5d x 10,000
+---------------------------------------------
+Point Cost   Standing       Starting Currency
+---------------------------------------------
+-25          Dirt Poor         5d x 1
+-15          Lower Class       5d x 10
+  0          Middle Class      5d x 100
+ 15          Upper Class       5d x 1,000
+ 25          Filthy Rich       5d x 10,000
 
-**Social Influence** is measured by the number of people you have in your contact list, and the quality of the contact relationship eg. An Acquaintance (a low quality contact) will accept your call and listen to your request, they may even provide information if asked the right question but the information has a 50% chance of being inaccurate. A Friend (an average contact) is like a good friend, you can trust them to tell you what they know but they have limited access to high level information, and generally will not get into harms way for you. A Confidant (a high quality contact) will have good access to information and be trustworthy and reliable and will defend you at his or her own risk up to but not including risk of his or her own life. Conversely you can choose contacts that are detramental to your character. eg. the Antagonist is most often hyper competative in all your dealings and may even enjoy seeing you struggle through a problem they coaxed or goaded your character into. A Nemesis will actively seek ways to interfere with your character and their dealings up to but not limited to setting you up for a major setback or even your hapenstance death. An Arch-Nemesis is the most dangerous type of contact the Arch-nemesis will actively plot your demise often in the most diabolical way. By default, you can only take *three* contacts and you cannot spend or receive more than 15 points in total unless the Game Master says otherwise.
+**Social Influence** is measured by the number of people you have in your contact list, and the quality of the contact relationship eg. An Acquaintance (a low quality contact) will accept your call and listen to your request, they may even provide information if asked the right question but the information has a 50% chance of being inaccurate. A Friend (an average contact) is like a good friend, you can trust them to tell you what they know but they have limited access to high level information, and generally will not get into harms way for you. A Confidant (a high quality contact) will have good access to information and be trustworthy and reliable and will defend you at his or her own risk up to but not including risk of his or her own life. Conversely you can choose contacts that are detramental to your character. eg. the Antagonist is most often hyper competative in all your dealings and may even enjoy seeing your character struggle through a problem they coaxed or goaded your character into. A Nemesis will actively seek ways to interfere with your character and their dealings up to but not limited to setting you up for a major setback or even your hapenstance death. An Arch-Nemesis is the most dangerous type of contact the Arch-nemesis will actively plot your character's demise often in the most diabolical way. At character creation your character can take a maximum of *three* contacts and your character cannot spend or receive more than 15 points in total unless the Game Master says otherwise.
 
 * -15 points: Arch-nemesis
 * -10 points: Nemesis
@@ -95,6 +99,23 @@ Skills determine what your character can do as well as what they know. Adding on
 Each skill has an Attribute associated with it. These attributes are skill requirements; no skill may have points that are greater than the associated attribute's modifier. For example, if your Charisma Modifier is +2, you cannot have more than 2 points in your Reading skill at character creation.
 
 Before a character can attempt to use a skill they must apply at least one point to it for it to be useful. Trying to use a skill without any proficiency has a base Modifier of -8 plus the modifier of the ruling Attribute. This makes it possible to attempt a an unskilled action in non-stressful situations. It becomes near impossible when under stress, such as during combat or while moderately injured.
+
+### Basic Skill List ###
+
+**Acrobatics (RFX)** The performance of extrordinary feats of balance, agility, and motor coordination. Diving, walking on a tight rope or balance beam, swinging on a trapeze, etc.
+
+**Acting (CHA)** The work of an actor or actress, which is a person in thetre, television, film, or any other story telling medium who tells the story by portraying a character and, usually, speaking or singing the written text or play.
+
+**Brawling (LFT)** Basic unarmed, untrained combat.
+* Punch apply brawling Modifier
+* Kick apply brawling Modifier -1
+* Grab, graple, or throw apply brawling Modifier -2 
+
+**Lock Picking (PER)** The craft of unlocking a lock by analyzing and manipulating the components of the lock divice without the original key.
+
+**Swimming (SPD)** The ability to propel ones self through water (or other liquid-like surfaces) by natural means, without the aid of a solid surface or object.
+
+*See world content supplement for world specific skills*
 
 ![Modifier Table](images/Modifier_Table.png)
 
@@ -115,10 +136,11 @@ The appearance of a given character is generally up to the player. However, it i
 ## Character Background ##
 This is pretty much open to player creativity. Background story can go a long way toward identifying a character's habits of mind, body, and spirit. This can aid the player in making good believable decisions and greatly enhance the role play experience as well as add to the group dynamics. So put some thought into this part, make it interesting and be creative. The character's *Disposition* is a great thing to keep in mind when writing their story. See *Disposition* section for more information.
 
-## Improving Your Character ##
+# Improving Your Character #
 Points are earned through adventuring. As a general rule, each player should earn an average of between 10-15 points per session that they actively roleplay. Commonly points can be earned by: performing an action that directly furthers the plot; rolling a *Critical Success* on a plot-related action; performing an action that helps the group at great risk to self; remaining in character when there is a great pressure to break the fourth wall, etc. It is up to the Game Master, how many points each character receives, and when. Character teams that work together to deliberately coordinate their actions to further the plot (without having hints given by the Game Master) generally obtain more points than ones that are always squabbling.
 
-**Point assignment:** Points must be assigned within the session they are given; points cannot be stored up. At the beginning of any session where a character has unassigned points, those points must be assigned to a Skill or into an Attribute accumulator before play begins.
+## Point assignment ## 
+Points must be assigned within the session they are given; points cannot be stored up. At the beginning of any session where a character has unassigned points, those points must be assigned to a Skill or into an Attribute accumulator before play begins.
 
 Once points are assigned to a skill they may not be moved or re-assigned. Skills are increased by adding points to them. Modifier bonuses are gained according to the Modifier Table (see *Modifier Table* ). The maximum points a Skill can have is 36. New Skills can be learned through a trainer, reading the appropriate book, or similar learning adventures. Even when learning a new Skill this way, one must use the points given during that session. For example:
 
