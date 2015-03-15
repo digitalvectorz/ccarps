@@ -9,16 +9,16 @@ Starting Age is used to help add variety to the group's characters, where physic
 
 Starting Age (in Years):
 
-* 21+: 5d (Max points: 150)
-* 16-20: 4d (Max points: 120)
-* 11-15: 3d (Max points: 90)
-* 6-10: 2d (Max points: 60)
-* 0-6: 1d (Max points: 30)
+* 21+: 5d 
+* 16-20: 4d 
+* 11-15: 3d 
+* 6-10: 2d 
+* 0-6: 1d 
 
-The third step is rolling your character's Primary Attributes. In general players roll five sets of dice according to the Starting Age Table and record each set in one of the primary attribute boxes. 
+The third step is rolling your character's Primary Attributes. In general players roll five sets of dice according to the Starting Age Table and record each set in one of the primary attribute boxes. The primary attributes each have two boxes associated with them. The Accumulator box, and the Points box. The Accumulator box is used for storing adventure points during game play and is labeled Acc. *see Improving Your Character* for more information. The Points box, labeled Pts., is used to record the initial values for the character's primary attributes.
 
 ### Character Rank ###
-Character rank is the sum of the character's Primary Attributes.
+Character rank is the sum of the character's Primary Attributes. After the player has rolled the character's primary attributes he or she willl sum all of the primary attributes together and use this table to determine the starting rank of their character. 
 
 * Beginner: 75 points
 * Novice: 90 points
@@ -27,7 +27,7 @@ Character rank is the sum of the character's Primary Attributes.
 * Epic: 135 points
 * Legendary: 150 points
 
-*Note:* If a Game Master wants to boost characters, they can add extra rolls to replace lower rolls, increasing the total number attribute points, or provide a number of points that the player may distribute to boost their stats to more closely match the level of the adventure. *See Character Creation Conventions at the end of this section for alternate methods of rolling up characters.*
+*Game Master Note:* If you want to boost characters rank, have the players roll extra dice sets to replace lower rolls, or have players re-roll all ones when rolling primary attributes to increase the total value for attribute points. Alternatively, the Game Master can assign a number of points that the player may distribute to boost their stats to more closely match the rank required by the adventure. *See Character Creation Conventions at the end of this section for alternate methods of rolling up characters.*
 
 ## Primary Attributes ##
 *CCARPS* characters have five Primary Attributes:
@@ -93,6 +93,8 @@ During character creation, there are two Oddities that are reccomended. These ar
 * 10 points: Friend
 * 15 points: Confidant
 
+*Player Note* Further oddities can be found in the world content framework, and in the world content for the adventure you are playing. 
+
 ## Skills ##
 Skills determine what your character can do as well as what they know. Adding one point to a skill is the equivalent of the character experimenting with new ideas, or reading a basic instruction manual, or taking an introductory lesson from one who knows the skill at an advanced level (or higher). This gives the character the ability to use the skill with no special proficiency (and without a super low modifier). 
 
@@ -131,10 +133,10 @@ The conventions used to roll up characters for your adventure will influence the
 Wealth and Influence count as Oddities so they will each take up a slot if they are taken. If they are not taken wealth will only be used to determine your starting currency, and Social influence will have no effect on your character.
 
 ## Character Appearance ##
-The appearance of a given character is generally up to the player. However, it is a good idea to use character Attributes, Oddities, and Skills as guidelines. The range of possible values in a base Attribute is 5 to 30 for an adult character (21 years or older). Just as a person with an Intelligence of 5 would be seen as an imbecile, a person with 5 in Charisma would be a rather unlikeable fellow. It would be unusual for a character who is perceived to be strong to have low Strength. It should be noted that CCARPS characters range the average Human height: between 4' 6" to 7". Any other heights are up to the Game Master.
+The appearance of a given character is generally up to the player. However, it is a good idea to use character Attributes, Oddities, and Skills as guidelines. The range of possible values in a base Attribute is 5 to 30 for an adult character (21 years or older). Just as a person with an Intelligence of 5 would be seen as an imbecile, a person with 5 in Charisma would be a rather unlikeable fellow. It would be unusual for a character who is perceived to be strong to have low Strength. It should be noted that CCARPS characters range the average Human height: from 4 feet 6 inches to 7 feet. Any other heights are up to the Game Master.
 
 ## Character Background ##
-This is pretty much open to player creativity. Background story can go a long way toward identifying a character's habits of mind, body, and spirit. This can aid the player in making good believable decisions and greatly enhance the role play experience as well as add to the group dynamics. So put some thought into this part, make it interesting and be creative. The character's *Disposition* is a great thing to keep in mind when writing their story. See *Disposition* section for more information.
+This is pretty much open to player creativity. Background story can go a long way toward identifying a character's habits of mind, body, and spirit. This can aid the player in making good believable decisions and greatly enhance the role play experience as well as add to the group dynamics so put some thought into this part. Take this opportunity to be creative and make your character interesting. The character's *Disposition* is a great thing to keep in mind when writing their story. See *Disposition* section for more information. Also you may want to give some thought to the world your character exists in, this will help you to fit in and guide you in role playing your character.
 
 # Improving Your Character #
 Points are earned through adventuring. As a general rule, each player should earn an average of between 10-15 points per session that they actively roleplay. Commonly points can be earned by: performing an action that directly furthers the plot; rolling a *Critical Success* on a plot-related action; performing an action that helps the group at great risk to self; remaining in character when there is a great pressure to break the fourth wall, etc. It is up to the Game Master, how many points each character receives, and when. Character teams that work together to deliberately coordinate their actions to further the plot (without having hints given by the Game Master) generally obtain more points than ones that are always squabbling.
