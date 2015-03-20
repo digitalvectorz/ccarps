@@ -7,7 +7,7 @@ Every character, whether it is the Player or NPC, has starting points. These are
 ### Starting Age ###
 Starting Age is used to help add variety to the group's characters, where physical growth and past experience are taken into account. A character's starting age adds depth and a sense of connection between the character, their past, and their place in the game world. The first step in character creation is to choose the character's starting age. Second step is to find the character's starting age on the Starting Age Table to determine how many dice to roll for each attribute.
 
-!(Starting Age in Years)[images/Starting_Age.png]
+![Starting Age in Years](images/Starting_Age.png)
 
 The third step is rolling your character's Primary Attributes. In general players roll five sets of dice according to the Starting Age Table and record each set in one of the primary attribute boxes. The primary attributes each have two boxes associated with them. The Accumulator box, and the Points box. The Accumulator box is used for storing adventure points during game play and is labeled Acc. *see Improving Your Character* for more information. The Points box, labeled Pts., is used to record the initial values for the character's primary attributes.
 
