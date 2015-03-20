@@ -101,10 +101,10 @@ Spiritual Health is the most difficult to regain. Each point of Spiritual damage
 ## Hit Location Chart ##
 When a player designates a target and launches a projectile, the player must roll below the modified target number in order to hit. if the player rolls above the target number the projectile completely misses.
 
+![Hit Locations](images/Hit_Locations.png)
+
 ### Shot from the Hip ###
 In the case of a hit without a called shot, the gm rolls two hit dice to determine where the projectile hits the target. The values for a humanoid target of each area of the body are as follows:
-
-![Hit Locations](images/Hit_Locations.png)
 
 ### Called Shot Miss ###
 When a player designates an area to hit on a target, the player must roll below the modified target number to hit. if the player's roll is equal to or greater than the modified target number the players shot will miss. As you may have guessed, this is where Sir Issaic's first law comes in: "An object in motion tends to stay in motion", etc. etc. so that thing; fist, arrow, bullet must go somewhere. The following chart and 1d6 will help you figure out what force will cancel the motion of the object.
