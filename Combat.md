@@ -85,14 +85,7 @@ When a character reaches the first box on a given meter that character will take
 ### Collateral Damage ###
 In the case that a player misses an attack, the Game Master rolls to hit all logically available targets, once for each possible target.
 
-	Collateral Damage Table
-	-----------------------
-	Skill Category	# Dice
-	-----------------------
-	Beginner			5
-	Novice				4
-	Advanced			3
-	Master				2
+![Collateral Damage](images/Collateral_Damage.png)
 
 ### Damage Recovery ###
 Mental Health heals over time; Physical Health heals with medical attention; Spiritual Health requires an act of faith, affirmation, or some other type of belief, to heal.
@@ -108,18 +101,10 @@ Spiritual Health is the most difficult to regain. Each point of Spiritual damage
 ## Hit Location Chart ##
 When a player designates a target and launches a projectile, the player must roll below the modified target number in order to hit. if the player rolls above the target number the projectile completely misses.
 
+![Hit Locations](images/Hit_Locations.png)
+
 ### Shot from the Hip ###
 In the case of a hit without a called shot, the gm rolls two hit dice to determine where the projectile hits the target. The values for a humanoid target of each area of the body are as follows:
-
-	Roll  | Area of Impact
-	-----------------------------------
-	2     | Head
-	3-4   | Chest / Upper back
-	5-7   | Abdomen / Lower back
-	8-9   | Leg
-	10-11 | Arm
-	12    | Neck, buttocks/ass, groin
-	-----------------------------------
 
 ### Called Shot Miss ###
 When a player designates an area to hit on a target, the player must roll below the modified target number to hit. if the player's roll is equal to or greater than the modified target number the players shot will miss. As you may have guessed, this is where Sir Issaic's first law comes in: "An object in motion tends to stay in motion", etc. etc. so that thing; fist, arrow, bullet must go somewhere. The following chart and 1d6 will help you figure out what force will cancel the motion of the object.
@@ -131,22 +116,9 @@ In the case of a *Critical Fail*, we have a *Ring of Fail*. To use the ring of f
 
 ## Height-based Modifiers ##
 
-	Height Modifier chart
-	------------------------------------
-	Base height: 6ft or 2m 
-	Large defend vs. Small	| 7 - 3 =  4
-	Small defend vs. Large 	| 3 - 7 = -4
-	------------------------------------
+Height modifiers are calculated by taking the Opposing Character's Height (rounded) in feet and subtracting the Active Character's height (rounded) in feet. For example, if the Active Character is 7 feet tall and the Opposing Character is 3, the Active Character will have a -4 Modifier to hit and a +4 Modifier to damage. However, when the Opposing Character becomes Active, they will have a +4 Modifier to hit and a -4 Modifier to damage. This helps prevent giant characters from always being able to hit tiny characters as if they were equal in height.
 
-
-		  To Hit
-	------------------
-	Tiny	|	2-3ft
-	Small	|	4-5ft
-	normal	|	6-7
-	large	|	8-9
-	giant	|	10 >
-	------------------
+![Target Size Chart](images/Target_Size.png)
 
 ## Dodge, Block, Parry ##
 * *Defender's Rule:* Dodge is to evade an attack avoiding all damage on success.

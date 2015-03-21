@@ -7,13 +7,7 @@ Every character, whether it is the Player or NPC, has starting points. These are
 ### Starting Age ###
 Starting Age is used to help add variety to the group's characters, where physical growth and past experience are taken into account. A character's starting age adds depth and a sense of connection between the character, their past, and their place in the game world. The first step in character creation is to choose the character's starting age. Second step is to find the character's starting age on the Starting Age Table to determine how many dice to roll for each attribute.
 
-Starting Age (in Years):
-
-* 21+: 5d 
-* 16-20: 4d 
-* 11-15: 3d 
-* 6-10: 2d 
-* 0-6: 1d 
+![Starting Age in Years](images/Starting_Dice.png)
 
 The third step is rolling your character's Primary Attributes. In general players roll five sets of dice according to the Starting Age Table and record each set in one of the primary attribute boxes. The primary attributes each have two boxes associated with them. The Accumulator box, and the Points box. The Accumulator box is used for storing adventure points during game play and is labeled Acc. *see Improving Your Character* for more information. The Points box, labeled Pts., is used to record the initial values for the character's primary attributes.
 
@@ -41,7 +35,6 @@ Character rank is the sum of the character's Primary Attributes. After the playe
 * **Intelligence** (I): The faculty of thinking, judging, abstract reasoning, and conceptual understanding.
 
 * **Willpower** (W): The unwavering strength of will (intention, desire) to carry out one’s wishes.
-
 
 ## Secondary Attributes ##
 The secondary attributes are average combinations of the primary attributesrounded to the nearest whole number. Once the secondary attribute base is calculated use the skill modifier table to determine the secondary attribute modifier. Skills are based on secondary attributes as are any action rolls where a character does not have a related skill. 
@@ -73,15 +66,7 @@ During character creation, there are two Oddities that are reccomended. These ar
 
 **Wealth** is a measure of a character's accumulation of material value, including things such as property (home, car, horses), finery (cloths, tools, weapons), ect. and defines the character's starting currency according to the Wealth Table. The points spent or given are meant to represent the character's perception of wealth and their ability to move in social circles. A person raised with a filthy rich lifestyle would stand out like a sore thumb on skid row, just as a dirt poor person would at a country club.
 
-				Wealth Table
-	-----------------------------------
-	Points	Standing		Currency
-	-----------------------------------
-	-25		Dirt Poor		5d x 1
-	-15		Lower Class		5d x 10
-	  0		Middle Class	5d x 100
-	 15		Upper Class		5d x 1,000
-	 25		Filthy Rich		5d x 10,000
+![Wealth and Standing](images/Wealth_and_Standing.png)
 
 **Social Influence** is measured by the number of people you have in your contact list, and the quality of the contact relationship eg. An Acquaintance (a low quality contact) will accept your call and listen to your request, they may even provide information if asked the right question but the information has a 50% chance of being inaccurate. A Friend (an average contact) is like a good friend, you can trust them to tell you what they know but they have limited access to high level information, and generally will not get into harms way for you. A Confidant (a high quality contact) will have good access to information and be trustworthy and reliable and will defend you at his or her own risk up to but not including risk of his or her own life. Conversely you can choose contacts that are detramental to your character. eg. the Antagonist is most often hyper competative in all your dealings and may even enjoy seeing your character struggle through a problem they coaxed or goaded your character into. A Nemesis will actively seek ways to interfere with your character and their dealings up to but not limited to setting you up for a major setback or even your hapenstance death. An Arch-Nemesis is the most dangerous type of contact the Arch-nemesis will actively plot your character's demise often in the most diabolical way. At character creation your character can take a maximum of *three* contacts and your character cannot spend or receive more than 15 points in total unless the Game Master says otherwise.
 
