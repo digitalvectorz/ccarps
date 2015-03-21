@@ -116,7 +116,7 @@ In the case of a *Critical Fail*, we have a *Ring of Fail*. To use the ring of f
 
 ## Height-based Modifiers ##
 
-Height modifiers are calculated by taking the Opposing Character's Height (rounded) in feet and subtracting the Active Character's height (rounded) in feet. For example, if the Active Character is 7 feet tall and the Opposing Character is 3, the Active Character will have a -4 Modifier to hit. However, when the Opposing Character becomes Active, they will have a +4 Modifier. This helps prevent giant characters from always being able to hit tiny characters as if they were equal in height.
+Height modifiers are calculated by taking the Opposing Character's Height (rounded) in feet and subtracting the Active Character's height (rounded) in feet. For example, if the Active Character is 7 feet tall and the Opposing Character is 3, the Active Character will have a -4 Modifier to hit and a +4 Modifier to damage. However, when the Opposing Character becomes Active, they will have a +4 Modifier to hit and a -4 Modifier to damage. This helps prevent giant characters from always being able to hit tiny characters as if they were equal in height.
 
 ![Target Size Chart](images/Target_Size.png)
 
