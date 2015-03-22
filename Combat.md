@@ -75,16 +75,11 @@ Physical damage comes primarily from physical attacks, but can also be caused by
 Spiritual damage is primarily caused by attacks of wit (interrogation, debate, etc.), but can also come from energy-based attacks. Physical Health damage overflow fills here.
 
 ### Damage Levels ###
-Damage is represented by three sets of ten boxes. When a character reaches the first box on a given meter, that character will take a -1 penalty to all Target Numbers. At the third box the character takes a -2 to all Target Numbers. At the sixth box the character takes a -3 to all target numbers.
+Damage is represented by three sets of ten boxes. Each damage type (as mentioned above) has its own *Damage Meter Bar*. Damage levels are separated into **Light**, **Moderate**, **Serious**, and **Deadly**. When a character reaches the first box on a given meter, that character will take a -1 penalty to all Target Numbers. At the third box the character takes a -2 to all Target Numbers. At the sixth box the character takes a -3 to all target numbers.
 
-These penalties are cumulative; if a character has registered three physical and six mental damage the total penalty will be -1 + -2 + -3 for the mental damage plus -1 + -2 for a total penalty of -9. These penalties will remain until the damage is healed below the given level.
+These penalties are cumulative. If a character has registered three physical and six mental damage the total penalty will be -1 + -2 + -3 for the mental damage plus -1 + -2 for a total penalty of -9. These penalties will remain until the damage is healed below the given level.
 
 ![Damage Meter Bar](images/Damage_Meter.png)
-
-* Light: 1 box
-* Moderate: 5 boxes
-* Serious: 8 boxes
-* Deadly: 10 boxes 
 
 ### Collateral Damage ###
 In the case that a player misses an attack, the Game Master rolls to hit all logically available targets, once for each possible target.
