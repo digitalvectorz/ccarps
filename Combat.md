@@ -118,7 +118,7 @@ Imagine a circle cut into 6 slices overlaid on the target with its center point 
 ### Critical Fail Wheel ###
 In the case of a *Critical Fail*, we have a *Critical Fail Wheel*. The Active Character is in the middle of the wheel (as shown below) and any nearby characters, both friendly and enemy, will fall within a certain number. The Active Character rolls 2d, with the sum being the direction in which their action went. This works for both ranged and melee combat.
 
-![Critical Fail Wheel](images/Critical_Fail_Wheel)
+![Critical Fail Wheel](images/Critical_Fail_Wheel.png)
 
 ## Height-based Modifiers ##
 
