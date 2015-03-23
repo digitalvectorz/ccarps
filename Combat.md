@@ -75,12 +75,11 @@ Physical damage comes primarily from physical attacks, but can also be caused by
 Spiritual damage is primarily caused by attacks of wit (interrogation, debate, etc.), but can also come from energy-based attacks. Physical Health damage overflow fills here.
 
 ### Damage Levels ###
-* Light = one box
-* Moderate = five boxes
-* Serious = eight boxes
-* Deadly = ten boxes 
+Damage is represented by three sets of ten boxes. Each damage type (as mentioned above) has its own *Damage Meter Bar*. Damage levels are separated into **Light**, **Moderate**, **Serious**, and **Deadly**. When a character reaches the first box on a given meter, that character will take a -1 penalty to all Target Numbers. At the third box the character takes a -2 to all Target Numbers. At the sixth box the character takes a -3 to all target numbers.
 
-When a character reaches the first box on a given meter that character will take a -1 penalty to all target numbers. At the third box the character takes a -2 to all target numbers. At the sixth box the character takes a -3 to all target numbers. These penalties are cumulative; if a character has registered three physical and six mental damage the total penalty will be -1 + -2 + -3 for the mental damage plus -1 + -2 for a total penalty of -9. These penalties will remain until the damage is healed below the given level.
+These penalties are cumulative. If a character has registered three physical and six mental damage the total penalty will be -1 + -2 + -3 for the mental damage plus -1 + -2 for a total penalty of -9. These penalties will remain until the damage is healed below the given level.
+
+![Damage Meter Bar](images/Damage_Meter.png)
 
 ### Collateral Damage ###
 In the case that a player misses an attack, the Game Master rolls to hit all logically available targets, once for each possible target.
@@ -111,8 +110,10 @@ When a player designates an area to hit on a target, the player must roll below 
 
 Imagine a circle cut into 6 slices overlaid on the target with its center point on the called location. Now roll 1d and count the pie slices clockwise from the top to determine which direction the miss took. Use the difference between the Modified Target Number and the player's roll to determine the magnitude (in whatever units seem appropriate) for the situation. Then, let Sir Isaac prove his stuff by knocking the F out of the projectile, and into the unintended location. Newton's Second Law is "the relationship Force equals mass times acceleration (F = m * a). The creativity gets going when applying Newton's Third Law: "To every action there is always opposed an equal reaction."
 
-### Ring of Fail ###
-In the case of a *Critical Fail*, we have a *Ring of Fail*. To use the ring of fail, orient the 12-segmented circle such that the number 1 position aligns with the intended target. The points are arrange das follows, 2 is a little left (-30 deg), 3 is a little right (30 deg), 4 is a lot left (-60 deg), 5 is a lot right (60 deg), 6 is way left (-90 deg), 7 is way right (90 deg), 8 is not quite sure how you got that far left (-120 deg), 9 is not quite sure how you got that far right (120 deg), 10 is how the hell did you get that far left? (-150 deg), 11 is How the hell did you get that far right? (150 deg), 12 is now that's bloody impossible (180 deg).
+### Critical Fail Wheel ###
+In the case of a *Critical Fail*, we have a *Critical Fail Wheel*. The Active Character is in the middle of the wheel (as shown below) and any nearby characters, both friendly and enemy, will fall within a certain number. The Active Character rolls 2d, with the sum being the direction in which their action went. This works for both ranged and melee combat.
+
+![Critical Fail Wheel](images/Critical_Fail_Wheel.png)
 
 ## Height-based Modifiers ##
 
