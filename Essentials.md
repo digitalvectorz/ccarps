@@ -1,6 +1,8 @@
 # What is *CCARPS*? #
 Community Codex Adaptive RolePlay System, often referred to as its acronym, "*CCARPS*", is an open source ruleset licensed under Creative Commons Attribution Share-Alike. This system has been developed to promote storytelling within a minimal ruleset. We believe that the game should be about the characters so the rules shouldn't get in the way of the story. This is a Community Codex; players and developers alike can actively participate in the shaping and refinement of this rule system. It is adaptive; the base rules are meant to be a generic starting point that can support any style of gameplay and world. While the main goal is roleplay, the system is built in a character-centric way that can be used to power any type of gameplay that involves tracking player statistics.
 
+While the rules here are complete and you can play as-is, this is just the Base Ruleset. It is meant to be used alongside an existing game world and/or campaign. This means that we have not included any game content within these pages.
+
 # The Essentials #
 
 ## Players ##
@@ -59,4 +61,3 @@ The sum of a character's Attributes, Health, Oddities, and Skills, is referred t
 * **Oddities** are traits that are taken at character creation and provide a defining factor in a character's strengths and weaknesses, while also providing fuel for creative roleplay. Oddities have a permanent passive effect on the character; they may boost skill sets, but may come at a cost of Health detriments (or the other way around).
 
 * **Skills** are learned abilities that a character possesses. These are what a character knows how to do.
-
